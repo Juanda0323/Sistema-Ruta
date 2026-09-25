@@ -4,7 +4,7 @@ main.py - Sistema Inteligente de Ruteo en Transporte Masivo
 =============================================================
 
 Punto de entrada del sistema. Integra:
-  1) kb.py               -> base de conocimiento (hechos)
+  1)kb.py               -> base de conocimiento (hechos)
   2) motor_inferencia.py  -> reglas lógicas (construcción del grafo)
   3) busqueda.py          -> búsqueda heurística A* (mejor ruta)
 
@@ -19,10 +19,12 @@ MODO DE USO
 
 3) Listar todas las estaciones disponibles en la base de conocimiento:
        python main.py --listar
+
 """
 
 import sys
 from Hechos import HECHOS
+from Motor import construir_grafo, nodo_id
 
 
 def listar_estaciones():
@@ -68,7 +70,7 @@ def formatear_ruta(resultado):
 
 
 def ejecutar(origen, destino):
-    from busqueda import a_estrella  # import local para no romper --listar
+    from Busqueda import a_estrella  # import local para no romper --listar
 
     print(f"\nBuscando la mejor ruta entre '{origen}' y '{destino}' ...")
     grafo = construir_grafo(HECHOS)

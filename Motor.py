@@ -21,7 +21,7 @@ misma estación física (mismo nombre) puede pertenecer a varias líneas.
 """
 
 import math
-from kb import HECHOS, VELOCIDAD_COMERCIAL_KMH, PENALIZACION_TRANSBORDO_MIN
+from Hechos import HECHOS, VELOCIDAD_COMERCIAL_KMH, PENALIZACION_TRANSBORDO_MIN
 
 
 def nodo_id(nombre, linea):

@@ -22,8 +22,8 @@ comercial más optimista del sistema (nunca sobreestima el costo real).
 """
 
 import heapq
-from kb import HECHOS, VELOCIDAD_COMERCIAL_KMH
-from motor_inferencia import (
+from Hechos import HECHOS, VELOCIDAD_COMERCIAL_KMH
+from Motor import (
     construir_grafo,
     nodos_de_estacion,
     distancia_haversine_km,
