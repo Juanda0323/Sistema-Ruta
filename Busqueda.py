@@ -1,25 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-busqueda.py - Búsqueda heurística A* (capítulo 9: técnicas de búsqueda
-heurística)
 
-Implementa el algoritmo A* para encontrar la mejor ruta (menor tiempo
-estimado de viaje) entre una estación de origen (A) y una estación de
-destino (B), sobre el grafo que el motor de inferencia derivó a partir de
-las reglas lógicas.
-
-Como una misma estación física puede tener varios nodos (uno por línea),
-la búsqueda:
-  - parte simultáneamente de TODOS los nodos asociados al nombre de origen
-    (costo inicial 0 en cada uno, se entiende que el usuario ya está ahí).
-  - se detiene apenas alcanza CUALQUIER nodo cuyo nombre de estación
-    coincida con el destino.
-
-La heurística h(n) es una subestimación admisible del tiempo restante:
-la distancia en línea recta (Haversine) desde el nodo actual hasta la
-estación destino más cercana, convertida a minutos usando la velocidad
-comercial más optimista del sistema (nunca sobreestima el costo real).
-"""
 
 import heapq
 from Hechos import HECHOS, VELOCIDAD_COMERCIAL_KMH

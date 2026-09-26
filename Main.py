@@ -1,26 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-main.py - Sistema Inteligente de Ruteo en Transporte Masivo
-=============================================================
-
-Punto de entrada del sistema. Integra:
-  1)kb.py               -> base de conocimiento (hechos)
-  2) motor_inferencia.py  -> reglas lógicas (construcción del grafo)
-  3) busqueda.py          -> búsqueda heurística A* (mejor ruta)
-
-MODO DE USO
------------
-1) Modo interactivo (te pregunta la estación de origen y destino):
-       python main.py
-
-2) Modo por argumentos (útil para el video/demo, o para probar varias
-   rutas rápidamente):
-       python main.py "Portal Norte" "Portal Americas"
-
-3) Listar todas las estaciones disponibles en la base de conocimiento:
-       python main.py --listar
-
-"""
 
 import sys
 from Hechos import HECHOS
