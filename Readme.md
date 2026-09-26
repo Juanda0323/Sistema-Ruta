@@ -9,10 +9,10 @@ heurística (A\*)**.
 
 | Archivo               | Contenido                                              | Tema del libro guía          |
 |-----------------------|---------------------------------------------------------|-------------------------------|
-| `kb.py`                | Hechos: estaciones, líneas, orden, coordenadas          | Cap. 2 - Lógica y representación del conocimiento |
-| `motor_inferencia.py`  | Reglas lógicas (adyacencia y transbordo) + motor forward-chaining que construye el grafo | Cap. 3 - Sistemas basados en reglas |
-| `busqueda.py`          | Algoritmo A\* con heurística de distancia Haversine     | Cap. 9 - Técnicas basadas en búsquedas heurísticas |
-| `main.py`              | Interfaz de línea de comandos (integra todo lo anterior)| —                              |
+| `Hechos.py`           | Hechos: estaciones, líneas, orden, coordenadas          | Cap. 2 - Lógica y representación del conocimiento |
+| `Motor.py`            | Reglas lógicas (adyacencia y transbordo) + motor forward-chaining que construye el grafo | Cap. 3 - Sistemas basados en reglas |
+| `Busqueda.py`         | Algoritmo A\* con heurística de distancia Haversine     | Cap. 9 - Técnicas basadas en búsquedas heurísticas |
+| `Main.py`             | Interfaz de línea de comandos (integra todo lo anterior)| —                              |
 
 ## Requisitos
 
@@ -65,9 +65,9 @@ las reglas y el algoritmo de búsqueda son independientes de los datos.
 
 ## Cómo funciona internamente (resumen para el video/PDF)
 
-1. **Hechos** (`kb.py`): cada estación se declara como un hecho
+1. **Hechos** (`Hechos.py`): cada estación se declara como un hecho
    `(nombre, línea, orden, lat, lon)`.
-2. **Reglas lógicas** (`motor_inferencia.py`):
+2. **Reglas lógicas** (`Motor.py`):
    - *Regla de adyacencia*: si dos estaciones son consecutivas
      (`orden`, `orden+1`) dentro de la misma línea, quedan conectadas en
      ambos sentidos, con un costo en minutos calculado a partir de la
@@ -77,7 +77,7 @@ las reglas y el algoritmo de búsqueda son independientes de los datos.
      penalización fija de tiempo.
    - El **motor de inferencia** aplica ambas reglas sobre todos los hechos
      (encadenamiento hacia adelante) y arma el grafo completo del sistema.
-3. **Búsqueda heurística A\*** (`busqueda.py`): explora el grafo priorizando
+3. **Búsqueda heurística A\*** (`Busqueda.py`): explora el grafo priorizando
    los caminos con menor `f(n) = g(n) + h(n)`, donde `g(n)` es el tiempo
    real acumulado y `h(n)` es una estimación optimista (distancia en línea
    recta hasta el destino) que nunca sobreestima el costo real, garantizando
