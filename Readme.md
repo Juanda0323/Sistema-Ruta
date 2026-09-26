@@ -9,10 +9,10 @@ heurística (A\*)**.
 
 | Archivo               | Contenido                                              | Tema del libro guía          |
 |-----------------------|---------------------------------------------------------|-------------------------------|
-| `kb.py`                | Hechos: estaciones, líneas, orden, coordenadas          | Cap. 2 - Lógica y representación del conocimiento |
-| `motor_inferencia.py`  | Reglas lógicas (adyacencia y transbordo) + motor forward-chaining que construye el grafo | Cap. 3 - Sistemas basados en reglas |
-| `busqueda.py`          | Algoritmo A\* con heurística de distancia Haversine     | Cap. 9 - Técnicas basadas en búsquedas heurísticas |
-| `main.py`              | Interfaz de línea de comandos (integra todo lo anterior)| —                              |
+| `Hechos.py`                | Hechos: estaciones, líneas, orden, coordenadas          | Cap. 2 - Lógica y representación del conocimiento |
+| `Motor.py`  | Reglas lógicas (adyacencia y transbordo) + motor forward-chaining que construye el grafo | Cap. 3 - Sistemas basados en reglas |
+| `Busqueda.py`          | Algoritmo A\* con heurística de distancia Haversine     | Cap. 9 - Técnicas basadas en búsquedas heurísticas |
+| `Main.py`              | Interfaz de línea de comandos (integra todo lo anterior)| —                              |
 
 ## Requisitos
 
@@ -60,14 +60,14 @@ sistema de transporte (otra ciudad, otro conjunto de líneas), solo debes:
 3. (Opcional) Ajustar `VELOCIDAD_COMERCIAL_KMH` y
    `PENALIZACION_TRANSBORDO_MIN` a valores reales de tu sistema.
 
-No es necesario tocar `motor_inferencia.py`, `busqueda.py` ni `main.py`:
+No es necesario tocar `motor.py`, `busqueda.py` ni `main.py`:
 las reglas y el algoritmo de búsqueda son independientes de los datos.
 
 ## Cómo funciona internamente (resumen para el video/PDF)
 
-1. **Hechos** (`kb.py`): cada estación se declara como un hecho
+1. **Hechos** (`Hechos.py`): cada estación se declara como un hecho
    `(nombre, línea, orden, lat, lon)`.
-2. **Reglas lógicas** (`motor_inferencia.py`):
+2. **Reglas lógicas** (`motor.py`):
    - *Regla de adyacencia*: si dos estaciones son consecutivas
      (`orden`, `orden+1`) dentro de la misma línea, quedan conectadas en
      ambos sentidos, con un costo en minutos calculado a partir de la
@@ -87,14 +87,3 @@ las reglas y el algoritmo de búsqueda son independientes de los datos.
    usuario, y muestra la ruta resultante con sus tramos, transbordos y
    tiempo total estimado.
 
-## Pendientes de la actividad que este código NO cubre
-
-Este proyecto resuelve el **punto 3** de la guía (el sistema en Python).
-Recuerda que la actividad también pide:
-
-- Punto 4: grabar un video corto (máx. 10 min) explicando el proyecto, los
-  comandos ejecutados y los resultados obtenidos, con la participación de
-  todo el equipo.
-- Punto 5 / Entregable: subir el código a un repositorio Git/GitLab
-  (agregando al tutor como colaborador), y entregar un PDF con el enlace al
-  repositorio y las pruebas realizadas.

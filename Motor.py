@@ -1,24 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-motor_inferencia.py - Motor de reglas (Sistema Basado en Reglas)
-=================================================================
 
-Este módulo corresponde al capítulo 3 del libro de referencia (Sistemas
-basados en reglas). Aquí se implementan las REGLAS LÓGICAS que, aplicadas
-sobre los HECHOS de kb.py, permiten INFERIR el grafo de conexiones del
-sistema de transporte (encadenamiento hacia adelante / forward chaining).
-
-Regla 1 - Adyacencia dentro de una misma línea:
-    SI  estacion(X, L, N,  ...)  Y  estacion(Y, L, N+1, ...)
-    ENTONCES  conectado(X@L, Y@L, tiempo_tramo)   (bidireccional)
-
-Regla 2 - Transbordo entre líneas:
-    SI  estacion(X, L1, ...)  Y  estacion(X, L2, ...)  Y  L1 != L2
-    ENTONCES  conectado(X@L1, X@L2, tiempo_transbordo)
-
-Cada nodo del grafo resultante se identifica como "Nombre|Linea" porque una
-misma estación física (mismo nombre) puede pertenecer a varias líneas.
-"""
 
 import math
 from Hechos import HECHOS, VELOCIDAD_COMERCIAL_KMH, PENALIZACION_TRANSBORDO_MIN

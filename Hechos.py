@@ -1,37 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-kb.py - Base de Conocimiento (Hechos)
-======================================
 
-Aquí se declara el conocimiento del dominio como HECHOS (facts), tal como se
-plantea en el capítulo 2 (lógica y representación del conocimiento) del libro
-de referencia de la actividad.
-
-Cada hecho describe una estación que pertenece a una línea (troncal) del
-sistema de transporte masivo, en un orden determinado dentro de esa línea,
-con su posición geográfica aproximada (latitud, longitud).
-
-Nota importante:
------------------
-Los datos de este archivo son un ejemplo EDUCATIVO/simplificado inspirado en
-el sistema TransMilenio de Bogotá (nombres y coordenadas aproximadas de
-estaciones reales), NO son datos oficiales ni exactos. El objetivo es
-demostrar el funcionamiento del sistema inteligente. Puedes reemplazar estos
-hechos por los de tu propia ciudad o sistema de transporte sin cambiar el
-resto del código.
-
-Estructura de un hecho:
-    HechoEstacion(nombre, linea, orden, lat, lon)
-
-- nombre : nombre de la estación (una estación física puede aparecer en
-           varias líneas si es un punto de transbordo; en ese caso se repite
-           el mismo "nombre" en varios hechos con distinta "linea").
-- linea  : identificador de la línea/troncal a la que pertenece el hecho.
-- orden  : posición secuencial de la estación dentro de esa línea (se usa
-           para inferir, mediante una regla, qué estaciones son adyacentes).
-- lat/lon: coordenadas geográficas aproximadas (grados decimales), usadas
-           por la heurística de búsqueda (distancia en línea recta).
-"""
 
 from collections import namedtuple
 
