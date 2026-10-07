@@ -1,0 +1,2449 @@
+origen,destino,distancia_km,num_estaciones,num_transbordos,tiempo_base_min,franja_horaria,tipo_dia,lluvia,tiempo_real_min,nivel_retraso
+Av Jimenez,Banderas,7.406,4,0,27.32,pico_manana,habil,1,42.03,retraso_alto
+Av Jimenez,Banderas,7.406,4,0,27.32,pico_manana,habil,1,44.79,retraso_alto
+Av Jimenez,Banderas,7.406,4,0,27.32,noche,habil,0,27.21,puntual
+Av Jimenez,Banderas,7.406,4,0,27.32,pico_manana,habil,1,43.78,retraso_alto
+Av Jimenez,Banderas,7.406,4,0,27.32,noche,habil,0,22.75,puntual
+Av Jimenez,Banderas,7.406,4,0,27.32,pico_manana,habil,1,39.12,retraso_alto
+Av Jimenez,Banderas,7.406,4,0,27.32,noche,fin_semana,0,25.98,puntual
+Av Jimenez,Banderas,7.406,4,0,27.32,pico_tarde,habil,0,44.61,retraso_alto
+Av Jimenez,Calle 100,9.961,5,0,25.99,noche,habil,0,26.24,puntual
+Av Jimenez,Calle 100,9.961,5,0,25.99,pico_manana,fin_semana,1,33.09,retraso_moderado
+Av Jimenez,Calle 100,9.961,5,0,25.99,pico_manana,fin_semana,0,27.08,puntual
+Av Jimenez,Calle 100,9.961,5,0,25.99,pico_tarde,habil,1,39.83,retraso_alto
+Av Jimenez,Calle 100,9.961,5,0,25.99,pico_manana,habil,1,40.73,retraso_alto
+Av Jimenez,Calle 100,9.961,5,0,25.99,pico_manana,habil,0,37.39,retraso_alto
+Av Jimenez,Calle 100,9.961,5,0,25.99,noche,fin_semana,0,21.11,puntual
+Av Jimenez,Calle 100,9.961,5,0,25.99,pico_tarde,fin_semana,0,30.87,retraso_moderado
+Av Jimenez,Calle 146,14.432,6,0,36.75,pico_tarde,habil,1,55.3,retraso_alto
+Av Jimenez,Calle 146,14.432,6,0,36.75,valle,habil,0,34.03,puntual
+Av Jimenez,Calle 146,14.432,6,0,36.75,noche,fin_semana,1,35.36,puntual
+Av Jimenez,Calle 146,14.432,6,0,36.75,pico_tarde,habil,0,48.77,retraso_moderado
+Av Jimenez,Calle 146,14.432,6,0,36.75,pico_manana,fin_semana,0,44.38,retraso_moderado
+Av Jimenez,Calle 146,14.432,6,0,36.75,pico_tarde,habil,1,62.41,retraso_alto
+Av Jimenez,Calle 146,14.432,6,0,36.75,noche,fin_semana,1,33.94,puntual
+Av Jimenez,Calle 146,14.432,6,0,36.75,valle,fin_semana,1,38.65,puntual
+Av Jimenez,Calle 72,5.868,2,0,14.08,noche,fin_semana,0,12.68,puntual
+Av Jimenez,Calle 72,5.868,2,0,14.08,noche,habil,0,17.02,retraso_moderado
+Av Jimenez,Calle 72,5.868,2,0,14.08,pico_manana,habil,1,23.28,retraso_alto
+Av Jimenez,Calle 72,5.868,2,0,14.08,pico_manana,fin_semana,0,18.86,retraso_moderado
+Av Jimenez,Calle 72,5.868,2,0,14.08,noche,fin_semana,1,13.95,puntual
+Av Jimenez,Calle 72,5.868,2,0,14.08,pico_manana,fin_semana,1,19.49,retraso_moderado
+Av Jimenez,Calle 72,5.868,2,0,14.08,pico_tarde,habil,0,18.12,retraso_moderado
+Av Jimenez,Calle 72,5.868,2,0,14.08,pico_tarde,habil,1,23.47,retraso_alto
+Av Jimenez,Calle 85,7.677,4,0,20.48,pico_manana,fin_semana,1,27.1,retraso_moderado
+Av Jimenez,Calle 85,7.677,4,0,20.48,pico_tarde,habil,1,32.89,retraso_alto
+Av Jimenez,Calle 85,7.677,4,0,20.48,pico_manana,fin_semana,0,29.43,retraso_alto
+Av Jimenez,Calle 85,7.677,4,0,20.48,pico_tarde,habil,0,29.32,retraso_alto
+Av Jimenez,Calle 85,7.677,4,0,20.48,valle,habil,0,20.14,puntual
+Av Jimenez,Calle 85,7.677,4,0,20.48,valle,habil,1,20.11,puntual
+Av Jimenez,Calle 85,7.677,4,0,20.48,noche,habil,0,17.37,puntual
+Av Jimenez,Calle 85,7.677,4,0,20.48,valle,habil,1,23.11,puntual
+Av Jimenez,Heroes,6.312,3,0,16.01,pico_tarde,fin_semana,1,22.03,retraso_moderado
+Av Jimenez,Heroes,6.312,3,0,16.01,noche,habil,0,14.16,puntual
+Av Jimenez,Heroes,6.312,3,0,16.01,valle,habil,0,17.63,puntual
+Av Jimenez,Heroes,6.312,3,0,16.01,valle,habil,0,16.23,puntual
+Av Jimenez,Heroes,6.312,3,0,16.01,pico_manana,habil,0,24.46,retraso_alto
+Av Jimenez,Heroes,6.312,3,0,16.01,pico_manana,habil,0,19.7,retraso_moderado
+Av Jimenez,Heroes,6.312,3,0,16.01,noche,habil,1,19.7,retraso_moderado
+Av Jimenez,Heroes,6.312,3,0,16.01,noche,habil,0,17.32,puntual
+Av Jimenez,Molinos,5.082,5,1,19.1,noche,habil,0,20.38,puntual
+Av Jimenez,Molinos,5.082,5,1,19.1,noche,fin_semana,0,17.98,puntual
+Av Jimenez,Molinos,5.082,5,1,19.1,pico_manana,habil,0,25.46,retraso_moderado
+Av Jimenez,Molinos,5.082,5,1,19.1,pico_manana,habil,0,28.21,retraso_alto
+Av Jimenez,Molinos,5.082,5,1,19.1,valle,fin_semana,0,17.02,puntual
+Av Jimenez,Molinos,5.082,5,1,19.1,valle,habil,0,20.67,puntual
+Av Jimenez,Molinos,5.082,5,1,19.1,pico_manana,habil,1,35.87,retraso_alto
+Av Jimenez,Molinos,5.082,5,1,19.1,pico_manana,habil,0,27.06,retraso_alto
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,noche,fin_semana,0,18.62,puntual
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,pico_manana,habil,0,31.15,retraso_alto
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,pico_manana,fin_semana,0,29.25,retraso_alto
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,pico_tarde,fin_semana,1,29.05,retraso_alto
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,noche,habil,0,19.08,puntual
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,pico_manana,fin_semana,0,31.22,retraso_alto
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,pico_manana,fin_semana,1,32.46,retraso_alto
+Av Jimenez,NQS Calle 30,3.904,5,1,20.37,pico_manana,habil,0,27.49,retraso_moderado
+Av Jimenez,Polo,8.606,6,1,31.77,pico_manana,habil,1,54.51,retraso_alto
+Av Jimenez,Polo,8.606,6,1,31.77,valle,habil,1,35.98,puntual
+Av Jimenez,Polo,8.606,6,1,31.77,pico_manana,fin_semana,1,42.69,retraso_moderado
+Av Jimenez,Polo,8.606,6,1,31.77,pico_tarde,habil,1,51.08,retraso_alto
+Av Jimenez,Polo,8.606,6,1,31.77,pico_tarde,habil,0,42.28,retraso_moderado
+Av Jimenez,Polo,8.606,6,1,31.77,pico_tarde,fin_semana,0,45.09,retraso_alto
+Av Jimenez,Polo,8.606,6,1,31.77,pico_manana,habil,0,41.68,retraso_moderado
+Av Jimenez,Polo,8.606,6,1,31.77,pico_manana,habil,1,48.11,retraso_alto
+Av Jimenez,Portal 80,13.123,7,1,46.15,valle,fin_semana,0,50.19,puntual
+Av Jimenez,Portal 80,13.123,7,1,46.15,valle,fin_semana,0,40.69,puntual
+Av Jimenez,Portal 80,13.123,7,1,46.15,valle,fin_semana,1,48.57,puntual
+Av Jimenez,Portal 80,13.123,7,1,46.15,pico_manana,fin_semana,1,60.58,retraso_moderado
+Av Jimenez,Portal 80,13.123,7,1,46.15,pico_manana,habil,0,67.29,retraso_alto
+Av Jimenez,Portal 80,13.123,7,1,46.15,valle,fin_semana,0,44.72,puntual
+Av Jimenez,Portal 80,13.123,7,1,46.15,valle,fin_semana,0,41.0,puntual
+Av Jimenez,Portal 80,13.123,7,1,46.15,noche,fin_semana,0,35.44,puntual
+Av Jimenez,Portal Americas,9.766,5,0,33.7,pico_manana,fin_semana,0,43.79,retraso_moderado
+Av Jimenez,Portal Americas,9.766,5,0,33.7,valle,fin_semana,0,30.93,puntual
+Av Jimenez,Portal Americas,9.766,5,0,33.7,noche,fin_semana,1,34.19,puntual
+Av Jimenez,Portal Americas,9.766,5,0,33.7,valle,habil,0,33.77,puntual
+Av Jimenez,Portal Americas,9.766,5,0,33.7,valle,fin_semana,0,32.57,puntual
+Av Jimenez,Portal Americas,9.766,5,0,33.7,pico_manana,fin_semana,0,41.76,retraso_moderado
+Av Jimenez,Portal Americas,9.766,5,0,33.7,valle,habil,0,34.76,puntual
+Av Jimenez,Portal Americas,9.766,5,0,33.7,noche,habil,0,26.8,puntual
+Av Jimenez,Portal Norte,16.964,8,0,43.23,valle,habil,0,48.81,puntual
+Av Jimenez,Portal Norte,16.964,8,0,43.23,pico_tarde,fin_semana,1,63.91,retraso_alto
+Av Jimenez,Portal Norte,16.964,8,0,43.23,valle,fin_semana,0,39.25,puntual
+Av Jimenez,Portal Norte,16.964,8,0,43.23,pico_manana,fin_semana,0,50.57,retraso_moderado
+Av Jimenez,Portal Norte,16.964,8,0,43.23,valle,fin_semana,0,37.02,puntual
+Av Jimenez,Portal Norte,16.964,8,0,43.23,valle,habil,0,49.02,puntual
+Av Jimenez,Portal Norte,16.964,8,0,43.23,valle,fin_semana,0,38.7,puntual
+Av Jimenez,Portal Norte,16.964,8,0,43.23,pico_tarde,fin_semana,1,64.51,retraso_alto
+Av Jimenez,Portal Sur,12.276,6,1,36.84,noche,fin_semana,0,38.33,puntual
+Av Jimenez,Portal Sur,12.276,6,1,36.84,valle,fin_semana,0,39.71,puntual
+Av Jimenez,Portal Sur,12.276,6,1,36.84,pico_manana,fin_semana,0,46.56,retraso_moderado
+Av Jimenez,Portal Sur,12.276,6,1,36.84,pico_manana,fin_semana,1,50.33,retraso_moderado
+Av Jimenez,Portal Sur,12.276,6,1,36.84,valle,fin_semana,0,34.77,puntual
+Av Jimenez,Portal Sur,12.276,6,1,36.84,valle,fin_semana,0,34.66,puntual
+Av Jimenez,Portal Sur,12.276,6,1,36.84,pico_manana,fin_semana,1,50.77,retraso_moderado
+Av Jimenez,Portal Sur,12.276,6,1,36.84,pico_tarde,fin_semana,1,64.06,retraso_alto
+Av Jimenez,Restrepo,4.636,3,0,11.51,noche,fin_semana,0,9.52,puntual
+Av Jimenez,Restrepo,4.636,3,0,11.51,valle,fin_semana,1,10.77,puntual
+Av Jimenez,Restrepo,4.636,3,0,11.51,noche,habil,1,11.64,puntual
+Av Jimenez,Restrepo,4.636,3,0,11.51,pico_manana,fin_semana,0,13.51,retraso_moderado
+Av Jimenez,Restrepo,4.636,3,0,11.51,valle,fin_semana,1,11.25,puntual
+Av Jimenez,Restrepo,4.636,3,0,11.51,noche,fin_semana,1,10.82,puntual
+Av Jimenez,Restrepo,4.636,3,0,11.51,valle,fin_semana,1,12.11,puntual
+Av Jimenez,Restrepo,4.636,3,0,11.51,pico_tarde,habil,0,16.59,retraso_alto
+Av Jimenez,Ricaurte,2.859,4,1,16.77,pico_tarde,habil,0,25.02,retraso_alto
+Av Jimenez,Ricaurte,2.859,4,1,16.77,noche,habil,0,17.06,puntual
+Av Jimenez,Ricaurte,2.859,4,1,16.77,noche,habil,1,18.65,puntual
+Av Jimenez,Ricaurte,2.859,4,1,16.77,valle,habil,1,18.47,puntual
+Av Jimenez,Ricaurte,2.859,4,1,16.77,pico_manana,habil,0,24.44,retraso_alto
+Av Jimenez,Ricaurte,2.859,4,1,16.77,noche,habil,1,21.97,retraso_moderado
+Av Jimenez,Ricaurte,2.859,4,1,16.77,valle,habil,0,18.67,puntual
+Av Jimenez,Ricaurte,2.859,4,1,16.77,pico_tarde,fin_semana,1,27.22,retraso_alto
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,noche,fin_semana,0,4.59,puntual
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,pico_tarde,habil,1,7.89,retraso_alto
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,pico_tarde,fin_semana,1,7.86,retraso_alto
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,pico_tarde,habil,0,8.2,retraso_alto
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,pico_tarde,fin_semana,1,8.13,retraso_alto
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,noche,habil,1,6.02,puntual
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,valle,habil,0,4.94,puntual
+Av Jimenez,Tercer Milenio,2.247,2,0,5.39,noche,habil,0,5.4,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,noche,fin_semana,1,39.33,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,noche,fin_semana,0,33.52,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,pico_tarde,fin_semana,0,55.61,retraso_alto
+Av Jimenez,Toberin,15.411,7,0,39.41,noche,habil,0,31.54,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,valle,fin_semana,0,32.67,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,noche,habil,0,37.71,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,valle,habil,0,35.52,puntual
+Av Jimenez,Toberin,15.411,7,0,39.41,pico_manana,fin_semana,0,44.8,puntual
+Banderas,Av Jimenez,7.406,4,0,27.32,noche,habil,0,25.83,puntual
+Banderas,Av Jimenez,7.406,4,0,27.32,noche,fin_semana,0,25.02,puntual
+Banderas,Av Jimenez,7.406,4,0,27.32,noche,fin_semana,0,23.34,puntual
+Banderas,Av Jimenez,7.406,4,0,27.32,pico_manana,habil,0,38.1,retraso_moderado
+Banderas,Av Jimenez,7.406,4,0,27.32,valle,habil,1,32.02,retraso_moderado
+Banderas,Av Jimenez,7.406,4,0,27.32,valle,habil,0,27.45,puntual
+Banderas,Av Jimenez,7.406,4,0,27.32,valle,habil,0,26.25,puntual
+Banderas,Av Jimenez,7.406,4,0,27.32,valle,fin_semana,1,28.46,puntual
+Banderas,Calle 100,11.393,9,1,58.31,pico_tarde,fin_semana,0,64.64,puntual
+Banderas,Calle 100,11.393,9,1,58.31,pico_manana,habil,0,72.14,retraso_moderado
+Banderas,Calle 100,11.393,9,1,58.31,pico_manana,habil,0,69.82,retraso_moderado
+Banderas,Calle 100,11.393,9,1,58.31,noche,fin_semana,1,55.38,puntual
+Banderas,Calle 100,11.393,9,1,58.31,valle,habil,1,67.53,retraso_moderado
+Banderas,Calle 100,11.393,9,1,58.31,pico_manana,fin_semana,1,76.6,retraso_moderado
+Banderas,Calle 100,11.393,9,1,58.31,pico_manana,habil,0,73.13,retraso_moderado
+Banderas,Calle 100,11.393,9,1,58.31,pico_manana,fin_semana,0,72.6,retraso_moderado
+Banderas,Calle 146,14.914,10,1,69.07,noche,fin_semana,0,57.71,puntual
+Banderas,Calle 146,14.914,10,1,69.07,noche,habil,0,71.02,puntual
+Banderas,Calle 146,14.914,10,1,69.07,valle,fin_semana,1,77.73,puntual
+Banderas,Calle 146,14.914,10,1,69.07,noche,fin_semana,0,56.25,puntual
+Banderas,Calle 146,14.914,10,1,69.07,pico_tarde,fin_semana,0,92.89,retraso_moderado
+Banderas,Calle 146,14.914,10,1,69.07,noche,habil,0,66.84,puntual
+Banderas,Calle 146,14.914,10,1,69.07,noche,fin_semana,0,57.61,puntual
+Banderas,Calle 146,14.914,10,1,69.07,noche,habil,0,69.07,puntual
+Banderas,Calle 72,8.157,6,1,46.4,pico_tarde,fin_semana,0,66.96,retraso_alto
+Banderas,Calle 72,8.157,6,1,46.4,pico_tarde,habil,1,71.77,retraso_alto
+Banderas,Calle 72,8.157,6,1,46.4,valle,habil,0,47.87,puntual
+Banderas,Calle 72,8.157,6,1,46.4,valle,fin_semana,1,45.83,puntual
+Banderas,Calle 72,8.157,6,1,46.4,noche,fin_semana,0,43.62,puntual
+Banderas,Calle 72,8.157,6,1,46.4,valle,fin_semana,1,52.0,puntual
+Banderas,Calle 72,8.157,6,1,46.4,pico_tarde,fin_semana,1,64.76,retraso_moderado
+Banderas,Calle 72,8.157,6,1,46.4,pico_tarde,fin_semana,1,69.44,retraso_alto
+Banderas,Calle 85,9.593,8,1,52.8,noche,fin_semana,0,47.38,puntual
+Banderas,Calle 85,9.593,8,1,52.8,valle,fin_semana,0,51.92,puntual
+Banderas,Calle 85,9.593,8,1,52.8,valle,habil,0,55.18,puntual
+Banderas,Calle 85,9.593,8,1,52.8,pico_tarde,habil,0,72.63,retraso_moderado
+Banderas,Calle 85,9.593,8,1,52.8,pico_tarde,habil,0,78.07,retraso_alto
+Banderas,Calle 85,9.593,8,1,52.8,valle,fin_semana,0,50.5,puntual
+Banderas,Calle 85,9.593,8,1,52.8,pico_manana,fin_semana,1,85.76,retraso_alto
+Banderas,Calle 85,9.593,8,1,52.8,noche,habil,0,50.6,puntual
+Banderas,Heroes,7.775,7,1,48.33,pico_tarde,fin_semana,0,60.9,retraso_moderado
+Banderas,Heroes,7.775,7,1,48.33,pico_manana,fin_semana,0,62.81,retraso_moderado
+Banderas,Heroes,7.775,7,1,48.33,pico_manana,habil,0,61.33,retraso_moderado
+Banderas,Heroes,7.775,7,1,48.33,pico_manana,habil,0,68.88,retraso_alto
+Banderas,Heroes,7.775,7,1,48.33,pico_tarde,habil,0,78.15,retraso_alto
+Banderas,Heroes,7.775,7,1,48.33,valle,fin_semana,0,49.88,puntual
+Banderas,Heroes,7.775,7,1,48.33,noche,fin_semana,1,53.3,puntual
+Banderas,Heroes,7.775,7,1,48.33,pico_manana,habil,0,68.21,retraso_alto
+Banderas,Molinos,7.653,4,1,23.4,valle,fin_semana,1,26.74,puntual
+Banderas,Molinos,7.653,4,1,23.4,pico_manana,habil,0,34.12,retraso_alto
+Banderas,Molinos,7.653,4,1,23.4,noche,fin_semana,1,22.82,puntual
+Banderas,Molinos,7.653,4,1,23.4,valle,fin_semana,1,24.49,puntual
+Banderas,Molinos,7.653,4,1,23.4,pico_tarde,fin_semana,0,28.8,retraso_moderado
+Banderas,Molinos,7.653,4,1,23.4,valle,fin_semana,0,18.4,puntual
+Banderas,Molinos,7.653,4,1,23.4,valle,habil,0,24.92,puntual
+Banderas,Molinos,7.653,4,1,23.4,valle,fin_semana,1,24.73,puntual
+Banderas,NQS Calle 30,4.73,6,1,36.9,pico_tarde,fin_semana,0,45.56,retraso_moderado
+Banderas,NQS Calle 30,4.73,6,1,36.9,noche,fin_semana,1,38.6,puntual
+Banderas,NQS Calle 30,4.73,6,1,36.9,noche,fin_semana,0,28.59,puntual
+Banderas,NQS Calle 30,4.73,6,1,36.9,pico_tarde,fin_semana,0,44.09,retraso_moderado
+Banderas,NQS Calle 30,4.73,6,1,36.9,pico_manana,habil,1,63.39,retraso_alto
+Banderas,NQS Calle 30,4.73,6,1,36.9,pico_manana,fin_semana,1,49.28,retraso_moderado
+Banderas,NQS Calle 30,4.73,6,1,36.9,pico_manana,habil,0,47.82,retraso_moderado
+Banderas,NQS Calle 30,4.73,6,1,36.9,pico_tarde,habil,1,61.74,retraso_alto
+Banderas,Polo,8.268,7,1,49.95,noche,fin_semana,0,41.23,puntual
+Banderas,Polo,8.268,7,1,49.95,pico_tarde,habil,0,74.55,retraso_alto
+Banderas,Polo,8.268,7,1,49.95,pico_tarde,fin_semana,1,67.04,retraso_moderado
+Banderas,Polo,8.268,7,1,49.95,noche,habil,0,49.99,puntual
+Banderas,Polo,8.268,7,1,49.95,pico_manana,fin_semana,0,57.72,retraso_moderado
+Banderas,Polo,8.268,7,1,49.95,noche,habil,1,68.18,retraso_moderado
+Banderas,Polo,8.268,7,1,49.95,noche,fin_semana,0,46.14,puntual
+Banderas,Polo,8.268,7,1,49.95,noche,fin_semana,0,47.98,puntual
+Banderas,Portal 80,9.667,8,1,62.69,valle,fin_semana,1,71.18,puntual
+Banderas,Portal 80,9.667,8,1,62.69,noche,habil,0,65.55,puntual
+Banderas,Portal 80,9.667,8,1,62.69,valle,habil,0,59.48,puntual
+Banderas,Portal 80,9.667,8,1,62.69,pico_manana,habil,0,86.03,retraso_moderado
+Banderas,Portal 80,9.667,8,1,62.69,noche,habil,1,75.24,retraso_moderado
+Banderas,Portal 80,9.667,8,1,62.69,pico_tarde,fin_semana,0,76.16,retraso_moderado
+Banderas,Portal 80,9.667,8,1,62.69,noche,fin_semana,0,53.85,puntual
+Banderas,Portal 80,9.667,8,1,62.69,valle,habil,0,66.61,puntual
+Banderas,Portal Americas,2.662,2,0,6.39,pico_tarde,fin_semana,0,8.75,retraso_moderado
+Banderas,Portal Americas,2.662,2,0,6.39,pico_manana,fin_semana,1,8.58,retraso_moderado
+Banderas,Portal Americas,2.662,2,0,6.39,pico_tarde,fin_semana,0,7.35,retraso_moderado
+Banderas,Portal Americas,2.662,2,0,6.39,pico_tarde,fin_semana,0,8.29,retraso_moderado
+Banderas,Portal Americas,2.662,2,0,6.39,pico_tarde,habil,1,10.34,retraso_alto
+Banderas,Portal Americas,2.662,2,0,6.39,noche,habil,0,6.54,puntual
+Banderas,Portal Americas,2.662,2,0,6.39,noche,fin_semana,0,6.23,puntual
+Banderas,Portal Americas,2.662,2,0,6.39,valle,fin_semana,0,5.69,puntual
+Banderas,Portal Norte,16.76,12,1,75.55,valle,fin_semana,0,75.72,puntual
+Banderas,Portal Norte,16.76,12,1,75.55,noche,habil,1,81.35,puntual
+Banderas,Portal Norte,16.76,12,1,75.55,valle,fin_semana,1,84.65,puntual
+Banderas,Portal Norte,16.76,12,1,75.55,pico_tarde,fin_semana,1,114.26,retraso_alto
+Banderas,Portal Norte,16.76,12,1,75.55,noche,habil,0,82.52,puntual
+Banderas,Portal Norte,16.76,12,1,75.55,noche,fin_semana,1,68.11,puntual
+Banderas,Portal Norte,16.76,12,1,75.55,noche,habil,1,95.56,retraso_moderado
+Banderas,Portal Norte,16.76,12,1,75.55,pico_tarde,habil,1,133.73,retraso_alto
+Banderas,Portal Sur,13.8,5,1,41.13,pico_manana,fin_semana,0,52.9,retraso_moderado
+Banderas,Portal Sur,13.8,5,1,41.13,pico_manana,fin_semana,0,45.94,puntual
+Banderas,Portal Sur,13.8,5,1,41.13,pico_tarde,habil,0,59.72,retraso_alto
+Banderas,Portal Sur,13.8,5,1,41.13,pico_tarde,fin_semana,0,55.74,retraso_moderado
+Banderas,Portal Sur,13.8,5,1,41.13,valle,habil,1,44.55,puntual
+Banderas,Portal Sur,13.8,5,1,41.13,valle,habil,0,45.93,puntual
+Banderas,Portal Sur,13.8,5,1,41.13,pico_manana,fin_semana,1,58.04,retraso_alto
+Banderas,Portal Sur,13.8,5,1,41.13,valle,habil,0,39.49,puntual
+Banderas,Restrepo,6.586,2,0,15.81,pico_tarde,fin_semana,0,18.21,retraso_moderado
+Banderas,Restrepo,6.586,2,0,15.81,noche,fin_semana,1,13.23,puntual
+Banderas,Restrepo,6.586,2,0,15.81,valle,habil,0,19.33,retraso_moderado
+Banderas,Restrepo,6.586,2,0,15.81,pico_tarde,fin_semana,1,21.07,retraso_moderado
+Banderas,Restrepo,6.586,2,0,15.81,pico_tarde,fin_semana,0,20.41,retraso_moderado
+Banderas,Restrepo,6.586,2,0,15.81,noche,habil,0,16.14,puntual
+Banderas,Restrepo,6.586,2,0,15.81,noche,fin_semana,1,14.99,puntual
+Banderas,Restrepo,6.586,2,0,15.81,pico_manana,fin_semana,0,21.49,retraso_moderado
+Banderas,Ricaurte,4.722,5,1,33.31,pico_manana,habil,1,54.04,retraso_alto
+Banderas,Ricaurte,4.722,5,1,33.31,pico_tarde,habil,1,47.79,retraso_alto
+Banderas,Ricaurte,4.722,5,1,33.31,pico_tarde,habil,1,57.56,retraso_alto
+Banderas,Ricaurte,4.722,5,1,33.31,valle,habil,1,42.49,retraso_moderado
+Banderas,Ricaurte,4.722,5,1,33.31,pico_manana,fin_semana,0,45.66,retraso_moderado
+Banderas,Ricaurte,4.722,5,1,33.31,valle,habil,0,35.53,puntual
+Banderas,Ricaurte,4.722,5,1,33.31,pico_tarde,fin_semana,0,45.95,retraso_moderado
+Banderas,Ricaurte,4.722,5,1,33.31,pico_tarde,fin_semana,0,49.97,retraso_alto
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_tarde,fin_semana,0,27.58,retraso_moderado
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_manana,fin_semana,0,24.7,puntual
+Banderas,Tercer Milenio,6.046,3,0,21.92,valle,habil,1,24.3,puntual
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_tarde,habil,0,23.92,puntual
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_manana,fin_semana,1,32.31,retraso_alto
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_tarde,fin_semana,1,33.48,retraso_alto
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_tarde,habil,1,35.36,retraso_alto
+Banderas,Tercer Milenio,6.046,3,0,21.92,pico_tarde,habil,1,35.93,retraso_alto
+Banderas,Toberin,15.527,11,1,71.73,pico_manana,fin_semana,1,102.46,retraso_alto
+Banderas,Toberin,15.527,11,1,71.73,valle,habil,0,81.16,puntual
+Banderas,Toberin,15.527,11,1,71.73,pico_tarde,fin_semana,0,107.89,retraso_alto
+Banderas,Toberin,15.527,11,1,71.73,valle,fin_semana,0,74.28,puntual
+Banderas,Toberin,15.527,11,1,71.73,pico_tarde,fin_semana,1,108.89,retraso_alto
+Banderas,Toberin,15.527,11,1,71.73,noche,habil,0,68.24,puntual
+Banderas,Toberin,15.527,11,1,71.73,noche,fin_semana,0,63.07,puntual
+Banderas,Toberin,15.527,11,1,71.73,noche,habil,0,67.82,puntual
+Calle 100,Av Jimenez,9.961,5,0,25.99,pico_manana,fin_semana,1,39.73,retraso_alto
+Calle 100,Av Jimenez,9.961,5,0,25.99,pico_manana,fin_semana,0,29.48,puntual
+Calle 100,Av Jimenez,9.961,5,0,25.99,valle,habil,0,27.2,puntual
+Calle 100,Av Jimenez,9.961,5,0,25.99,pico_manana,habil,0,36.15,retraso_moderado
+Calle 100,Av Jimenez,9.961,5,0,25.99,valle,habil,1,31.14,retraso_moderado
+Calle 100,Av Jimenez,9.961,5,0,25.99,valle,habil,0,29.75,puntual
+Calle 100,Av Jimenez,9.961,5,0,25.99,pico_tarde,habil,1,48.47,retraso_alto
+Calle 100,Av Jimenez,9.961,5,0,25.99,valle,habil,1,29.98,retraso_moderado
+Calle 100,Banderas,11.393,9,1,58.31,pico_tarde,habil,0,84.89,retraso_alto
+Calle 100,Banderas,11.393,9,1,58.31,pico_manana,fin_semana,0,73.24,retraso_moderado
+Calle 100,Banderas,11.393,9,1,58.31,pico_tarde,habil,0,85.37,retraso_alto
+Calle 100,Banderas,11.393,9,1,58.31,noche,habil,1,69.66,retraso_moderado
+Calle 100,Banderas,11.393,9,1,58.31,pico_manana,fin_semana,0,75.64,retraso_moderado
+Calle 100,Banderas,11.393,9,1,58.31,pico_manana,fin_semana,1,77.46,retraso_moderado
+Calle 100,Banderas,11.393,9,1,58.31,valle,habil,1,72.76,retraso_moderado
+Calle 100,Banderas,11.393,9,1,58.31,pico_tarde,fin_semana,1,74.77,retraso_moderado
+Calle 100,Calle 146,4.482,2,0,10.76,pico_manana,habil,0,15.22,retraso_alto
+Calle 100,Calle 146,4.482,2,0,10.76,pico_manana,fin_semana,1,13.99,retraso_moderado
+Calle 100,Calle 146,4.482,2,0,10.76,noche,habil,0,10.02,puntual
+Calle 100,Calle 146,4.482,2,0,10.76,valle,fin_semana,1,11.59,puntual
+Calle 100,Calle 146,4.482,2,0,10.76,pico_tarde,fin_semana,1,14.24,retraso_moderado
+Calle 100,Calle 146,4.482,2,0,10.76,noche,habil,1,11.55,puntual
+Calle 100,Calle 146,4.482,2,0,10.76,pico_manana,habil,0,13.72,retraso_moderado
+Calle 100,Calle 146,4.482,2,0,10.76,pico_tarde,fin_semana,0,13.79,retraso_moderado
+Calle 100,Calle 72,4.163,4,0,11.91,noche,habil,0,10.12,puntual
+Calle 100,Calle 72,4.163,4,0,11.91,pico_tarde,habil,1,20.19,retraso_alto
+Calle 100,Calle 72,4.163,4,0,11.91,noche,habil,0,11.51,puntual
+Calle 100,Calle 72,4.163,4,0,11.91,pico_manana,fin_semana,0,14.03,retraso_moderado
+Calle 100,Calle 72,4.163,4,0,11.91,pico_manana,fin_semana,1,17.54,retraso_alto
+Calle 100,Calle 72,4.163,4,0,11.91,noche,habil,0,11.9,puntual
+Calle 100,Calle 72,4.163,4,0,11.91,pico_tarde,fin_semana,0,14.28,retraso_moderado
+Calle 100,Calle 72,4.163,4,0,11.91,noche,habil,0,11.02,puntual
+Calle 100,Calle 85,2.296,2,0,5.51,pico_tarde,fin_semana,0,7.0,retraso_moderado
+Calle 100,Calle 85,2.296,2,0,5.51,noche,habil,1,5.39,puntual
+Calle 100,Calle 85,2.296,2,0,5.51,pico_tarde,habil,0,7.56,retraso_moderado
+Calle 100,Calle 85,2.296,2,0,5.51,pico_tarde,fin_semana,0,7.88,retraso_alto
+Calle 100,Calle 85,2.296,2,0,5.51,valle,habil,1,6.23,puntual
+Calle 100,Calle 85,2.296,2,0,5.51,pico_manana,habil,1,8.34,retraso_alto
+Calle 100,Calle 85,2.296,2,0,5.51,valle,fin_semana,0,4.74,puntual
+Calle 100,Calle 85,2.296,2,0,5.51,pico_tarde,fin_semana,1,8.09,retraso_alto
+Calle 100,Heroes,4.008,3,0,9.98,pico_manana,habil,0,14.3,retraso_alto
+Calle 100,Heroes,4.008,3,0,9.98,pico_manana,fin_semana,0,13.25,retraso_moderado
+Calle 100,Heroes,4.008,3,0,9.98,noche,fin_semana,1,9.23,puntual
+Calle 100,Heroes,4.008,3,0,9.98,pico_manana,fin_semana,0,12.4,retraso_moderado
+Calle 100,Heroes,4.008,3,0,9.98,pico_manana,fin_semana,1,13.39,retraso_moderado
+Calle 100,Heroes,4.008,3,0,9.98,pico_tarde,habil,0,12.81,retraso_moderado
+Calle 100,Heroes,4.008,3,0,9.98,noche,habil,0,10.0,puntual
+Calle 100,Heroes,4.008,3,0,9.98,valle,fin_semana,0,10.65,puntual
+Calle 100,Molinos,14.684,10,2,50.1,pico_tarde,habil,0,70.6,retraso_alto
+Calle 100,Molinos,14.684,10,2,50.1,valle,fin_semana,1,57.11,puntual
+Calle 100,Molinos,14.684,10,2,50.1,valle,fin_semana,0,44.38,puntual
+Calle 100,Molinos,14.684,10,2,50.1,noche,habil,0,56.5,puntual
+Calle 100,Molinos,14.684,10,2,50.1,pico_manana,fin_semana,1,71.33,retraso_alto
+Calle 100,Molinos,14.684,10,2,50.1,noche,fin_semana,0,48.76,puntual
+Calle 100,Molinos,14.684,10,2,50.1,noche,habil,0,57.14,puntual
+Calle 100,Molinos,14.684,10,2,50.1,noche,fin_semana,0,55.19,puntual
+Calle 100,NQS Calle 30,7.782,6,2,34.85,noche,habil,0,33.7,puntual
+Calle 100,NQS Calle 30,7.782,6,2,34.85,pico_manana,fin_semana,0,48.05,retraso_moderado
+Calle 100,NQS Calle 30,7.782,6,2,34.85,pico_tarde,habil,0,53.97,retraso_alto
+Calle 100,NQS Calle 30,7.782,6,2,34.85,pico_manana,habil,0,50.12,retraso_alto
+Calle 100,NQS Calle 30,7.782,6,2,34.85,pico_tarde,habil,0,56.3,retraso_alto
+Calle 100,NQS Calle 30,7.782,6,2,34.85,valle,habil,1,45.71,retraso_moderado
+Calle 100,NQS Calle 30,7.782,6,2,34.85,pico_manana,habil,1,51.53,retraso_alto
+Calle 100,NQS Calle 30,7.782,6,2,34.85,noche,fin_semana,1,37.87,puntual
+Calle 100,Polo,3.327,4,1,16.8,pico_tarde,habil,0,26.63,retraso_alto
+Calle 100,Polo,3.327,4,1,16.8,pico_tarde,fin_semana,1,26.48,retraso_alto
+Calle 100,Polo,3.327,4,1,16.8,pico_manana,fin_semana,1,26.6,retraso_alto
+Calle 100,Polo,3.327,4,1,16.8,pico_manana,habil,0,24.76,retraso_alto
+Calle 100,Polo,3.327,4,1,16.8,pico_tarde,habil,1,31.33,retraso_alto
+Calle 100,Polo,3.327,4,1,16.8,noche,fin_semana,1,15.29,puntual
+Calle 100,Polo,3.327,4,1,16.8,pico_manana,fin_semana,1,23.64,retraso_alto
+Calle 100,Polo,3.327,4,1,16.8,noche,habil,0,15.79,puntual
+Calle 100,Portal 80,7.387,6,2,34.53,noche,habil,0,37.29,puntual
+Calle 100,Portal 80,7.387,6,2,34.53,valle,habil,0,37.85,puntual
+Calle 100,Portal 80,7.387,6,2,34.53,noche,fin_semana,1,35.61,puntual
+Calle 100,Portal 80,7.387,6,2,34.53,pico_tarde,fin_semana,0,47.54,retraso_moderado
+Calle 100,Portal 80,7.387,6,2,34.53,noche,fin_semana,1,33.04,puntual
+Calle 100,Portal 80,7.387,6,2,34.53,pico_tarde,habil,0,48.85,retraso_alto
+Calle 100,Portal 80,7.387,6,2,34.53,pico_manana,fin_semana,0,46.06,retraso_moderado
+Calle 100,Portal 80,7.387,6,2,34.53,valle,fin_semana,0,39.53,puntual
+Calle 100,Portal Americas,13.806,10,1,64.7,valle,fin_semana,0,68.56,puntual
+Calle 100,Portal Americas,13.806,10,1,64.7,noche,habil,1,72.36,puntual
+Calle 100,Portal Americas,13.806,10,1,64.7,pico_manana,fin_semana,1,85.31,retraso_moderado
+Calle 100,Portal Americas,13.806,10,1,64.7,valle,habil,1,85.87,retraso_moderado
+Calle 100,Portal Americas,13.806,10,1,64.7,noche,fin_semana,0,56.18,puntual
+Calle 100,Portal Americas,13.806,10,1,64.7,valle,fin_semana,0,63.48,puntual
+Calle 100,Portal Americas,13.806,10,1,64.7,valle,habil,0,70.49,puntual
+Calle 100,Portal Americas,13.806,10,1,64.7,pico_manana,habil,1,111.31,retraso_alto
+Calle 100,Portal Norte,7.085,4,0,17.24,pico_tarde,habil,1,26.81,retraso_alto
+Calle 100,Portal Norte,7.085,4,0,17.24,valle,fin_semana,0,16.03,puntual
+Calle 100,Portal Norte,7.085,4,0,17.24,noche,fin_semana,1,16.27,puntual
+Calle 100,Portal Norte,7.085,4,0,17.24,pico_tarde,fin_semana,0,17.21,puntual
+Calle 100,Portal Norte,7.085,4,0,17.24,valle,fin_semana,0,16.18,puntual
+Calle 100,Portal Norte,7.085,4,0,17.24,noche,fin_semana,0,14.3,puntual
+Calle 100,Portal Norte,7.085,4,0,17.24,noche,fin_semana,0,15.6,puntual
+Calle 100,Portal Norte,7.085,4,0,17.24,valle,fin_semana,0,13.48,puntual
+Calle 100,Portal Sur,22.068,11,2,67.83,noche,fin_semana,1,81.84,retraso_moderado
+Calle 100,Portal Sur,22.068,11,2,67.83,pico_manana,fin_semana,0,86.07,retraso_moderado
+Calle 100,Portal Sur,22.068,11,2,67.83,valle,fin_semana,0,69.67,puntual
+Calle 100,Portal Sur,22.068,11,2,67.83,noche,habil,0,69.09,puntual
+Calle 100,Portal Sur,22.068,11,2,67.83,noche,fin_semana,0,59.38,puntual
+Calle 100,Portal Sur,22.068,11,2,67.83,pico_tarde,habil,0,108.74,retraso_alto
+Calle 100,Portal Sur,22.068,11,2,67.83,pico_manana,fin_semana,0,107.16,retraso_alto
+Calle 100,Portal Sur,22.068,11,2,67.83,pico_tarde,habil,0,107.87,retraso_alto
+Calle 100,Restrepo,13.905,8,1,42.51,pico_manana,fin_semana,0,53.44,retraso_moderado
+Calle 100,Restrepo,13.905,8,1,42.51,noche,fin_semana,1,42.07,puntual
+Calle 100,Restrepo,13.905,8,1,42.51,pico_manana,habil,0,59.91,retraso_alto
+Calle 100,Restrepo,13.905,8,1,42.51,noche,habil,0,48.83,puntual
+Calle 100,Restrepo,13.905,8,1,42.51,valle,fin_semana,0,43.37,puntual
+Calle 100,Restrepo,13.905,8,1,42.51,noche,habil,0,43.45,puntual
+Calle 100,Restrepo,13.905,8,1,42.51,noche,habil,1,45.87,puntual
+Calle 100,Restrepo,13.905,8,1,42.51,valle,fin_semana,0,39.94,puntual
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_manana,fin_semana,0,48.99,retraso_moderado
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_manana,fin_semana,0,50.24,retraso_moderado
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_manana,fin_semana,0,55.29,retraso_alto
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_tarde,fin_semana,1,62.58,retraso_alto
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_manana,fin_semana,0,47.63,retraso_moderado
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_manana,fin_semana,0,56.9,retraso_alto
+Calle 100,Ricaurte,9.109,7,2,38.44,pico_manana,fin_semana,1,55.5,retraso_alto
+Calle 100,Ricaurte,9.109,7,2,38.44,noche,fin_semana,1,45.63,retraso_moderado
+Calle 100,Tercer Milenio,11.427,7,1,36.39,valle,habil,0,36.65,puntual
+Calle 100,Tercer Milenio,11.427,7,1,36.39,pico_manana,fin_semana,0,37.72,puntual
+Calle 100,Tercer Milenio,11.427,7,1,36.39,pico_manana,habil,0,50.15,retraso_moderado
+Calle 100,Tercer Milenio,11.427,7,1,36.39,noche,fin_semana,0,34.73,puntual
+Calle 100,Tercer Milenio,11.427,7,1,36.39,pico_manana,habil,0,47.1,retraso_moderado
+Calle 100,Tercer Milenio,11.427,7,1,36.39,pico_tarde,fin_semana,0,53.39,retraso_alto
+Calle 100,Tercer Milenio,11.427,7,1,36.39,pico_tarde,fin_semana,0,47.8,retraso_moderado
+Calle 100,Tercer Milenio,11.427,7,1,36.39,noche,fin_semana,0,27.13,puntual
+Calle 100,Toberin,5.503,3,0,13.42,noche,fin_semana,0,12.46,puntual
+Calle 100,Toberin,5.503,3,0,13.42,pico_manana,fin_semana,0,15.58,retraso_moderado
+Calle 100,Toberin,5.503,3,0,13.42,noche,habil,1,14.51,puntual
+Calle 100,Toberin,5.503,3,0,13.42,pico_tarde,fin_semana,0,17.51,retraso_moderado
+Calle 100,Toberin,5.503,3,0,13.42,noche,fin_semana,0,11.16,puntual
+Calle 100,Toberin,5.503,3,0,13.42,pico_manana,fin_semana,1,17.45,retraso_moderado
+Calle 100,Toberin,5.503,3,0,13.42,noche,fin_semana,1,15.74,retraso_moderado
+Calle 100,Toberin,5.503,3,0,13.42,pico_manana,fin_semana,0,15.91,retraso_moderado
+Calle 146,Av Jimenez,14.432,6,0,36.75,valle,habil,0,39.32,puntual
+Calle 146,Av Jimenez,14.432,6,0,36.75,noche,habil,0,31.49,puntual
+Calle 146,Av Jimenez,14.432,6,0,36.75,pico_manana,habil,1,54.06,retraso_alto
+Calle 146,Av Jimenez,14.432,6,0,36.75,pico_manana,habil,1,60.4,retraso_alto
+Calle 146,Av Jimenez,14.432,6,0,36.75,noche,fin_semana,0,30.48,puntual
+Calle 146,Av Jimenez,14.432,6,0,36.75,valle,fin_semana,0,33.44,puntual
+Calle 146,Av Jimenez,14.432,6,0,36.75,pico_tarde,fin_semana,0,47.13,retraso_moderado
+Calle 146,Av Jimenez,14.432,6,0,36.75,valle,fin_semana,1,37.87,puntual
+Calle 146,Banderas,14.914,10,1,69.07,noche,habil,0,70.24,puntual
+Calle 146,Banderas,14.914,10,1,69.07,valle,fin_semana,1,65.8,puntual
+Calle 146,Banderas,14.914,10,1,69.07,noche,habil,0,70.32,puntual
+Calle 146,Banderas,14.914,10,1,69.07,valle,fin_semana,0,66.81,puntual
+Calle 146,Banderas,14.914,10,1,69.07,pico_tarde,fin_semana,1,114.73,retraso_alto
+Calle 146,Banderas,14.914,10,1,69.07,pico_tarde,habil,1,121.39,retraso_alto
+Calle 146,Banderas,14.914,10,1,69.07,valle,fin_semana,1,77.87,puntual
+Calle 146,Banderas,14.914,10,1,69.07,valle,habil,0,89.13,retraso_moderado
+Calle 146,Calle 100,4.482,2,0,10.76,pico_manana,fin_semana,1,13.82,retraso_moderado
+Calle 146,Calle 100,4.482,2,0,10.76,valle,habil,0,10.33,puntual
+Calle 146,Calle 100,4.482,2,0,10.76,pico_tarde,fin_semana,1,15.29,retraso_alto
+Calle 146,Calle 100,4.482,2,0,10.76,noche,habil,0,9.24,puntual
+Calle 146,Calle 100,4.482,2,0,10.76,pico_tarde,habil,0,13.64,retraso_moderado
+Calle 146,Calle 100,4.482,2,0,10.76,valle,habil,0,10.98,puntual
+Calle 146,Calle 100,4.482,2,0,10.76,noche,habil,0,9.53,puntual
+Calle 146,Calle 100,4.482,2,0,10.76,valle,fin_semana,1,11.05,puntual
+Calle 146,Calle 72,8.591,5,0,22.67,valle,fin_semana,1,26.33,retraso_moderado
+Calle 146,Calle 72,8.591,5,0,22.67,pico_tarde,habil,1,33.03,retraso_alto
+Calle 146,Calle 72,8.591,5,0,22.67,pico_tarde,habil,1,35.32,retraso_alto
+Calle 146,Calle 72,8.591,5,0,22.67,valle,habil,0,24.79,puntual
+Calle 146,Calle 72,8.591,5,0,22.67,pico_tarde,habil,0,37.13,retraso_alto
+Calle 146,Calle 72,8.591,5,0,22.67,pico_tarde,habil,1,39.97,retraso_alto
+Calle 146,Calle 72,8.591,5,0,22.67,noche,habil,0,23.19,puntual
+Calle 146,Calle 72,8.591,5,0,22.67,pico_tarde,fin_semana,0,26.72,retraso_moderado
+Calle 146,Calle 85,6.755,3,0,16.27,noche,fin_semana,0,14.26,puntual
+Calle 146,Calle 85,6.755,3,0,16.27,noche,fin_semana,0,14.08,puntual
+Calle 146,Calle 85,6.755,3,0,16.27,noche,habil,0,14.62,puntual
+Calle 146,Calle 85,6.755,3,0,16.27,pico_tarde,fin_semana,0,19.62,retraso_moderado
+Calle 146,Calle 85,6.755,3,0,16.27,valle,fin_semana,1,15.74,puntual
+Calle 146,Calle 85,6.755,3,0,16.27,noche,habil,0,15.05,puntual
+Calle 146,Calle 85,6.755,3,0,16.27,noche,habil,0,16.29,puntual
+Calle 146,Calle 85,6.755,3,0,16.27,noche,fin_semana,0,14.44,puntual
+Calle 146,Heroes,8.305,4,0,20.74,valle,fin_semana,1,21.26,puntual
+Calle 146,Heroes,8.305,4,0,20.74,valle,fin_semana,1,20.37,puntual
+Calle 146,Heroes,8.305,4,0,20.74,noche,fin_semana,0,17.12,puntual
+Calle 146,Heroes,8.305,4,0,20.74,noche,fin_semana,0,17.74,puntual
+Calle 146,Heroes,8.305,4,0,20.74,valle,fin_semana,0,20.32,puntual
+Calle 146,Heroes,8.305,4,0,20.74,noche,fin_semana,1,20.99,puntual
+Calle 146,Heroes,8.305,4,0,20.74,pico_manana,habil,0,29.17,retraso_alto
+Calle 146,Heroes,8.305,4,0,20.74,pico_tarde,fin_semana,0,27.35,retraso_moderado
+Calle 146,Molinos,19.067,11,2,60.85,pico_manana,fin_semana,0,77.46,retraso_moderado
+Calle 146,Molinos,19.067,11,2,60.85,pico_tarde,habil,0,91.6,retraso_alto
+Calle 146,Molinos,19.067,11,2,60.85,noche,fin_semana,1,64.69,puntual
+Calle 146,Molinos,19.067,11,2,60.85,pico_manana,fin_semana,0,78.36,retraso_moderado
+Calle 146,Molinos,19.067,11,2,60.85,pico_tarde,fin_semana,0,86.87,retraso_alto
+Calle 146,Molinos,19.067,11,2,60.85,pico_manana,habil,0,98.55,retraso_alto
+Calle 146,Molinos,19.067,11,2,60.85,valle,fin_semana,0,57.53,puntual
+Calle 146,Molinos,19.067,11,2,60.85,valle,fin_semana,1,68.9,puntual
+Calle 146,NQS Calle 30,11.971,7,2,45.6,pico_tarde,habil,0,79.42,retraso_alto
+Calle 146,NQS Calle 30,11.971,7,2,45.6,pico_tarde,fin_semana,1,72.12,retraso_alto
+Calle 146,NQS Calle 30,11.971,7,2,45.6,noche,fin_semana,0,44.21,puntual
+Calle 146,NQS Calle 30,11.971,7,2,45.6,pico_manana,fin_semana,1,65.17,retraso_alto
+Calle 146,NQS Calle 30,11.971,7,2,45.6,pico_tarde,habil,1,64.1,retraso_alto
+Calle 146,NQS Calle 30,11.971,7,2,45.6,valle,habil,1,59.6,retraso_moderado
+Calle 146,NQS Calle 30,11.971,7,2,45.6,noche,habil,1,50.6,puntual
+Calle 146,NQS Calle 30,11.971,7,2,45.6,noche,habil,1,50.38,puntual
+Calle 146,Polo,6.729,5,1,27.55,valle,habil,1,34.49,retraso_moderado
+Calle 146,Polo,6.729,5,1,27.55,pico_manana,fin_semana,0,34.72,retraso_moderado
+Calle 146,Polo,6.729,5,1,27.55,noche,habil,0,26.66,puntual
+Calle 146,Polo,6.729,5,1,27.55,noche,habil,1,29.19,puntual
+Calle 146,Polo,6.729,5,1,27.55,valle,habil,1,31.49,puntual
+Calle 146,Polo,6.729,5,1,27.55,noche,fin_semana,0,27.33,puntual
+Calle 146,Polo,6.729,5,1,27.55,noche,fin_semana,1,26.06,puntual
+Calle 146,Polo,6.729,5,1,27.55,pico_tarde,fin_semana,0,40.43,retraso_alto
+Calle 146,Portal 80,7.8,7,2,45.29,valle,fin_semana,1,48.62,puntual
+Calle 146,Portal 80,7.8,7,2,45.29,pico_tarde,fin_semana,1,85.32,retraso_alto
+Calle 146,Portal 80,7.8,7,2,45.29,valle,fin_semana,0,40.28,puntual
+Calle 146,Portal 80,7.8,7,2,45.29,pico_tarde,fin_semana,0,63.59,retraso_alto
+Calle 146,Portal 80,7.8,7,2,45.29,noche,fin_semana,0,48.51,puntual
+Calle 146,Portal 80,7.8,7,2,45.29,pico_tarde,habil,0,66.91,retraso_alto
+Calle 146,Portal 80,7.8,7,2,45.29,pico_manana,fin_semana,0,56.06,retraso_moderado
+Calle 146,Portal 80,7.8,7,2,45.29,valle,habil,1,50.98,puntual
+Calle 146,Portal Americas,17.043,11,1,75.46,pico_tarde,fin_semana,0,109.98,retraso_alto
+Calle 146,Portal Americas,17.043,11,1,75.46,valle,habil,0,85.83,puntual
+Calle 146,Portal Americas,17.043,11,1,75.46,valle,habil,0,83.82,puntual
+Calle 146,Portal Americas,17.043,11,1,75.46,noche,habil,1,90.21,retraso_moderado
+Calle 146,Portal Americas,17.043,11,1,75.46,valle,habil,1,95.35,retraso_moderado
+Calle 146,Portal Americas,17.043,11,1,75.46,noche,fin_semana,1,77.4,puntual
+Calle 146,Portal Americas,17.043,11,1,75.46,valle,fin_semana,0,70.87,puntual
+Calle 146,Portal Americas,17.043,11,1,75.46,pico_manana,habil,1,126.35,retraso_alto
+Calle 146,Portal Norte,2.681,3,0,6.48,pico_manana,habil,0,9.07,retraso_moderado
+Calle 146,Portal Norte,2.681,3,0,6.48,pico_manana,fin_semana,0,7.61,retraso_moderado
+Calle 146,Portal Norte,2.681,3,0,6.48,valle,fin_semana,0,6.43,puntual
+Calle 146,Portal Norte,2.681,3,0,6.48,pico_manana,fin_semana,0,7.92,retraso_moderado
+Calle 146,Portal Norte,2.681,3,0,6.48,noche,fin_semana,0,5.84,puntual
+Calle 146,Portal Norte,2.681,3,0,6.48,valle,habil,0,6.01,puntual
+Calle 146,Portal Norte,2.681,3,0,6.48,valle,fin_semana,1,6.69,puntual
+Calle 146,Portal Norte,2.681,3,0,6.48,pico_tarde,fin_semana,1,9.87,retraso_alto
+Calle 146,Portal Sur,26.458,12,2,78.59,valle,habil,1,109.91,retraso_moderado
+Calle 146,Portal Sur,26.458,12,2,78.59,noche,fin_semana,0,64.01,puntual
+Calle 146,Portal Sur,26.458,12,2,78.59,noche,habil,0,89.56,puntual
+Calle 146,Portal Sur,26.458,12,2,78.59,valle,habil,0,85.54,puntual
+Calle 146,Portal Sur,26.458,12,2,78.59,noche,habil,0,82.51,puntual
+Calle 146,Portal Sur,26.458,12,2,78.59,pico_tarde,habil,0,97.0,retraso_moderado
+Calle 146,Portal Sur,26.458,12,2,78.59,pico_tarde,habil,0,115.68,retraso_alto
+Calle 146,Portal Sur,26.458,12,2,78.59,valle,fin_semana,1,82.51,puntual
+Calle 146,Restrepo,18.242,9,1,53.26,pico_tarde,habil,1,95.25,retraso_alto
+Calle 146,Restrepo,18.242,9,1,53.26,valle,habil,0,54.04,puntual
+Calle 146,Restrepo,18.242,9,1,53.26,noche,habil,0,53.05,puntual
+Calle 146,Restrepo,18.242,9,1,53.26,noche,fin_semana,1,48.99,puntual
+Calle 146,Restrepo,18.242,9,1,53.26,valle,habil,1,64.63,retraso_moderado
+Calle 146,Restrepo,18.242,9,1,53.26,pico_manana,fin_semana,1,65.44,retraso_moderado
+Calle 146,Restrepo,18.242,9,1,53.26,pico_tarde,habil,1,100.35,retraso_alto
+Calle 146,Restrepo,18.242,9,1,53.26,valle,habil,0,61.37,retraso_moderado
+Calle 146,Ricaurte,13.384,8,2,49.2,pico_tarde,fin_semana,0,64.51,retraso_moderado
+Calle 146,Ricaurte,13.384,8,2,49.2,noche,habil,1,52.32,puntual
+Calle 146,Ricaurte,13.384,8,2,49.2,noche,habil,0,54.29,puntual
+Calle 146,Ricaurte,13.384,8,2,49.2,pico_manana,fin_semana,1,80.24,retraso_alto
+Calle 146,Ricaurte,13.384,8,2,49.2,pico_tarde,habil,0,75.75,retraso_alto
+Calle 146,Ricaurte,13.384,8,2,49.2,valle,habil,0,54.45,puntual
+Calle 146,Ricaurte,13.384,8,2,49.2,noche,fin_semana,1,65.78,retraso_moderado
+Calle 146,Ricaurte,13.384,8,2,49.2,pico_manana,fin_semana,0,72.33,retraso_alto
+Calle 146,Tercer Milenio,15.813,8,1,47.14,pico_tarde,fin_semana,0,63.38,retraso_moderado
+Calle 146,Tercer Milenio,15.813,8,1,47.14,noche,fin_semana,0,36.59,puntual
+Calle 146,Tercer Milenio,15.813,8,1,47.14,noche,fin_semana,0,49.97,puntual
+Calle 146,Tercer Milenio,15.813,8,1,47.14,valle,fin_semana,0,48.99,puntual
+Calle 146,Tercer Milenio,15.813,8,1,47.14,valle,fin_semana,1,59.16,retraso_moderado
+Calle 146,Tercer Milenio,15.813,8,1,47.14,pico_manana,habil,0,77.47,retraso_alto
+Calle 146,Tercer Milenio,15.813,8,1,47.14,noche,fin_semana,1,46.63,puntual
+Calle 146,Tercer Milenio,15.813,8,1,47.14,noche,fin_semana,0,44.01,puntual
+Calle 146,Toberin,1.109,2,0,2.66,pico_tarde,habil,1,4.29,retraso_alto
+Calle 146,Toberin,1.109,2,0,2.66,noche,habil,0,2.48,puntual
+Calle 146,Toberin,1.109,2,0,2.66,valle,habil,0,2.47,puntual
+Calle 146,Toberin,1.109,2,0,2.66,pico_manana,habil,1,3.93,retraso_alto
+Calle 146,Toberin,1.109,2,0,2.66,pico_manana,fin_semana,0,3.25,retraso_moderado
+Calle 146,Toberin,1.109,2,0,2.66,pico_manana,habil,1,4.36,retraso_alto
+Calle 146,Toberin,1.109,2,0,2.66,pico_tarde,habil,1,3.88,retraso_alto
+Calle 146,Toberin,1.109,2,0,2.66,pico_tarde,habil,0,3.54,retraso_moderado
+Calle 72,Av Jimenez,5.868,2,0,14.08,valle,habil,0,13.96,puntual
+Calle 72,Av Jimenez,5.868,2,0,14.08,valle,fin_semana,1,14.97,puntual
+Calle 72,Av Jimenez,5.868,2,0,14.08,noche,habil,0,14.87,puntual
+Calle 72,Av Jimenez,5.868,2,0,14.08,pico_tarde,fin_semana,0,16.98,retraso_moderado
+Calle 72,Av Jimenez,5.868,2,0,14.08,valle,fin_semana,0,13.18,puntual
+Calle 72,Av Jimenez,5.868,2,0,14.08,valle,habil,0,15.36,puntual
+Calle 72,Av Jimenez,5.868,2,0,14.08,valle,fin_semana,0,10.22,puntual
+Calle 72,Av Jimenez,5.868,2,0,14.08,valle,fin_semana,0,11.66,puntual
+Calle 72,Banderas,8.157,6,1,46.4,pico_tarde,habil,0,60.75,retraso_moderado
+Calle 72,Banderas,8.157,6,1,46.4,pico_tarde,habil,1,67.14,retraso_alto
+Calle 72,Banderas,8.157,6,1,46.4,valle,habil,0,44.91,puntual
+Calle 72,Banderas,8.157,6,1,46.4,pico_manana,habil,0,70.77,retraso_alto
+Calle 72,Banderas,8.157,6,1,46.4,valle,fin_semana,0,46.0,puntual
+Calle 72,Banderas,8.157,6,1,46.4,pico_manana,habil,0,62.31,retraso_moderado
+Calle 72,Banderas,8.157,6,1,46.4,pico_manana,fin_semana,0,56.72,retraso_moderado
+Calle 72,Banderas,8.157,6,1,46.4,noche,habil,1,46.97,puntual
+Calle 72,Calle 100,4.163,4,0,11.91,pico_tarde,fin_semana,0,13.31,puntual
+Calle 72,Calle 100,4.163,4,0,11.91,pico_tarde,fin_semana,0,15.38,retraso_moderado
+Calle 72,Calle 100,4.163,4,0,11.91,noche,fin_semana,0,10.61,puntual
+Calle 72,Calle 100,4.163,4,0,11.91,pico_tarde,habil,0,14.66,retraso_moderado
+Calle 72,Calle 100,4.163,4,0,11.91,pico_tarde,fin_semana,0,14.23,retraso_moderado
+Calle 72,Calle 100,4.163,4,0,11.91,valle,habil,0,11.65,puntual
+Calle 72,Calle 100,4.163,4,0,11.91,noche,fin_semana,0,10.38,puntual
+Calle 72,Calle 100,4.163,4,0,11.91,valle,fin_semana,1,13.0,puntual
+Calle 72,Calle 146,8.591,5,0,22.67,pico_tarde,fin_semana,0,31.77,retraso_alto
+Calle 72,Calle 146,8.591,5,0,22.67,noche,fin_semana,0,18.92,puntual
+Calle 72,Calle 146,8.591,5,0,22.67,pico_tarde,habil,0,31.19,retraso_moderado
+Calle 72,Calle 146,8.591,5,0,22.67,pico_manana,habil,0,27.82,retraso_moderado
+Calle 72,Calle 146,8.591,5,0,22.67,pico_manana,habil,0,32.85,retraso_alto
+Calle 72,Calle 146,8.591,5,0,22.67,pico_manana,habil,0,33.23,retraso_alto
+Calle 72,Calle 146,8.591,5,0,22.67,valle,fin_semana,0,22.56,puntual
+Calle 72,Calle 146,8.591,5,0,22.67,noche,fin_semana,0,20.2,puntual
+Calle 72,Calle 85,1.874,3,0,6.4,pico_manana,fin_semana,0,8.77,retraso_moderado
+Calle 72,Calle 85,1.874,3,0,6.4,pico_tarde,habil,1,10.44,retraso_alto
+Calle 72,Calle 85,1.874,3,0,6.4,noche,habil,0,6.6,puntual
+Calle 72,Calle 85,1.874,3,0,6.4,valle,habil,1,7.01,puntual
+Calle 72,Calle 85,1.874,3,0,6.4,pico_tarde,fin_semana,0,8.14,retraso_moderado
+Calle 72,Calle 85,1.874,3,0,6.4,noche,fin_semana,1,6.1,puntual
+Calle 72,Calle 85,1.874,3,0,6.4,valle,habil,0,6.0,puntual
+Calle 72,Calle 85,1.874,3,0,6.4,pico_manana,habil,0,7.41,retraso_moderado
+Calle 72,Heroes,0.804,2,0,1.93,noche,fin_semana,1,1.68,puntual
+Calle 72,Heroes,0.804,2,0,1.93,valle,habil,0,1.96,puntual
+Calle 72,Heroes,0.804,2,0,1.93,noche,fin_semana,1,2.3,retraso_moderado
+Calle 72,Heroes,0.804,2,0,1.93,pico_manana,habil,0,2.53,retraso_moderado
+Calle 72,Heroes,0.804,2,0,1.93,noche,fin_semana,0,1.83,puntual
+Calle 72,Heroes,0.804,2,0,1.93,pico_tarde,habil,0,2.55,retraso_moderado
+Calle 72,Heroes,0.804,2,0,1.93,pico_tarde,habil,0,2.39,retraso_moderado
+Calle 72,Heroes,0.804,2,0,1.93,noche,habil,0,1.71,puntual
+Calle 72,Molinos,10.521,7,2,38.18,valle,habil,1,50.25,retraso_moderado
+Calle 72,Molinos,10.521,7,2,38.18,pico_tarde,fin_semana,1,56.69,retraso_alto
+Calle 72,Molinos,10.521,7,2,38.18,valle,habil,1,48.2,retraso_moderado
+Calle 72,Molinos,10.521,7,2,38.18,pico_manana,fin_semana,0,47.27,retraso_moderado
+Calle 72,Molinos,10.521,7,2,38.18,pico_manana,fin_semana,1,60.08,retraso_alto
+Calle 72,Molinos,10.521,7,2,38.18,noche,fin_semana,0,28.81,puntual
+Calle 72,Molinos,10.521,7,2,38.18,pico_tarde,fin_semana,0,53.66,retraso_alto
+Calle 72,Molinos,10.521,7,2,38.18,noche,fin_semana,0,39.52,puntual
+Calle 72,NQS Calle 30,3.846,7,2,35.74,noche,habil,1,42.22,retraso_moderado
+Calle 72,NQS Calle 30,3.846,7,2,35.74,pico_manana,habil,0,56.13,retraso_alto
+Calle 72,NQS Calle 30,3.846,7,2,35.74,valle,fin_semana,1,41.08,puntual
+Calle 72,NQS Calle 30,3.846,7,2,35.74,noche,fin_semana,0,32.09,puntual
+Calle 72,NQS Calle 30,3.846,7,2,35.74,pico_manana,habil,0,57.38,retraso_alto
+Calle 72,NQS Calle 30,3.846,7,2,35.74,pico_tarde,habil,0,53.36,retraso_alto
+Calle 72,NQS Calle 30,3.846,7,2,35.74,pico_manana,habil,0,47.94,retraso_moderado
+Calle 72,NQS Calle 30,3.846,7,2,35.74,noche,habil,0,38.54,puntual
+Calle 72,Polo,3.188,5,1,17.69,pico_manana,fin_semana,1,28.29,retraso_alto
+Calle 72,Polo,3.188,5,1,17.69,pico_tarde,fin_semana,0,24.8,retraso_alto
+Calle 72,Polo,3.188,5,1,17.69,pico_tarde,fin_semana,0,23.95,retraso_moderado
+Calle 72,Polo,3.188,5,1,17.69,valle,habil,1,18.66,puntual
+Calle 72,Polo,3.188,5,1,17.69,noche,habil,0,17.51,puntual
+Calle 72,Polo,3.188,5,1,17.69,valle,habil,0,19.74,puntual
+Calle 72,Polo,3.188,5,1,17.69,noche,fin_semana,0,15.2,puntual
+Calle 72,Polo,3.188,5,1,17.69,pico_tarde,fin_semana,0,26.51,retraso_alto
+Calle 72,Portal 80,8.425,7,2,35.43,noche,habil,0,38.99,puntual
+Calle 72,Portal 80,8.425,7,2,35.43,noche,fin_semana,1,39.94,puntual
+Calle 72,Portal 80,8.425,7,2,35.43,noche,fin_semana,0,30.83,puntual
+Calle 72,Portal 80,8.425,7,2,35.43,valle,fin_semana,0,39.51,puntual
+Calle 72,Portal 80,8.425,7,2,35.43,valle,fin_semana,0,36.31,puntual
+Calle 72,Portal 80,8.425,7,2,35.43,pico_tarde,fin_semana,1,60.55,retraso_alto
+Calle 72,Portal 80,8.425,7,2,35.43,noche,habil,0,33.14,puntual
+Calle 72,Portal 80,8.425,7,2,35.43,noche,fin_semana,0,36.76,puntual
+Calle 72,Portal Americas,10.775,7,1,52.79,valle,habil,1,63.87,retraso_moderado
+Calle 72,Portal Americas,10.775,7,1,52.79,noche,habil,0,51.68,puntual
+Calle 72,Portal Americas,10.775,7,1,52.79,pico_tarde,habil,0,76.01,retraso_alto
+Calle 72,Portal Americas,10.775,7,1,52.79,pico_tarde,habil,0,74.59,retraso_alto
+Calle 72,Portal Americas,10.775,7,1,52.79,valle,fin_semana,0,60.79,retraso_moderado
+Calle 72,Portal Americas,10.775,7,1,52.79,noche,fin_semana,1,60.47,puntual
+Calle 72,Portal Americas,10.775,7,1,52.79,noche,habil,0,50.35,puntual
+Calle 72,Portal Americas,10.775,7,1,52.79,pico_manana,habil,0,64.38,retraso_moderado
+Calle 72,Portal Norte,11.097,7,0,29.15,pico_tarde,habil,1,43.26,retraso_alto
+Calle 72,Portal Norte,11.097,7,0,29.15,noche,fin_semana,0,23.25,puntual
+Calle 72,Portal Norte,11.097,7,0,29.15,pico_manana,habil,0,39.14,retraso_moderado
+Calle 72,Portal Norte,11.097,7,0,29.15,valle,fin_semana,0,28.74,puntual
+Calle 72,Portal Norte,11.097,7,0,29.15,noche,fin_semana,1,26.37,puntual
+Calle 72,Portal Norte,11.097,7,0,29.15,pico_tarde,habil,0,38.78,retraso_moderado
+Calle 72,Portal Norte,11.097,7,0,29.15,pico_manana,fin_semana,0,36.47,retraso_moderado
+Calle 72,Portal Norte,11.097,7,0,29.15,valle,fin_semana,0,25.81,puntual
+Calle 72,Portal Sur,17.904,8,2,55.92,pico_tarde,fin_semana,0,71.82,retraso_moderado
+Calle 72,Portal Sur,17.904,8,2,55.92,pico_manana,fin_semana,1,85.11,retraso_alto
+Calle 72,Portal Sur,17.904,8,2,55.92,noche,fin_semana,0,50.21,puntual
+Calle 72,Portal Sur,17.904,8,2,55.92,pico_manana,habil,0,94.55,retraso_alto
+Calle 72,Portal Sur,17.904,8,2,55.92,pico_manana,habil,1,95.68,retraso_alto
+Calle 72,Portal Sur,17.904,8,2,55.92,valle,fin_semana,1,66.82,retraso_moderado
+Calle 72,Portal Sur,17.904,8,2,55.92,noche,fin_semana,0,54.35,puntual
+Calle 72,Portal Sur,17.904,8,2,55.92,valle,fin_semana,0,49.4,puntual
+Calle 72,Restrepo,9.755,5,1,30.59,pico_manana,habil,0,40.48,retraso_moderado
+Calle 72,Restrepo,9.755,5,1,30.59,valle,habil,0,30.73,puntual
+Calle 72,Restrepo,9.755,5,1,30.59,pico_manana,habil,1,51.24,retraso_alto
+Calle 72,Restrepo,9.755,5,1,30.59,noche,habil,0,32.52,puntual
+Calle 72,Restrepo,9.755,5,1,30.59,noche,fin_semana,1,29.65,puntual
+Calle 72,Restrepo,9.755,5,1,30.59,pico_manana,fin_semana,0,41.04,retraso_moderado
+Calle 72,Restrepo,9.755,5,1,30.59,noche,habil,1,34.45,puntual
+Calle 72,Restrepo,9.755,5,1,30.59,pico_manana,habil,0,40.56,retraso_moderado
+Calle 72,Ricaurte,5.028,6,2,35.86,pico_manana,habil,0,56.3,retraso_alto
+Calle 72,Ricaurte,5.028,6,2,35.86,valle,fin_semana,0,37.34,puntual
+Calle 72,Ricaurte,5.028,6,2,35.86,valle,fin_semana,0,37.08,puntual
+Calle 72,Ricaurte,5.028,6,2,35.86,valle,habil,0,43.56,retraso_moderado
+Calle 72,Ricaurte,5.028,6,2,35.86,pico_tarde,habil,0,53.31,retraso_alto
+Calle 72,Ricaurte,5.028,6,2,35.86,pico_manana,fin_semana,0,51.78,retraso_alto
+Calle 72,Ricaurte,5.028,6,2,35.86,noche,habil,0,40.55,puntual
+Calle 72,Ricaurte,5.028,6,2,35.86,noche,fin_semana,1,31.45,puntual
+Calle 72,Tercer Milenio,7.265,4,1,24.47,noche,fin_semana,1,26.52,puntual
+Calle 72,Tercer Milenio,7.265,4,1,24.47,pico_manana,habil,0,31.98,retraso_moderado
+Calle 72,Tercer Milenio,7.265,4,1,24.47,pico_tarde,habil,0,36.35,retraso_alto
+Calle 72,Tercer Milenio,7.265,4,1,24.47,noche,fin_semana,1,26.91,puntual
+Calle 72,Tercer Milenio,7.265,4,1,24.47,pico_manana,habil,0,35.5,retraso_alto
+Calle 72,Tercer Milenio,7.265,4,1,24.47,pico_tarde,habil,1,35.29,retraso_alto
+Calle 72,Tercer Milenio,7.265,4,1,24.47,noche,habil,0,27.35,puntual
+Calle 72,Tercer Milenio,7.265,4,1,24.47,valle,fin_semana,0,25.22,puntual
+Calle 72,Toberin,9.551,6,0,25.33,noche,fin_semana,0,22.14,puntual
+Calle 72,Toberin,9.551,6,0,25.33,pico_manana,habil,0,33.31,retraso_moderado
+Calle 72,Toberin,9.551,6,0,25.33,pico_tarde,fin_semana,0,28.58,puntual
+Calle 72,Toberin,9.551,6,0,25.33,valle,habil,1,26.41,puntual
+Calle 72,Toberin,9.551,6,0,25.33,pico_tarde,fin_semana,1,34.18,retraso_moderado
+Calle 72,Toberin,9.551,6,0,25.33,pico_tarde,fin_semana,1,36.08,retraso_alto
+Calle 72,Toberin,9.551,6,0,25.33,pico_tarde,habil,0,40.31,retraso_alto
+Calle 72,Toberin,9.551,6,0,25.33,pico_manana,fin_semana,1,34.24,retraso_moderado
+Calle 85,Av Jimenez,7.677,4,0,20.48,valle,habil,0,21.36,puntual
+Calle 85,Av Jimenez,7.677,4,0,20.48,valle,fin_semana,0,19.47,puntual
+Calle 85,Av Jimenez,7.677,4,0,20.48,valle,fin_semana,1,19.6,puntual
+Calle 85,Av Jimenez,7.677,4,0,20.48,pico_manana,fin_semana,1,29.91,retraso_alto
+Calle 85,Av Jimenez,7.677,4,0,20.48,pico_tarde,fin_semana,0,27.56,retraso_moderado
+Calle 85,Av Jimenez,7.677,4,0,20.48,pico_manana,habil,1,31.1,retraso_alto
+Calle 85,Av Jimenez,7.677,4,0,20.48,noche,fin_semana,0,17.91,puntual
+Calle 85,Av Jimenez,7.677,4,0,20.48,noche,habil,0,17.96,puntual
+Calle 85,Banderas,9.593,8,1,52.8,pico_tarde,fin_semana,0,66.01,retraso_moderado
+Calle 85,Banderas,9.593,8,1,52.8,noche,fin_semana,1,59.39,puntual
+Calle 85,Banderas,9.593,8,1,52.8,pico_manana,habil,0,66.84,retraso_moderado
+Calle 85,Banderas,9.593,8,1,52.8,pico_manana,habil,0,66.72,retraso_moderado
+Calle 85,Banderas,9.593,8,1,52.8,noche,fin_semana,0,51.4,puntual
+Calle 85,Banderas,9.593,8,1,52.8,valle,fin_semana,0,49.68,puntual
+Calle 85,Banderas,9.593,8,1,52.8,pico_tarde,habil,1,87.36,retraso_alto
+Calle 85,Banderas,9.593,8,1,52.8,valle,habil,0,56.85,puntual
+Calle 85,Calle 100,2.296,2,0,5.51,pico_tarde,habil,0,7.18,retraso_moderado
+Calle 85,Calle 100,2.296,2,0,5.51,pico_manana,habil,0,6.67,retraso_moderado
+Calle 85,Calle 100,2.296,2,0,5.51,pico_manana,habil,1,8.71,retraso_alto
+Calle 85,Calle 100,2.296,2,0,5.51,pico_manana,habil,1,9.58,retraso_alto
+Calle 85,Calle 100,2.296,2,0,5.51,pico_tarde,habil,0,7.47,retraso_moderado
+Calle 85,Calle 100,2.296,2,0,5.51,valle,fin_semana,0,4.54,puntual
+Calle 85,Calle 100,2.296,2,0,5.51,pico_manana,habil,0,7.1,retraso_moderado
+Calle 85,Calle 100,2.296,2,0,5.51,noche,habil,1,6.32,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,valle,habil,1,16.81,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,valle,fin_semana,0,14.02,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,valle,habil,0,15.22,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,valle,habil,0,15.33,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,valle,habil,1,18.53,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,noche,fin_semana,0,12.88,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,valle,fin_semana,1,18.31,puntual
+Calle 85,Calle 146,6.755,3,0,16.27,pico_tarde,habil,1,27.53,retraso_alto
+Calle 85,Calle 72,1.874,3,0,6.4,pico_tarde,habil,1,9.89,retraso_alto
+Calle 85,Calle 72,1.874,3,0,6.4,noche,fin_semana,1,6.09,puntual
+Calle 85,Calle 72,1.874,3,0,6.4,pico_manana,habil,0,8.25,retraso_moderado
+Calle 85,Calle 72,1.874,3,0,6.4,pico_manana,habil,0,8.98,retraso_alto
+Calle 85,Calle 72,1.874,3,0,6.4,pico_tarde,habil,0,9.56,retraso_alto
+Calle 85,Calle 72,1.874,3,0,6.4,pico_tarde,habil,0,8.25,retraso_moderado
+Calle 85,Calle 72,1.874,3,0,6.4,pico_manana,habil,1,10.5,retraso_alto
+Calle 85,Calle 72,1.874,3,0,6.4,pico_manana,habil,0,8.86,retraso_moderado
+Calle 85,Heroes,1.863,2,0,4.47,pico_tarde,fin_semana,0,5.58,retraso_moderado
+Calle 85,Heroes,1.863,2,0,4.47,valle,fin_semana,0,3.9,puntual
+Calle 85,Heroes,1.863,2,0,4.47,pico_tarde,habil,1,8.57,retraso_alto
+Calle 85,Heroes,1.863,2,0,4.47,valle,fin_semana,0,3.61,puntual
+Calle 85,Heroes,1.863,2,0,4.47,pico_manana,fin_semana,1,5.1,puntual
+Calle 85,Heroes,1.863,2,0,4.47,valle,habil,0,4.81,puntual
+Calle 85,Heroes,1.863,2,0,4.47,pico_manana,fin_semana,0,4.86,puntual
+Calle 85,Heroes,1.863,2,0,4.47,pico_tarde,habil,0,6.46,retraso_alto
+Calle 85,Molinos,12.394,8,1,43.02,pico_manana,habil,1,76.68,retraso_alto
+Calle 85,Molinos,12.394,8,1,43.02,pico_tarde,fin_semana,0,57.3,retraso_moderado
+Calle 85,Molinos,12.394,8,1,43.02,pico_tarde,habil,1,73.62,retraso_alto
+Calle 85,Molinos,12.394,8,1,43.02,pico_manana,habil,0,57.2,retraso_moderado
+Calle 85,Molinos,12.394,8,1,43.02,noche,fin_semana,1,49.58,retraso_moderado
+Calle 85,Molinos,12.394,8,1,43.02,pico_manana,fin_semana,0,57.59,retraso_moderado
+Calle 85,Molinos,12.394,8,1,43.02,pico_tarde,habil,0,65.18,retraso_alto
+Calle 85,Molinos,12.394,8,1,43.02,valle,fin_semana,0,39.14,puntual
+Calle 85,NQS Calle 30,5.61,4,1,24.33,pico_manana,habil,1,38.72,retraso_alto
+Calle 85,NQS Calle 30,5.61,4,1,24.33,pico_manana,habil,0,34.45,retraso_alto
+Calle 85,NQS Calle 30,5.61,4,1,24.33,noche,fin_semana,0,22.81,puntual
+Calle 85,NQS Calle 30,5.61,4,1,24.33,pico_manana,fin_semana,0,30.3,retraso_moderado
+Calle 85,NQS Calle 30,5.61,4,1,24.33,pico_tarde,habil,0,37.94,retraso_alto
+Calle 85,NQS Calle 30,5.61,4,1,24.33,pico_manana,fin_semana,0,29.94,retraso_moderado
+Calle 85,NQS Calle 30,5.61,4,1,24.33,pico_manana,habil,0,37.1,retraso_alto
+Calle 85,NQS Calle 30,5.61,4,1,24.33,noche,habil,0,19.11,puntual
+Calle 85,Polo,2.619,2,0,6.29,pico_tarde,fin_semana,0,8.52,retraso_moderado
+Calle 85,Polo,2.619,2,0,6.29,pico_tarde,habil,0,9.2,retraso_alto
+Calle 85,Polo,2.619,2,0,6.29,pico_tarde,habil,0,7.53,retraso_moderado
+Calle 85,Polo,2.619,2,0,6.29,valle,habil,0,7.28,retraso_moderado
+Calle 85,Polo,2.619,2,0,6.29,pico_manana,fin_semana,0,7.7,retraso_moderado
+Calle 85,Polo,2.619,2,0,6.29,pico_manana,fin_semana,0,8.2,retraso_moderado
+Calle 85,Polo,2.619,2,0,6.29,noche,fin_semana,0,5.72,puntual
+Calle 85,Polo,2.619,2,0,6.29,noche,fin_semana,0,6.56,puntual
+Calle 85,Portal 80,7.811,4,1,24.02,valle,fin_semana,0,23.97,puntual
+Calle 85,Portal 80,7.811,4,1,24.02,noche,fin_semana,0,21.91,puntual
+Calle 85,Portal 80,7.811,4,1,24.02,pico_manana,habil,1,43.04,retraso_alto
+Calle 85,Portal 80,7.811,4,1,24.02,pico_manana,habil,0,37.81,retraso_alto
+Calle 85,Portal 80,7.811,4,1,24.02,valle,habil,0,25.1,puntual
+Calle 85,Portal 80,7.811,4,1,24.02,noche,fin_semana,0,23.06,puntual
+Calle 85,Portal 80,7.811,4,1,24.02,noche,fin_semana,0,22.6,puntual
+Calle 85,Portal 80,7.811,4,1,24.02,pico_manana,habil,0,34.88,retraso_alto
+Calle 85,Portal Americas,12.131,9,1,59.19,valle,fin_semana,0,55.04,puntual
+Calle 85,Portal Americas,12.131,9,1,59.19,pico_tarde,habil,0,90.26,retraso_alto
+Calle 85,Portal Americas,12.131,9,1,59.19,pico_tarde,fin_semana,0,79.94,retraso_moderado
+Calle 85,Portal Americas,12.131,9,1,59.19,pico_tarde,habil,0,84.58,retraso_alto
+Calle 85,Portal Americas,12.131,9,1,59.19,pico_tarde,habil,0,82.59,retraso_moderado
+Calle 85,Portal Americas,12.131,9,1,59.19,noche,habil,1,54.04,puntual
+Calle 85,Portal Americas,12.131,9,1,59.19,pico_tarde,fin_semana,0,84.56,retraso_alto
+Calle 85,Portal Americas,12.131,9,1,59.19,noche,habil,0,59.97,puntual
+Calle 85,Portal Norte,9.308,5,0,22.75,noche,habil,0,22.06,puntual
+Calle 85,Portal Norte,9.308,5,0,22.75,valle,habil,0,23.2,puntual
+Calle 85,Portal Norte,9.308,5,0,22.75,noche,fin_semana,1,20.61,puntual
+Calle 85,Portal Norte,9.308,5,0,22.75,pico_tarde,habil,0,29.17,retraso_moderado
+Calle 85,Portal Norte,9.308,5,0,22.75,pico_manana,habil,1,33.92,retraso_alto
+Calle 85,Portal Norte,9.308,5,0,22.75,pico_tarde,habil,0,32.31,retraso_alto
+Calle 85,Portal Norte,9.308,5,0,22.75,noche,habil,0,23.25,puntual
+Calle 85,Portal Norte,9.308,5,0,22.75,noche,fin_semana,0,18.69,puntual
+Calle 85,Portal Sur,19.774,9,1,60.76,noche,fin_semana,0,48.75,puntual
+Calle 85,Portal Sur,19.774,9,1,60.76,pico_tarde,fin_semana,0,91.55,retraso_alto
+Calle 85,Portal Sur,19.774,9,1,60.76,valle,habil,1,70.14,retraso_moderado
+Calle 85,Portal Sur,19.774,9,1,60.76,pico_tarde,fin_semana,0,77.1,retraso_moderado
+Calle 85,Portal Sur,19.774,9,1,60.76,noche,habil,0,60.12,puntual
+Calle 85,Portal Sur,19.774,9,1,60.76,valle,habil,1,76.5,retraso_moderado
+Calle 85,Portal Sur,19.774,9,1,60.76,pico_manana,fin_semana,1,83.48,retraso_moderado
+Calle 85,Portal Sur,19.774,9,1,60.76,noche,fin_semana,1,67.6,puntual
+Calle 85,Restrepo,11.627,7,1,36.99,pico_tarde,fin_semana,0,50.41,retraso_moderado
+Calle 85,Restrepo,11.627,7,1,36.99,valle,habil,0,41.31,puntual
+Calle 85,Restrepo,11.627,7,1,36.99,pico_manana,fin_semana,1,50.68,retraso_moderado
+Calle 85,Restrepo,11.627,7,1,36.99,valle,habil,0,42.06,puntual
+Calle 85,Restrepo,11.627,7,1,36.99,valle,habil,0,33.47,puntual
+Calle 85,Restrepo,11.627,7,1,36.99,pico_manana,habil,1,58.51,retraso_alto
+Calle 85,Restrepo,11.627,7,1,36.99,noche,fin_semana,0,34.81,puntual
+Calle 85,Restrepo,11.627,7,1,36.99,pico_tarde,habil,1,68.53,retraso_alto
+Calle 85,Ricaurte,6.872,5,1,27.93,pico_tarde,habil,1,54.03,retraso_alto
+Calle 85,Ricaurte,6.872,5,1,27.93,noche,fin_semana,0,23.86,puntual
+Calle 85,Ricaurte,6.872,5,1,27.93,noche,habil,0,30.7,puntual
+Calle 85,Ricaurte,6.872,5,1,27.93,pico_manana,fin_semana,0,36.97,retraso_moderado
+Calle 85,Ricaurte,6.872,5,1,27.93,pico_tarde,habil,0,39.95,retraso_alto
+Calle 85,Ricaurte,6.872,5,1,27.93,pico_tarde,habil,0,42.79,retraso_alto
+Calle 85,Ricaurte,6.872,5,1,27.93,valle,habil,0,31.98,puntual
+Calle 85,Ricaurte,6.872,5,1,27.93,pico_manana,fin_semana,1,35.63,retraso_moderado
+Calle 85,Tercer Milenio,9.138,6,1,30.88,noche,habil,0,30.37,puntual
+Calle 85,Tercer Milenio,9.138,6,1,30.88,valle,fin_semana,1,34.93,puntual
+Calle 85,Tercer Milenio,9.138,6,1,30.88,noche,fin_semana,0,26.96,puntual
+Calle 85,Tercer Milenio,9.138,6,1,30.88,pico_tarde,habil,1,47.02,retraso_alto
+Calle 85,Tercer Milenio,9.138,6,1,30.88,valle,fin_semana,0,28.98,puntual
+Calle 85,Tercer Milenio,9.138,6,1,30.88,valle,habil,1,34.8,puntual
+Calle 85,Tercer Milenio,9.138,6,1,30.88,noche,habil,0,26.36,puntual
+Calle 85,Tercer Milenio,9.138,6,1,30.88,valle,habil,0,28.91,puntual
+Calle 85,Toberin,7.743,4,0,18.93,valle,fin_semana,1,20.87,puntual
+Calle 85,Toberin,7.743,4,0,18.93,pico_tarde,habil,1,31.53,retraso_alto
+Calle 85,Toberin,7.743,4,0,18.93,pico_manana,fin_semana,0,24.26,retraso_moderado
+Calle 85,Toberin,7.743,4,0,18.93,pico_manana,fin_semana,0,23.09,retraso_moderado
+Calle 85,Toberin,7.743,4,0,18.93,pico_manana,habil,0,23.05,retraso_moderado
+Calle 85,Toberin,7.743,4,0,18.93,valle,fin_semana,0,18.49,puntual
+Calle 85,Toberin,7.743,4,0,18.93,noche,fin_semana,1,16.63,puntual
+Calle 85,Toberin,7.743,4,0,18.93,valle,habil,0,20.94,puntual
+Heroes,Av Jimenez,6.312,3,0,16.01,pico_manana,habil,0,22.95,retraso_alto
+Heroes,Av Jimenez,6.312,3,0,16.01,pico_manana,habil,0,21.79,retraso_moderado
+Heroes,Av Jimenez,6.312,3,0,16.01,valle,fin_semana,0,14.25,puntual
+Heroes,Av Jimenez,6.312,3,0,16.01,pico_manana,fin_semana,1,20.14,retraso_moderado
+Heroes,Av Jimenez,6.312,3,0,16.01,noche,habil,0,15.9,puntual
+Heroes,Av Jimenez,6.312,3,0,16.01,noche,habil,0,14.95,puntual
+Heroes,Av Jimenez,6.312,3,0,16.01,pico_manana,fin_semana,0,21.03,retraso_moderado
+Heroes,Av Jimenez,6.312,3,0,16.01,pico_tarde,fin_semana,0,19.91,retraso_moderado
+Heroes,Banderas,7.775,7,1,48.33,valle,habil,0,46.74,puntual
+Heroes,Banderas,7.775,7,1,48.33,noche,habil,0,51.24,puntual
+Heroes,Banderas,7.775,7,1,48.33,pico_tarde,habil,0,80.07,retraso_alto
+Heroes,Banderas,7.775,7,1,48.33,noche,habil,0,51.97,puntual
+Heroes,Banderas,7.775,7,1,48.33,pico_manana,habil,0,58.78,retraso_moderado
+Heroes,Banderas,7.775,7,1,48.33,noche,habil,0,40.12,puntual
+Heroes,Banderas,7.775,7,1,48.33,noche,fin_semana,0,45.54,puntual
+Heroes,Banderas,7.775,7,1,48.33,noche,habil,0,46.35,puntual
+Heroes,Calle 100,4.008,3,0,9.98,noche,fin_semana,0,8.03,puntual
+Heroes,Calle 100,4.008,3,0,9.98,noche,fin_semana,0,8.71,puntual
+Heroes,Calle 100,4.008,3,0,9.98,pico_tarde,habil,0,14.0,retraso_alto
+Heroes,Calle 100,4.008,3,0,9.98,pico_manana,fin_semana,1,12.29,retraso_moderado
+Heroes,Calle 100,4.008,3,0,9.98,noche,habil,1,11.71,retraso_moderado
+Heroes,Calle 100,4.008,3,0,9.98,noche,fin_semana,1,10.11,puntual
+Heroes,Calle 100,4.008,3,0,9.98,valle,fin_semana,0,10.35,puntual
+Heroes,Calle 100,4.008,3,0,9.98,pico_manana,habil,0,14.58,retraso_alto
+Heroes,Calle 146,8.305,4,0,20.74,noche,habil,0,22.52,puntual
+Heroes,Calle 146,8.305,4,0,20.74,valle,habil,0,20.21,puntual
+Heroes,Calle 146,8.305,4,0,20.74,pico_manana,fin_semana,0,28.03,retraso_moderado
+Heroes,Calle 146,8.305,4,0,20.74,pico_tarde,fin_semana,1,29.99,retraso_alto
+Heroes,Calle 146,8.305,4,0,20.74,pico_manana,habil,0,25.34,retraso_moderado
+Heroes,Calle 146,8.305,4,0,20.74,pico_tarde,fin_semana,0,25.21,retraso_moderado
+Heroes,Calle 146,8.305,4,0,20.74,noche,habil,0,20.9,puntual
+Heroes,Calle 146,8.305,4,0,20.74,pico_manana,habil,1,34.89,retraso_alto
+Heroes,Calle 72,0.804,2,0,1.93,pico_manana,fin_semana,1,3.02,retraso_alto
+Heroes,Calle 72,0.804,2,0,1.93,pico_tarde,fin_semana,1,2.48,retraso_moderado
+Heroes,Calle 72,0.804,2,0,1.93,noche,fin_semana,0,1.71,puntual
+Heroes,Calle 72,0.804,2,0,1.93,noche,habil,0,1.97,puntual
+Heroes,Calle 72,0.804,2,0,1.93,pico_tarde,habil,0,2.69,retraso_moderado
+Heroes,Calle 72,0.804,2,0,1.93,pico_tarde,habil,0,2.22,puntual
+Heroes,Calle 72,0.804,2,0,1.93,pico_tarde,fin_semana,0,2.64,retraso_moderado
+Heroes,Calle 72,0.804,2,0,1.93,pico_manana,habil,0,2.26,retraso_moderado
+Heroes,Calle 85,1.863,2,0,4.47,pico_tarde,fin_semana,0,5.58,retraso_moderado
+Heroes,Calle 85,1.863,2,0,4.47,pico_manana,habil,0,6.53,retraso_alto
+Heroes,Calle 85,1.863,2,0,4.47,valle,fin_semana,1,4.18,puntual
+Heroes,Calle 85,1.863,2,0,4.47,pico_tarde,habil,1,7.27,retraso_alto
+Heroes,Calle 85,1.863,2,0,4.47,valle,habil,0,4.38,puntual
+Heroes,Calle 85,1.863,2,0,4.47,pico_manana,habil,0,5.56,retraso_moderado
+Heroes,Calle 85,1.863,2,0,4.47,valle,habil,0,4.58,puntual
+Heroes,Calle 85,1.863,2,0,4.47,pico_tarde,habil,0,6.29,retraso_alto
+Heroes,Molinos,10.763,8,2,40.11,pico_tarde,fin_semana,1,54.7,retraso_moderado
+Heroes,Molinos,10.763,8,2,40.11,pico_manana,habil,0,66.08,retraso_alto
+Heroes,Molinos,10.763,8,2,40.11,noche,fin_semana,0,41.05,puntual
+Heroes,Molinos,10.763,8,2,40.11,pico_tarde,fin_semana,0,54.36,retraso_moderado
+Heroes,Molinos,10.763,8,2,40.11,pico_tarde,habil,0,63.33,retraso_alto
+Heroes,Molinos,10.763,8,2,40.11,valle,habil,1,50.97,retraso_moderado
+Heroes,Molinos,10.763,8,2,40.11,valle,habil,0,41.67,puntual
+Heroes,Molinos,10.763,8,2,40.11,pico_manana,fin_semana,0,49.42,retraso_moderado
+Heroes,NQS Calle 30,3.779,6,2,33.81,valle,habil,0,37.11,puntual
+Heroes,NQS Calle 30,3.779,6,2,33.81,pico_tarde,fin_semana,0,53.63,retraso_alto
+Heroes,NQS Calle 30,3.779,6,2,33.81,noche,fin_semana,0,31.76,puntual
+Heroes,NQS Calle 30,3.779,6,2,33.81,noche,habil,0,38.5,puntual
+Heroes,NQS Calle 30,3.779,6,2,33.81,pico_tarde,fin_semana,0,45.13,retraso_moderado
+Heroes,NQS Calle 30,3.779,6,2,33.81,pico_tarde,fin_semana,1,49.35,retraso_alto
+Heroes,NQS Calle 30,3.779,6,2,33.81,pico_tarde,fin_semana,0,41.71,retraso_moderado
+Heroes,NQS Calle 30,3.779,6,2,33.81,pico_tarde,habil,0,43.53,retraso_moderado
+Heroes,Polo,2.458,4,1,15.76,valle,habil,1,17.93,puntual
+Heroes,Polo,2.458,4,1,15.76,valle,habil,1,19.78,retraso_moderado
+Heroes,Polo,2.458,4,1,15.76,noche,fin_semana,0,15.11,puntual
+Heroes,Polo,2.458,4,1,15.76,pico_manana,habil,0,21.33,retraso_moderado
+Heroes,Polo,2.458,4,1,15.76,valle,fin_semana,1,16.4,puntual
+Heroes,Polo,2.458,4,1,15.76,valle,habil,0,17.41,puntual
+Heroes,Polo,2.458,4,1,15.76,pico_manana,fin_semana,0,19.96,retraso_moderado
+Heroes,Polo,2.458,4,1,15.76,valle,fin_semana,1,14.93,puntual
+Heroes,Portal 80,7.641,6,2,33.49,pico_manana,habil,0,51.08,retraso_alto
+Heroes,Portal 80,7.641,6,2,33.49,noche,fin_semana,0,36.53,puntual
+Heroes,Portal 80,7.641,6,2,33.49,pico_tarde,fin_semana,0,48.91,retraso_alto
+Heroes,Portal 80,7.641,6,2,33.49,pico_manana,fin_semana,0,41.52,retraso_moderado
+Heroes,Portal 80,7.641,6,2,33.49,pico_manana,fin_semana,1,51.07,retraso_alto
+Heroes,Portal 80,7.641,6,2,33.49,valle,habil,0,37.78,puntual
+Heroes,Portal 80,7.641,6,2,33.49,pico_tarde,fin_semana,1,63.2,retraso_alto
+Heroes,Portal 80,7.641,6,2,33.49,valle,fin_semana,1,32.54,puntual
+Heroes,Portal Americas,10.349,8,1,54.72,valle,habil,0,50.75,puntual
+Heroes,Portal Americas,10.349,8,1,54.72,pico_tarde,habil,0,96.85,retraso_alto
+Heroes,Portal Americas,10.349,8,1,54.72,noche,fin_semana,0,49.29,puntual
+Heroes,Portal Americas,10.349,8,1,54.72,valle,fin_semana,0,49.2,puntual
+Heroes,Portal Americas,10.349,8,1,54.72,valle,fin_semana,1,54.91,puntual
+Heroes,Portal Americas,10.349,8,1,54.72,noche,fin_semana,0,50.91,puntual
+Heroes,Portal Americas,10.349,8,1,54.72,pico_manana,habil,1,88.36,retraso_alto
+Heroes,Portal Americas,10.349,8,1,54.72,pico_tarde,habil,0,81.21,retraso_alto
+Heroes,Portal Norte,10.732,6,0,27.22,pico_manana,habil,0,35.81,retraso_moderado
+Heroes,Portal Norte,10.732,6,0,27.22,valle,habil,0,25.34,puntual
+Heroes,Portal Norte,10.732,6,0,27.22,pico_tarde,habil,0,39.25,retraso_alto
+Heroes,Portal Norte,10.732,6,0,27.22,pico_tarde,fin_semana,1,37.06,retraso_moderado
+Heroes,Portal Norte,10.732,6,0,27.22,pico_tarde,fin_semana,1,42.33,retraso_alto
+Heroes,Portal Norte,10.732,6,0,27.22,noche,fin_semana,0,23.22,puntual
+Heroes,Portal Norte,10.732,6,0,27.22,valle,fin_semana,0,24.92,puntual
+Heroes,Portal Norte,10.732,6,0,27.22,valle,habil,1,35.3,retraso_moderado
+Heroes,Portal Sur,18.154,9,2,57.85,pico_manana,habil,0,79.24,retraso_moderado
+Heroes,Portal Sur,18.154,9,2,57.85,pico_manana,fin_semana,1,96.58,retraso_alto
+Heroes,Portal Sur,18.154,9,2,57.85,pico_tarde,habil,1,114.52,retraso_alto
+Heroes,Portal Sur,18.154,9,2,57.85,pico_manana,habil,1,98.41,retraso_alto
+Heroes,Portal Sur,18.154,9,2,57.85,pico_manana,fin_semana,0,71.63,retraso_moderado
+Heroes,Portal Sur,18.154,9,2,57.85,noche,habil,0,64.61,puntual
+Heroes,Portal Sur,18.154,9,2,57.85,pico_manana,fin_semana,0,72.51,retraso_moderado
+Heroes,Portal Sur,18.154,9,2,57.85,pico_tarde,habil,0,80.16,retraso_moderado
+Heroes,Restrepo,9.941,6,1,32.52,pico_manana,habil,0,47.42,retraso_alto
+Heroes,Restrepo,9.941,6,1,32.52,valle,habil,0,35.0,puntual
+Heroes,Restrepo,9.941,6,1,32.52,valle,fin_semana,1,33.93,puntual
+Heroes,Restrepo,9.941,6,1,32.52,noche,habil,1,38.26,retraso_moderado
+Heroes,Restrepo,9.941,6,1,32.52,noche,fin_semana,0,32.68,puntual
+Heroes,Restrepo,9.941,6,1,32.52,pico_manana,fin_semana,0,41.58,retraso_moderado
+Heroes,Restrepo,9.941,6,1,32.52,pico_manana,habil,1,51.5,retraso_alto
+Heroes,Restrepo,9.941,6,1,32.52,valle,fin_semana,0,25.48,puntual
+Heroes,Ricaurte,5.109,7,2,37.4,pico_tarde,fin_semana,0,53.92,retraso_alto
+Heroes,Ricaurte,5.109,7,2,37.4,pico_manana,fin_semana,0,51.44,retraso_moderado
+Heroes,Ricaurte,5.109,7,2,37.4,pico_tarde,fin_semana,1,66.56,retraso_alto
+Heroes,Ricaurte,5.109,7,2,37.4,pico_manana,habil,0,61.31,retraso_alto
+Heroes,Ricaurte,5.109,7,2,37.4,valle,fin_semana,0,42.84,puntual
+Heroes,Ricaurte,5.109,7,2,37.4,pico_tarde,habil,0,50.54,retraso_moderado
+Heroes,Ricaurte,5.109,7,2,37.4,pico_tarde,habil,0,48.02,retraso_moderado
+Heroes,Ricaurte,5.109,7,2,37.4,pico_tarde,fin_semana,1,66.74,retraso_alto
+Heroes,Tercer Milenio,7.512,5,1,26.4,noche,fin_semana,1,28.25,puntual
+Heroes,Tercer Milenio,7.512,5,1,26.4,valle,habil,0,26.85,puntual
+Heroes,Tercer Milenio,7.512,5,1,26.4,pico_manana,fin_semana,1,34.74,retraso_moderado
+Heroes,Tercer Milenio,7.512,5,1,26.4,noche,habil,1,30.63,retraso_moderado
+Heroes,Tercer Milenio,7.512,5,1,26.4,noche,fin_semana,1,30.52,retraso_moderado
+Heroes,Tercer Milenio,7.512,5,1,26.4,valle,fin_semana,0,25.5,puntual
+Heroes,Tercer Milenio,7.512,5,1,26.4,pico_manana,fin_semana,0,35.7,retraso_moderado
+Heroes,Tercer Milenio,7.512,5,1,26.4,pico_tarde,habil,1,45.43,retraso_alto
+Heroes,Toberin,9.216,5,0,23.4,valle,fin_semana,1,21.24,puntual
+Heroes,Toberin,9.216,5,0,23.4,pico_manana,fin_semana,1,32.11,retraso_moderado
+Heroes,Toberin,9.216,5,0,23.4,valle,fin_semana,0,19.81,puntual
+Heroes,Toberin,9.216,5,0,23.4,valle,habil,0,21.1,puntual
+Heroes,Toberin,9.216,5,0,23.4,valle,fin_semana,0,21.51,puntual
+Heroes,Toberin,9.216,5,0,23.4,noche,fin_semana,0,19.55,puntual
+Heroes,Toberin,9.216,5,0,23.4,pico_tarde,fin_semana,0,26.5,puntual
+Heroes,Toberin,9.216,5,0,23.4,noche,fin_semana,0,19.92,puntual
+Molinos,Av Jimenez,5.082,5,1,19.1,pico_manana,fin_semana,0,25.04,retraso_moderado
+Molinos,Av Jimenez,5.082,5,1,19.1,noche,fin_semana,0,15.73,puntual
+Molinos,Av Jimenez,5.082,5,1,19.1,pico_manana,fin_semana,1,27.43,retraso_alto
+Molinos,Av Jimenez,5.082,5,1,19.1,noche,habil,1,21.24,puntual
+Molinos,Av Jimenez,5.082,5,1,19.1,pico_manana,habil,1,34.59,retraso_alto
+Molinos,Av Jimenez,5.082,5,1,19.1,valle,fin_semana,0,17.58,puntual
+Molinos,Av Jimenez,5.082,5,1,19.1,pico_tarde,habil,0,29.21,retraso_alto
+Molinos,Av Jimenez,5.082,5,1,19.1,noche,fin_semana,1,18.54,puntual
+Molinos,Banderas,7.653,4,1,23.4,noche,habil,0,23.41,puntual
+Molinos,Banderas,7.653,4,1,23.4,pico_tarde,fin_semana,1,33.58,retraso_alto
+Molinos,Banderas,7.653,4,1,23.4,pico_tarde,fin_semana,1,40.36,retraso_alto
+Molinos,Banderas,7.653,4,1,23.4,noche,habil,1,29.67,retraso_moderado
+Molinos,Banderas,7.653,4,1,23.4,noche,habil,0,22.41,puntual
+Molinos,Banderas,7.653,4,1,23.4,noche,habil,0,22.56,puntual
+Molinos,Banderas,7.653,4,1,23.4,valle,fin_semana,0,22.13,puntual
+Molinos,Banderas,7.653,4,1,23.4,pico_manana,fin_semana,0,29.11,retraso_moderado
+Molinos,Calle 100,14.684,10,2,50.1,valle,fin_semana,0,48.37,puntual
+Molinos,Calle 100,14.684,10,2,50.1,noche,fin_semana,1,53.92,puntual
+Molinos,Calle 100,14.684,10,2,50.1,valle,habil,1,64.32,retraso_moderado
+Molinos,Calle 100,14.684,10,2,50.1,pico_tarde,fin_semana,0,67.05,retraso_moderado
+Molinos,Calle 100,14.684,10,2,50.1,valle,fin_semana,0,59.85,retraso_moderado
+Molinos,Calle 100,14.684,10,2,50.1,noche,habil,0,49.83,puntual
+Molinos,Calle 100,14.684,10,2,50.1,noche,fin_semana,1,50.59,puntual
+Molinos,Calle 100,14.684,10,2,50.1,valle,habil,0,53.97,puntual
+Molinos,Calle 146,19.067,11,2,60.85,pico_tarde,fin_semana,1,105.2,retraso_alto
+Molinos,Calle 146,19.067,11,2,60.85,valle,fin_semana,1,75.74,retraso_moderado
+Molinos,Calle 146,19.067,11,2,60.85,pico_manana,fin_semana,1,83.87,retraso_moderado
+Molinos,Calle 146,19.067,11,2,60.85,noche,fin_semana,0,57.96,puntual
+Molinos,Calle 146,19.067,11,2,60.85,pico_manana,habil,0,88.62,retraso_alto
+Molinos,Calle 146,19.067,11,2,60.85,pico_manana,habil,0,91.99,retraso_alto
+Molinos,Calle 146,19.067,11,2,60.85,valle,fin_semana,1,69.24,puntual
+Molinos,Calle 146,19.067,11,2,60.85,pico_tarde,habil,1,124.26,retraso_alto
+Molinos,Calle 72,10.521,7,2,38.18,pico_manana,fin_semana,0,57.6,retraso_alto
+Molinos,Calle 72,10.521,7,2,38.18,valle,fin_semana,0,41.45,puntual
+Molinos,Calle 72,10.521,7,2,38.18,pico_tarde,habil,0,49.84,retraso_moderado
+Molinos,Calle 72,10.521,7,2,38.18,pico_tarde,habil,0,66.45,retraso_alto
+Molinos,Calle 72,10.521,7,2,38.18,pico_tarde,habil,1,74.91,retraso_alto
+Molinos,Calle 72,10.521,7,2,38.18,noche,habil,1,40.54,puntual
+Molinos,Calle 72,10.521,7,2,38.18,pico_tarde,habil,1,72.02,retraso_alto
+Molinos,Calle 72,10.521,7,2,38.18,valle,habil,0,41.38,puntual
+Molinos,Calle 85,12.394,8,1,43.02,valle,habil,0,48.0,puntual
+Molinos,Calle 85,12.394,8,1,43.02,pico_tarde,habil,0,64.27,retraso_alto
+Molinos,Calle 85,12.394,8,1,43.02,pico_tarde,habil,0,51.59,retraso_moderado
+Molinos,Calle 85,12.394,8,1,43.02,pico_manana,habil,0,63.39,retraso_alto
+Molinos,Calle 85,12.394,8,1,43.02,pico_manana,fin_semana,0,56.26,retraso_moderado
+Molinos,Calle 85,12.394,8,1,43.02,pico_manana,fin_semana,1,56.93,retraso_moderado
+Molinos,Calle 85,12.394,8,1,43.02,valle,habil,1,56.43,retraso_moderado
+Molinos,Calle 85,12.394,8,1,43.02,noche,fin_semana,0,40.14,puntual
+Molinos,Heroes,10.763,8,2,40.11,pico_tarde,habil,0,59.48,retraso_alto
+Molinos,Heroes,10.763,8,2,40.11,pico_tarde,habil,1,66.68,retraso_alto
+Molinos,Heroes,10.763,8,2,40.11,noche,habil,0,40.14,puntual
+Molinos,Heroes,10.763,8,2,40.11,valle,habil,1,46.89,retraso_moderado
+Molinos,Heroes,10.763,8,2,40.11,pico_tarde,fin_semana,0,51.42,retraso_moderado
+Molinos,Heroes,10.763,8,2,40.11,pico_tarde,habil,1,75.7,retraso_alto
+Molinos,Heroes,10.763,8,2,40.11,pico_tarde,fin_semana,0,64.75,retraso_alto
+Molinos,Heroes,10.763,8,2,40.11,valle,fin_semana,1,47.79,retraso_moderado
+Molinos,NQS Calle 30,7.272,5,0,18.69,pico_manana,habil,0,28.65,retraso_alto
+Molinos,NQS Calle 30,7.272,5,0,18.69,pico_manana,habil,0,24.61,retraso_moderado
+Molinos,NQS Calle 30,7.272,5,0,18.69,valle,fin_semana,0,17.51,puntual
+Molinos,NQS Calle 30,7.272,5,0,18.69,noche,habil,1,23.36,retraso_moderado
+Molinos,NQS Calle 30,7.272,5,0,18.69,valle,habil,0,18.6,puntual
+Molinos,NQS Calle 30,7.272,5,0,18.69,pico_manana,habil,0,24.68,retraso_moderado
+Molinos,NQS Calle 30,7.272,5,0,18.69,pico_tarde,habil,1,32.39,retraso_alto
+Molinos,NQS Calle 30,7.272,5,0,18.69,noche,fin_semana,0,13.45,puntual
+Molinos,Polo,12.699,6,0,31.73,noche,fin_semana,0,30.36,puntual
+Molinos,Polo,12.699,6,0,31.73,pico_manana,habil,1,49.89,retraso_alto
+Molinos,Polo,12.699,6,0,31.73,pico_manana,habil,0,44.3,retraso_moderado
+Molinos,Polo,12.699,6,0,31.73,pico_tarde,habil,0,43.69,retraso_moderado
+Molinos,Polo,12.699,6,0,31.73,noche,fin_semana,0,27.37,puntual
+Molinos,Polo,12.699,6,0,31.73,valle,habil,0,31.16,puntual
+Molinos,Polo,12.699,6,0,31.73,noche,fin_semana,1,33.52,puntual
+Molinos,Polo,12.699,6,0,31.73,pico_tarde,habil,1,55.93,retraso_alto
+Molinos,Portal 80,16.24,7,0,44.47,valle,habil,0,49.26,puntual
+Molinos,Portal 80,16.24,7,0,44.47,pico_manana,fin_semana,0,54.22,retraso_moderado
+Molinos,Portal 80,16.24,7,0,44.47,pico_tarde,habil,0,70.33,retraso_alto
+Molinos,Portal 80,16.24,7,0,44.47,valle,habil,0,40.59,puntual
+Molinos,Portal 80,16.24,7,0,44.47,valle,fin_semana,0,43.61,puntual
+Molinos,Portal 80,16.24,7,0,44.47,pico_manana,fin_semana,1,67.03,retraso_alto
+Molinos,Portal 80,16.24,7,0,44.47,pico_manana,fin_semana,1,64.2,retraso_alto
+Molinos,Portal 80,16.24,7,0,44.47,noche,fin_semana,0,38.59,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,valle,habil,0,31.06,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,valle,fin_semana,0,28.98,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,noche,fin_semana,1,28.71,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,valle,fin_semana,0,25.23,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,noche,habil,0,28.1,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,noche,fin_semana,0,30.2,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,valle,fin_semana,0,26.08,puntual
+Molinos,Portal Americas,8.87,5,1,29.78,pico_tarde,fin_semana,1,46.1,retraso_alto
+Molinos,Portal Norte,21.469,13,2,67.33,pico_manana,habil,1,101.14,retraso_alto
+Molinos,Portal Norte,21.469,13,2,67.33,valle,habil,0,67.0,puntual
+Molinos,Portal Norte,21.469,13,2,67.33,pico_manana,habil,0,106.61,retraso_alto
+Molinos,Portal Norte,21.469,13,2,67.33,noche,habil,0,63.91,puntual
+Molinos,Portal Norte,21.469,13,2,67.33,pico_tarde,fin_semana,1,108.61,retraso_alto
+Molinos,Portal Norte,21.469,13,2,67.33,valle,fin_semana,0,61.63,puntual
+Molinos,Portal Norte,21.469,13,2,67.33,noche,habil,0,69.82,puntual
+Molinos,Portal Norte,21.469,13,2,67.33,valle,habil,1,85.93,retraso_moderado
+Molinos,Portal Sur,7.391,2,0,17.74,valle,fin_semana,0,17.3,puntual
+Molinos,Portal Sur,7.391,2,0,17.74,valle,fin_semana,0,18.77,puntual
+Molinos,Portal Sur,7.391,2,0,17.74,pico_manana,habil,0,24.12,retraso_moderado
+Molinos,Portal Sur,7.391,2,0,17.74,valle,habil,1,21.67,retraso_moderado
+Molinos,Portal Sur,7.391,2,0,17.74,valle,fin_semana,0,14.58,puntual
+Molinos,Portal Sur,7.391,2,0,17.74,pico_manana,habil,1,28.0,retraso_alto
+Molinos,Portal Sur,7.391,2,0,17.74,pico_tarde,habil,1,31.73,retraso_alto
+Molinos,Portal Sur,7.391,2,0,17.74,pico_tarde,fin_semana,1,25.13,retraso_alto
+Molinos,Restrepo,1.079,2,0,2.59,valle,fin_semana,1,2.47,puntual
+Molinos,Restrepo,1.079,2,0,2.59,pico_manana,fin_semana,0,3.38,retraso_moderado
+Molinos,Restrepo,1.079,2,0,2.59,valle,fin_semana,0,2.4,puntual
+Molinos,Restrepo,1.079,2,0,2.59,noche,habil,1,2.64,puntual
+Molinos,Restrepo,1.079,2,0,2.59,valle,fin_semana,0,2.36,puntual
+Molinos,Restrepo,1.079,2,0,2.59,pico_tarde,habil,0,3.97,retraso_alto
+Molinos,Restrepo,1.079,2,0,2.59,valle,habil,0,2.28,puntual
+Molinos,Restrepo,1.079,2,0,2.59,valle,fin_semana,0,2.13,puntual
+Molinos,Ricaurte,5.78,4,0,15.09,pico_manana,fin_semana,1,19.94,retraso_moderado
+Molinos,Ricaurte,5.78,4,0,15.09,valle,fin_semana,0,13.68,puntual
+Molinos,Ricaurte,5.78,4,0,15.09,valle,habil,0,14.45,puntual
+Molinos,Ricaurte,5.78,4,0,15.09,pico_manana,habil,0,19.94,retraso_moderado
+Molinos,Ricaurte,5.78,4,0,15.09,valle,fin_semana,0,12.48,puntual
+Molinos,Ricaurte,5.78,4,0,15.09,pico_manana,fin_semana,0,18.18,retraso_moderado
+Molinos,Ricaurte,5.78,4,0,15.09,valle,fin_semana,1,18.13,retraso_moderado
+Molinos,Ricaurte,5.78,4,0,15.09,valle,habil,0,14.98,puntual
+Molinos,Tercer Milenio,3.257,3,0,8.71,valle,habil,1,9.68,puntual
+Molinos,Tercer Milenio,3.257,3,0,8.71,pico_tarde,fin_semana,1,11.95,retraso_moderado
+Molinos,Tercer Milenio,3.257,3,0,8.71,pico_manana,habil,0,11.42,retraso_moderado
+Molinos,Tercer Milenio,3.257,3,0,8.71,valle,fin_semana,0,8.04,puntual
+Molinos,Tercer Milenio,3.257,3,0,8.71,pico_manana,habil,0,12.79,retraso_alto
+Molinos,Tercer Milenio,3.257,3,0,8.71,pico_manana,habil,0,11.02,retraso_moderado
+Molinos,Tercer Milenio,3.257,3,0,8.71,valle,habil,1,9.44,puntual
+Molinos,Tercer Milenio,3.257,3,0,8.71,pico_tarde,habil,1,12.92,retraso_alto
+Molinos,Toberin,19.973,12,2,63.51,noche,habil,0,67.65,puntual
+Molinos,Toberin,19.973,12,2,63.51,pico_manana,fin_semana,0,78.44,retraso_moderado
+Molinos,Toberin,19.973,12,2,63.51,pico_tarde,fin_semana,0,90.52,retraso_alto
+Molinos,Toberin,19.973,12,2,63.51,noche,fin_semana,0,58.66,puntual
+Molinos,Toberin,19.973,12,2,63.51,pico_manana,habil,1,98.06,retraso_alto
+Molinos,Toberin,19.973,12,2,63.51,noche,habil,1,75.28,retraso_moderado
+Molinos,Toberin,19.973,12,2,63.51,pico_tarde,fin_semana,0,93.85,retraso_alto
+Molinos,Toberin,19.973,12,2,63.51,pico_tarde,fin_semana,1,106.53,retraso_alto
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,noche,fin_semana,1,20.62,puntual
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,valle,fin_semana,1,24.78,retraso_moderado
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,noche,habil,0,18.58,puntual
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,pico_tarde,fin_semana,1,29.96,retraso_alto
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,noche,habil,1,24.36,retraso_moderado
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,valle,habil,0,22.23,puntual
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,noche,fin_semana,1,19.1,puntual
+NQS Calle 30,Av Jimenez,3.904,5,1,20.37,pico_manana,habil,0,26.57,retraso_moderado
+NQS Calle 30,Banderas,4.73,6,1,36.9,pico_manana,habil,0,46.73,retraso_moderado
+NQS Calle 30,Banderas,4.73,6,1,36.9,pico_manana,habil,0,53.31,retraso_alto
+NQS Calle 30,Banderas,4.73,6,1,36.9,valle,fin_semana,0,31.4,puntual
+NQS Calle 30,Banderas,4.73,6,1,36.9,noche,fin_semana,1,35.0,puntual
+NQS Calle 30,Banderas,4.73,6,1,36.9,pico_manana,habil,1,59.45,retraso_alto
+NQS Calle 30,Banderas,4.73,6,1,36.9,pico_tarde,habil,0,54.27,retraso_alto
+NQS Calle 30,Banderas,4.73,6,1,36.9,valle,habil,1,47.13,retraso_moderado
+NQS Calle 30,Banderas,4.73,6,1,36.9,pico_manana,habil,0,53.0,retraso_alto
+NQS Calle 30,Calle 100,7.782,6,2,34.85,pico_tarde,fin_semana,0,46.39,retraso_moderado
+NQS Calle 30,Calle 100,7.782,6,2,34.85,valle,habil,1,40.93,retraso_moderado
+NQS Calle 30,Calle 100,7.782,6,2,34.85,pico_manana,habil,1,57.58,retraso_alto
+NQS Calle 30,Calle 100,7.782,6,2,34.85,pico_tarde,fin_semana,0,55.4,retraso_alto
+NQS Calle 30,Calle 100,7.782,6,2,34.85,valle,habil,0,41.96,retraso_moderado
+NQS Calle 30,Calle 100,7.782,6,2,34.85,pico_tarde,habil,0,51.26,retraso_alto
+NQS Calle 30,Calle 100,7.782,6,2,34.85,pico_manana,habil,1,56.34,retraso_alto
+NQS Calle 30,Calle 100,7.782,6,2,34.85,pico_tarde,fin_semana,1,65.9,retraso_alto
+NQS Calle 30,Calle 146,11.971,7,2,45.6,noche,fin_semana,1,46.39,puntual
+NQS Calle 30,Calle 146,11.971,7,2,45.6,pico_tarde,fin_semana,1,73.13,retraso_alto
+NQS Calle 30,Calle 146,11.971,7,2,45.6,noche,habil,0,48.72,puntual
+NQS Calle 30,Calle 146,11.971,7,2,45.6,valle,habil,0,51.16,puntual
+NQS Calle 30,Calle 146,11.971,7,2,45.6,noche,fin_semana,1,43.35,puntual
+NQS Calle 30,Calle 146,11.971,7,2,45.6,pico_tarde,habil,0,68.29,retraso_alto
+NQS Calle 30,Calle 146,11.971,7,2,45.6,pico_manana,fin_semana,1,70.05,retraso_alto
+NQS Calle 30,Calle 146,11.971,7,2,45.6,valle,fin_semana,0,41.84,puntual
+NQS Calle 30,Calle 72,3.846,7,2,35.74,pico_tarde,habil,1,61.82,retraso_alto
+NQS Calle 30,Calle 72,3.846,7,2,35.74,valle,fin_semana,1,48.52,retraso_moderado
+NQS Calle 30,Calle 72,3.846,7,2,35.74,valle,habil,1,45.35,retraso_moderado
+NQS Calle 30,Calle 72,3.846,7,2,35.74,valle,habil,0,41.78,retraso_moderado
+NQS Calle 30,Calle 72,3.846,7,2,35.74,pico_tarde,habil,0,56.33,retraso_alto
+NQS Calle 30,Calle 72,3.846,7,2,35.74,noche,habil,1,43.9,retraso_moderado
+NQS Calle 30,Calle 72,3.846,7,2,35.74,pico_manana,fin_semana,0,44.53,retraso_moderado
+NQS Calle 30,Calle 72,3.846,7,2,35.74,pico_tarde,fin_semana,0,46.36,retraso_moderado
+NQS Calle 30,Calle 85,5.61,4,1,24.33,pico_tarde,fin_semana,0,32.2,retraso_moderado
+NQS Calle 30,Calle 85,5.61,4,1,24.33,noche,fin_semana,1,24.07,puntual
+NQS Calle 30,Calle 85,5.61,4,1,24.33,pico_manana,fin_semana,0,33.79,retraso_moderado
+NQS Calle 30,Calle 85,5.61,4,1,24.33,noche,habil,1,24.95,puntual
+NQS Calle 30,Calle 85,5.61,4,1,24.33,noche,fin_semana,1,28.13,retraso_moderado
+NQS Calle 30,Calle 85,5.61,4,1,24.33,noche,habil,0,24.43,puntual
+NQS Calle 30,Calle 85,5.61,4,1,24.33,pico_tarde,fin_semana,0,30.39,retraso_moderado
+NQS Calle 30,Calle 85,5.61,4,1,24.33,noche,fin_semana,0,21.46,puntual
+NQS Calle 30,Heroes,3.779,6,2,33.81,valle,fin_semana,0,34.49,puntual
+NQS Calle 30,Heroes,3.779,6,2,33.81,pico_tarde,fin_semana,0,52.5,retraso_alto
+NQS Calle 30,Heroes,3.779,6,2,33.81,pico_tarde,fin_semana,0,37.45,puntual
+NQS Calle 30,Heroes,3.779,6,2,33.81,valle,habil,1,38.63,puntual
+NQS Calle 30,Heroes,3.779,6,2,33.81,pico_tarde,habil,1,55.6,retraso_alto
+NQS Calle 30,Heroes,3.779,6,2,33.81,valle,habil,0,38.39,puntual
+NQS Calle 30,Heroes,3.779,6,2,33.81,pico_manana,habil,0,36.98,puntual
+NQS Calle 30,Heroes,3.779,6,2,33.81,pico_tarde,fin_semana,0,46.89,retraso_moderado
+NQS Calle 30,Molinos,7.272,5,0,18.69,pico_tarde,habil,0,27.18,retraso_alto
+NQS Calle 30,Molinos,7.272,5,0,18.69,valle,fin_semana,0,17.29,puntual
+NQS Calle 30,Molinos,7.272,5,0,18.69,pico_manana,fin_semana,1,25.11,retraso_moderado
+NQS Calle 30,Molinos,7.272,5,0,18.69,pico_tarde,fin_semana,0,25.08,retraso_moderado
+NQS Calle 30,Molinos,7.272,5,0,18.69,noche,habil,0,20.2,puntual
+NQS Calle 30,Molinos,7.272,5,0,18.69,valle,habil,0,15.84,puntual
+NQS Calle 30,Molinos,7.272,5,0,18.69,pico_tarde,fin_semana,1,23.34,retraso_moderado
+NQS Calle 30,Molinos,7.272,5,0,18.69,noche,habil,0,17.59,puntual
+NQS Calle 30,Polo,5.437,2,0,13.05,pico_tarde,fin_semana,1,21.84,retraso_alto
+NQS Calle 30,Polo,5.437,2,0,13.05,pico_tarde,fin_semana,1,18.09,retraso_moderado
+NQS Calle 30,Polo,5.437,2,0,13.05,noche,habil,0,12.77,puntual
+NQS Calle 30,Polo,5.437,2,0,13.05,pico_tarde,fin_semana,1,19.83,retraso_alto
+NQS Calle 30,Polo,5.437,2,0,13.05,pico_tarde,fin_semana,0,18.19,retraso_moderado
+NQS Calle 30,Polo,5.437,2,0,13.05,pico_tarde,fin_semana,0,14.95,puntual
+NQS Calle 30,Polo,5.437,2,0,13.05,valle,habil,0,13.59,puntual
+NQS Calle 30,Polo,5.437,2,0,13.05,pico_tarde,habil,0,19.02,retraso_alto
+NQS Calle 30,Portal 80,9.343,3,0,25.79,valle,fin_semana,0,26.81,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,noche,habil,0,27.1,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,noche,habil,0,24.41,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,noche,fin_semana,0,23.07,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,valle,fin_semana,0,22.52,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,valle,habil,0,25.0,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,pico_tarde,fin_semana,0,27.34,puntual
+NQS Calle 30,Portal 80,9.343,3,0,25.79,pico_tarde,fin_semana,0,33.57,retraso_moderado
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,valle,fin_semana,1,46.99,puntual
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,noche,fin_semana,0,32.49,puntual
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,noche,habil,0,40.1,puntual
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,pico_tarde,habil,0,65.37,retraso_alto
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,pico_manana,habil,1,74.94,retraso_alto
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,pico_tarde,fin_semana,0,49.12,puntual
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,pico_manana,fin_semana,0,52.92,retraso_moderado
+NQS Calle 30,Portal Americas,7.387,7,1,43.29,pico_tarde,habil,0,71.89,retraso_alto
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,pico_tarde,habil,0,85.28,retraso_alto
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,valle,habil,1,62.07,retraso_moderado
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,noche,fin_semana,0,48.65,puntual
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,valle,fin_semana,0,55.87,puntual
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,pico_tarde,fin_semana,0,74.4,retraso_alto
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,pico_tarde,habil,1,88.51,retraso_alto
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,noche,fin_semana,0,47.59,puntual
+NQS Calle 30,Portal Norte,14.27,9,2,52.08,pico_tarde,habil,0,73.1,retraso_alto
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,pico_manana,habil,0,52.33,retraso_alto
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,valle,fin_semana,1,37.27,puntual
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,pico_manana,habil,0,51.85,retraso_alto
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,pico_tarde,fin_semana,0,49.37,retraso_moderado
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,noche,fin_semana,0,30.94,puntual
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,pico_manana,habil,0,48.23,retraso_moderado
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,pico_tarde,fin_semana,0,43.65,retraso_moderado
+NQS Calle 30,Portal Sur,14.606,6,0,36.42,pico_tarde,fin_semana,0,45.27,retraso_moderado
+NQS Calle 30,Restrepo,6.351,4,0,16.1,pico_manana,habil,0,21.98,retraso_moderado
+NQS Calle 30,Restrepo,6.351,4,0,16.1,pico_manana,habil,0,19.87,retraso_moderado
+NQS Calle 30,Restrepo,6.351,4,0,16.1,pico_manana,habil,0,18.33,puntual
+NQS Calle 30,Restrepo,6.351,4,0,16.1,pico_tarde,habil,1,29.31,retraso_alto
+NQS Calle 30,Restrepo,6.351,4,0,16.1,pico_manana,habil,0,20.28,retraso_moderado
+NQS Calle 30,Restrepo,6.351,4,0,16.1,pico_tarde,habil,1,26.12,retraso_alto
+NQS Calle 30,Restrepo,6.351,4,0,16.1,valle,habil,0,15.33,puntual
+NQS Calle 30,Restrepo,6.351,4,0,16.1,valle,fin_semana,1,15.78,puntual
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,pico_manana,fin_semana,0,4.47,retraso_moderado
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,noche,habil,0,3.42,puntual
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,pico_manana,habil,0,4.26,retraso_moderado
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,pico_tarde,habil,0,5.03,retraso_alto
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,pico_tarde,habil,1,5.57,retraso_alto
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,noche,habil,0,3.39,puntual
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,pico_tarde,fin_semana,1,5.43,retraso_alto
+NQS Calle 30,Ricaurte,1.498,2,0,3.6,pico_tarde,habil,0,5.61,retraso_alto
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,pico_manana,fin_semana,1,13.08,retraso_moderado
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,noche,habil,1,11.18,puntual
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,valle,fin_semana,0,8.92,puntual
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,valle,habil,1,10.74,puntual
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,valle,fin_semana,0,9.36,puntual
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,noche,habil,1,9.91,puntual
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,noche,habil,0,8.95,puntual
+NQS Calle 30,Tercer Milenio,4.148,3,0,9.98,valle,fin_semana,1,9.79,puntual
+NQS Calle 30,Toberin,12.814,8,2,48.26,pico_manana,fin_semana,0,58.52,retraso_moderado
+NQS Calle 30,Toberin,12.814,8,2,48.26,valle,fin_semana,0,47.1,puntual
+NQS Calle 30,Toberin,12.814,8,2,48.26,noche,fin_semana,0,49.77,puntual
+NQS Calle 30,Toberin,12.814,8,2,48.26,pico_manana,habil,0,76.45,retraso_alto
+NQS Calle 30,Toberin,12.814,8,2,48.26,pico_manana,habil,0,69.07,retraso_alto
+NQS Calle 30,Toberin,12.814,8,2,48.26,noche,fin_semana,1,52.38,puntual
+NQS Calle 30,Toberin,12.814,8,2,48.26,pico_tarde,habil,0,76.06,retraso_alto
+NQS Calle 30,Toberin,12.814,8,2,48.26,pico_manana,habil,1,92.73,retraso_alto
+Polo,Av Jimenez,8.606,6,1,31.77,noche,habil,0,31.97,puntual
+Polo,Av Jimenez,8.606,6,1,31.77,noche,fin_semana,1,31.92,puntual
+Polo,Av Jimenez,8.606,6,1,31.77,pico_manana,fin_semana,1,47.99,retraso_alto
+Polo,Av Jimenez,8.606,6,1,31.77,pico_tarde,habil,0,47.06,retraso_alto
+Polo,Av Jimenez,8.606,6,1,31.77,pico_manana,habil,1,52.28,retraso_alto
+Polo,Av Jimenez,8.606,6,1,31.77,valle,habil,1,41.37,retraso_moderado
+Polo,Av Jimenez,8.606,6,1,31.77,valle,fin_semana,1,37.63,retraso_moderado
+Polo,Av Jimenez,8.606,6,1,31.77,pico_tarde,fin_semana,1,51.73,retraso_alto
+Polo,Banderas,8.268,7,1,49.95,noche,habil,0,51.15,puntual
+Polo,Banderas,8.268,7,1,49.95,pico_tarde,habil,1,76.21,retraso_alto
+Polo,Banderas,8.268,7,1,49.95,noche,fin_semana,0,33.26,puntual
+Polo,Banderas,8.268,7,1,49.95,pico_tarde,fin_semana,1,69.61,retraso_moderado
+Polo,Banderas,8.268,7,1,49.95,noche,fin_semana,1,51.87,puntual
+Polo,Banderas,8.268,7,1,49.95,noche,fin_semana,0,49.34,puntual
+Polo,Banderas,8.268,7,1,49.95,noche,fin_semana,0,45.8,puntual
+Polo,Banderas,8.268,7,1,49.95,pico_tarde,habil,1,84.44,retraso_alto
+Polo,Calle 100,3.327,4,1,16.8,valle,fin_semana,0,15.59,puntual
+Polo,Calle 100,3.327,4,1,16.8,pico_tarde,habil,1,29.93,retraso_alto
+Polo,Calle 100,3.327,4,1,16.8,pico_tarde,habil,0,26.49,retraso_alto
+Polo,Calle 100,3.327,4,1,16.8,valle,fin_semana,0,16.15,puntual
+Polo,Calle 100,3.327,4,1,16.8,valle,habil,0,17.87,puntual
+Polo,Calle 100,3.327,4,1,16.8,noche,habil,1,18.64,puntual
+Polo,Calle 100,3.327,4,1,16.8,pico_manana,fin_semana,0,22.92,retraso_moderado
+Polo,Calle 100,3.327,4,1,16.8,pico_manana,fin_semana,0,24.27,retraso_alto
+Polo,Calle 146,6.729,5,1,27.55,noche,habil,0,29.24,puntual
+Polo,Calle 146,6.729,5,1,27.55,noche,fin_semana,0,23.9,puntual
+Polo,Calle 146,6.729,5,1,27.55,valle,habil,1,33.72,retraso_moderado
+Polo,Calle 146,6.729,5,1,27.55,pico_tarde,habil,0,37.37,retraso_moderado
+Polo,Calle 146,6.729,5,1,27.55,valle,fin_semana,1,29.5,puntual
+Polo,Calle 146,6.729,5,1,27.55,noche,fin_semana,1,27.21,puntual
+Polo,Calle 146,6.729,5,1,27.55,pico_manana,habil,0,38.28,retraso_moderado
+Polo,Calle 146,6.729,5,1,27.55,valle,fin_semana,0,28.06,puntual
+Polo,Calle 72,3.188,5,1,17.69,noche,habil,1,19.74,puntual
+Polo,Calle 72,3.188,5,1,17.69,noche,habil,0,18.0,puntual
+Polo,Calle 72,3.188,5,1,17.69,noche,habil,0,16.19,puntual
+Polo,Calle 72,3.188,5,1,17.69,valle,habil,0,19.75,puntual
+Polo,Calle 72,3.188,5,1,17.69,pico_tarde,fin_semana,0,22.42,retraso_moderado
+Polo,Calle 72,3.188,5,1,17.69,pico_manana,fin_semana,0,20.4,retraso_moderado
+Polo,Calle 72,3.188,5,1,17.69,pico_tarde,fin_semana,0,22.32,retraso_moderado
+Polo,Calle 72,3.188,5,1,17.69,pico_manana,fin_semana,0,24.75,retraso_moderado
+Polo,Calle 85,2.619,2,0,6.29,pico_tarde,fin_semana,1,9.24,retraso_alto
+Polo,Calle 85,2.619,2,0,6.29,valle,habil,1,7.37,retraso_moderado
+Polo,Calle 85,2.619,2,0,6.29,pico_tarde,habil,1,10.36,retraso_alto
+Polo,Calle 85,2.619,2,0,6.29,pico_manana,habil,1,9.46,retraso_alto
+Polo,Calle 85,2.619,2,0,6.29,valle,fin_semana,0,5.21,puntual
+Polo,Calle 85,2.619,2,0,6.29,pico_tarde,fin_semana,0,8.87,retraso_alto
+Polo,Calle 85,2.619,2,0,6.29,pico_manana,fin_semana,0,7.61,retraso_moderado
+Polo,Calle 85,2.619,2,0,6.29,pico_tarde,fin_semana,1,8.61,retraso_moderado
+Polo,Heroes,2.458,4,1,15.76,valle,habil,0,14.85,puntual
+Polo,Heroes,2.458,4,1,15.76,pico_manana,fin_semana,0,18.92,retraso_moderado
+Polo,Heroes,2.458,4,1,15.76,pico_manana,fin_semana,0,20.65,retraso_moderado
+Polo,Heroes,2.458,4,1,15.76,pico_manana,fin_semana,1,20.63,retraso_moderado
+Polo,Heroes,2.458,4,1,15.76,pico_manana,habil,0,20.93,retraso_moderado
+Polo,Heroes,2.458,4,1,15.76,pico_tarde,habil,0,20.85,retraso_moderado
+Polo,Heroes,2.458,4,1,15.76,pico_tarde,fin_semana,0,22.82,retraso_alto
+Polo,Heroes,2.458,4,1,15.76,pico_manana,fin_semana,0,19.86,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,pico_manana,habil,0,39.05,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,pico_manana,habil,0,42.83,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,pico_tarde,fin_semana,0,38.52,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,pico_tarde,fin_semana,0,41.15,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,pico_tarde,habil,1,50.86,retraso_alto
+Polo,Molinos,12.699,6,0,31.73,pico_tarde,fin_semana,0,41.11,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,pico_tarde,habil,0,42.49,retraso_moderado
+Polo,Molinos,12.699,6,0,31.73,valle,habil,1,38.94,retraso_moderado
+Polo,NQS Calle 30,5.437,2,0,13.05,noche,habil,0,12.43,puntual
+Polo,NQS Calle 30,5.437,2,0,13.05,pico_tarde,fin_semana,0,17.2,retraso_moderado
+Polo,NQS Calle 30,5.437,2,0,13.05,valle,habil,1,15.97,retraso_moderado
+Polo,NQS Calle 30,5.437,2,0,13.05,valle,habil,0,14.04,puntual
+Polo,NQS Calle 30,5.437,2,0,13.05,valle,fin_semana,0,11.07,puntual
+Polo,NQS Calle 30,5.437,2,0,13.05,valle,fin_semana,0,10.74,puntual
+Polo,NQS Calle 30,5.437,2,0,13.05,pico_manana,habil,0,18.04,retraso_moderado
+Polo,NQS Calle 30,5.437,2,0,13.05,pico_manana,fin_semana,0,15.25,retraso_moderado
+Polo,Portal 80,5.307,2,0,12.74,noche,fin_semana,0,10.85,puntual
+Polo,Portal 80,5.307,2,0,12.74,pico_tarde,habil,0,15.18,retraso_moderado
+Polo,Portal 80,5.307,2,0,12.74,pico_manana,habil,0,21.16,retraso_alto
+Polo,Portal 80,5.307,2,0,12.74,pico_tarde,habil,1,21.29,retraso_alto
+Polo,Portal 80,5.307,2,0,12.74,valle,habil,1,15.12,retraso_moderado
+Polo,Portal 80,5.307,2,0,12.74,noche,habil,1,13.99,puntual
+Polo,Portal 80,5.307,2,0,12.74,noche,fin_semana,0,11.5,puntual
+Polo,Portal 80,5.307,2,0,12.74,valle,habil,0,11.79,puntual
+Polo,Portal Americas,10.573,8,1,56.34,valle,habil,0,59.23,puntual
+Polo,Portal Americas,10.573,8,1,56.34,pico_tarde,fin_semana,0,73.5,retraso_moderado
+Polo,Portal Americas,10.573,8,1,56.34,valle,habil,0,64.36,puntual
+Polo,Portal Americas,10.573,8,1,56.34,noche,fin_semana,1,68.55,retraso_moderado
+Polo,Portal Americas,10.573,8,1,56.34,pico_tarde,fin_semana,0,65.27,retraso_moderado
+Polo,Portal Americas,10.573,8,1,56.34,noche,fin_semana,0,53.66,puntual
+Polo,Portal Americas,10.573,8,1,56.34,pico_manana,habil,0,67.24,retraso_moderado
+Polo,Portal Americas,10.573,8,1,56.34,valle,fin_semana,1,63.91,puntual
+Polo,Portal Norte,8.871,7,1,34.03,pico_manana,fin_semana,1,50.91,retraso_alto
+Polo,Portal Norte,8.871,7,1,34.03,valle,fin_semana,0,25.6,puntual
+Polo,Portal Norte,8.871,7,1,34.03,noche,fin_semana,0,28.07,puntual
+Polo,Portal Norte,8.871,7,1,34.03,pico_manana,habil,0,49.22,retraso_alto
+Polo,Portal Norte,8.871,7,1,34.03,noche,habil,1,37.07,puntual
+Polo,Portal Norte,8.871,7,1,34.03,valle,fin_semana,0,32.16,puntual
+Polo,Portal Norte,8.871,7,1,34.03,pico_tarde,fin_semana,0,47.11,retraso_moderado
+Polo,Portal Norte,8.871,7,1,34.03,valle,fin_semana,0,35.26,puntual
+Polo,Portal Sur,20.043,7,0,49.47,pico_tarde,fin_semana,1,66.3,retraso_moderado
+Polo,Portal Sur,20.043,7,0,49.47,valle,habil,0,44.46,puntual
+Polo,Portal Sur,20.043,7,0,49.47,pico_manana,fin_semana,1,64.74,retraso_moderado
+Polo,Portal Sur,20.043,7,0,49.47,noche,habil,0,50.47,puntual
+Polo,Portal Sur,20.043,7,0,49.47,noche,habil,0,51.13,puntual
+Polo,Portal Sur,20.043,7,0,49.47,valle,habil,0,46.79,puntual
+Polo,Portal Sur,20.043,7,0,49.47,valle,habil,0,47.19,puntual
+Polo,Portal Sur,20.043,7,0,49.47,noche,fin_semana,1,54.53,puntual
+Polo,Restrepo,11.788,5,0,29.14,valle,habil,0,29.33,puntual
+Polo,Restrepo,11.788,5,0,29.14,pico_tarde,habil,0,40.73,retraso_moderado
+Polo,Restrepo,11.788,5,0,29.14,noche,fin_semana,1,29.76,puntual
+Polo,Restrepo,11.788,5,0,29.14,noche,habil,0,24.85,puntual
+Polo,Restrepo,11.788,5,0,29.14,noche,fin_semana,0,22.39,puntual
+Polo,Restrepo,11.788,5,0,29.14,pico_manana,habil,1,47.0,retraso_alto
+Polo,Restrepo,11.788,5,0,29.14,pico_tarde,habil,0,41.24,retraso_alto
+Polo,Restrepo,11.788,5,0,29.14,pico_tarde,habil,0,41.81,retraso_alto
+Polo,Ricaurte,6.92,3,0,16.64,pico_manana,fin_semana,0,20.67,retraso_moderado
+Polo,Ricaurte,6.92,3,0,16.64,noche,habil,0,15.62,puntual
+Polo,Ricaurte,6.92,3,0,16.64,pico_tarde,habil,0,23.29,retraso_moderado
+Polo,Ricaurte,6.92,3,0,16.64,pico_manana,habil,0,20.77,retraso_moderado
+Polo,Ricaurte,6.92,3,0,16.64,pico_tarde,fin_semana,0,22.18,retraso_moderado
+Polo,Ricaurte,6.92,3,0,16.64,pico_manana,fin_semana,0,17.76,puntual
+Polo,Ricaurte,6.92,3,0,16.64,valle,habil,1,20.01,retraso_moderado
+Polo,Ricaurte,6.92,3,0,16.64,noche,habil,1,17.18,puntual
+Polo,Tercer Milenio,9.513,4,0,23.03,valle,habil,0,18.4,puntual
+Polo,Tercer Milenio,9.513,4,0,23.03,pico_manana,fin_semana,1,29.06,retraso_moderado
+Polo,Tercer Milenio,9.513,4,0,23.03,pico_tarde,fin_semana,1,34.56,retraso_alto
+Polo,Tercer Milenio,9.513,4,0,23.03,pico_tarde,habil,1,35.19,retraso_alto
+Polo,Tercer Milenio,9.513,4,0,23.03,noche,fin_semana,0,20.85,puntual
+Polo,Tercer Milenio,9.513,4,0,23.03,valle,fin_semana,0,17.51,puntual
+Polo,Tercer Milenio,9.513,4,0,23.03,pico_manana,habil,0,26.75,retraso_moderado
+Polo,Tercer Milenio,9.513,4,0,23.03,valle,fin_semana,0,21.37,puntual
+Polo,Toberin,7.471,6,1,30.22,pico_manana,fin_semana,0,34.47,puntual
+Polo,Toberin,7.471,6,1,30.22,pico_manana,habil,1,47.17,retraso_alto
+Polo,Toberin,7.471,6,1,30.22,pico_tarde,fin_semana,0,38.62,retraso_moderado
+Polo,Toberin,7.471,6,1,30.22,pico_tarde,habil,0,48.37,retraso_alto
+Polo,Toberin,7.471,6,1,30.22,pico_tarde,fin_semana,0,39.27,retraso_moderado
+Polo,Toberin,7.471,6,1,30.22,pico_manana,habil,0,38.15,retraso_moderado
+Polo,Toberin,7.471,6,1,30.22,pico_tarde,fin_semana,1,41.83,retraso_moderado
+Polo,Toberin,7.471,6,1,30.22,pico_manana,habil,0,43.34,retraso_alto
+Portal 80,Av Jimenez,13.123,7,1,46.15,valle,fin_semana,1,53.71,retraso_moderado
+Portal 80,Av Jimenez,13.123,7,1,46.15,noche,habil,1,50.07,puntual
+Portal 80,Av Jimenez,13.123,7,1,46.15,pico_tarde,fin_semana,1,66.48,retraso_alto
+Portal 80,Av Jimenez,13.123,7,1,46.15,pico_tarde,fin_semana,0,60.32,retraso_moderado
+Portal 80,Av Jimenez,13.123,7,1,46.15,valle,fin_semana,0,41.82,puntual
+Portal 80,Av Jimenez,13.123,7,1,46.15,valle,fin_semana,0,46.48,puntual
+Portal 80,Av Jimenez,13.123,7,1,46.15,pico_manana,fin_semana,1,73.05,retraso_alto
+Portal 80,Av Jimenez,13.123,7,1,46.15,pico_tarde,fin_semana,0,55.07,retraso_moderado
+Portal 80,Banderas,9.667,8,1,62.69,noche,habil,0,50.81,puntual
+Portal 80,Banderas,9.667,8,1,62.69,valle,fin_semana,0,62.7,puntual
+Portal 80,Banderas,9.667,8,1,62.69,pico_manana,fin_semana,0,82.43,retraso_moderado
+Portal 80,Banderas,9.667,8,1,62.69,noche,habil,0,51.63,puntual
+Portal 80,Banderas,9.667,8,1,62.69,valle,habil,0,73.41,retraso_moderado
+Portal 80,Banderas,9.667,8,1,62.69,pico_tarde,fin_semana,0,77.96,retraso_moderado
+Portal 80,Banderas,9.667,8,1,62.69,pico_manana,habil,0,87.6,retraso_moderado
+Portal 80,Banderas,9.667,8,1,62.69,pico_manana,habil,0,81.07,retraso_moderado
+Portal 80,Calle 100,7.387,6,2,34.53,pico_manana,habil,0,50.05,retraso_alto
+Portal 80,Calle 100,7.387,6,2,34.53,pico_tarde,habil,1,61.47,retraso_alto
+Portal 80,Calle 100,7.387,6,2,34.53,pico_tarde,habil,0,54.25,retraso_alto
+Portal 80,Calle 100,7.387,6,2,34.53,pico_tarde,fin_semana,1,58.49,retraso_alto
+Portal 80,Calle 100,7.387,6,2,34.53,pico_manana,fin_semana,0,47.15,retraso_moderado
+Portal 80,Calle 100,7.387,6,2,34.53,pico_manana,habil,1,60.92,retraso_alto
+Portal 80,Calle 100,7.387,6,2,34.53,pico_tarde,fin_semana,0,51.63,retraso_alto
+Portal 80,Calle 100,7.387,6,2,34.53,pico_tarde,habil,0,58.34,retraso_alto
+Portal 80,Calle 146,7.8,7,2,45.29,pico_manana,fin_semana,1,75.03,retraso_alto
+Portal 80,Calle 146,7.8,7,2,45.29,pico_manana,habil,0,63.05,retraso_moderado
+Portal 80,Calle 146,7.8,7,2,45.29,noche,habil,0,46.13,puntual
+Portal 80,Calle 146,7.8,7,2,45.29,noche,habil,1,55.66,retraso_moderado
+Portal 80,Calle 146,7.8,7,2,45.29,noche,fin_semana,0,41.48,puntual
+Portal 80,Calle 146,7.8,7,2,45.29,pico_manana,fin_semana,1,72.83,retraso_alto
+Portal 80,Calle 146,7.8,7,2,45.29,valle,habil,1,52.34,retraso_moderado
+Portal 80,Calle 146,7.8,7,2,45.29,noche,fin_semana,0,43.34,puntual
+Portal 80,Calle 72,8.425,7,2,35.43,valle,habil,1,44.64,retraso_moderado
+Portal 80,Calle 72,8.425,7,2,35.43,valle,fin_semana,0,37.73,puntual
+Portal 80,Calle 72,8.425,7,2,35.43,noche,fin_semana,0,34.51,puntual
+Portal 80,Calle 72,8.425,7,2,35.43,noche,fin_semana,0,33.84,puntual
+Portal 80,Calle 72,8.425,7,2,35.43,pico_tarde,fin_semana,1,51.67,retraso_alto
+Portal 80,Calle 72,8.425,7,2,35.43,noche,habil,0,35.42,puntual
+Portal 80,Calle 72,8.425,7,2,35.43,pico_manana,fin_semana,1,48.8,retraso_moderado
+Portal 80,Calle 72,8.425,7,2,35.43,valle,habil,1,45.98,retraso_moderado
+Portal 80,Calle 85,7.811,4,1,24.02,valle,fin_semana,0,23.84,puntual
+Portal 80,Calle 85,7.811,4,1,24.02,noche,fin_semana,1,25.35,puntual
+Portal 80,Calle 85,7.811,4,1,24.02,pico_tarde,habil,0,34.72,retraso_alto
+Portal 80,Calle 85,7.811,4,1,24.02,noche,habil,1,26.8,puntual
+Portal 80,Calle 85,7.811,4,1,24.02,noche,fin_semana,1,26.56,puntual
+Portal 80,Calle 85,7.811,4,1,24.02,pico_tarde,fin_semana,0,33.37,retraso_moderado
+Portal 80,Calle 85,7.811,4,1,24.02,pico_manana,fin_semana,0,27.05,puntual
+Portal 80,Calle 85,7.811,4,1,24.02,pico_manana,habil,0,34.2,retraso_alto
+Portal 80,Heroes,7.641,6,2,33.49,pico_manana,habil,1,60.53,retraso_alto
+Portal 80,Heroes,7.641,6,2,33.49,noche,fin_semana,0,34.0,puntual
+Portal 80,Heroes,7.641,6,2,33.49,valle,fin_semana,0,27.86,puntual
+Portal 80,Heroes,7.641,6,2,33.49,pico_tarde,fin_semana,1,49.35,retraso_alto
+Portal 80,Heroes,7.641,6,2,33.49,pico_tarde,habil,1,73.22,retraso_alto
+Portal 80,Heroes,7.641,6,2,33.49,noche,habil,0,35.42,puntual
+Portal 80,Heroes,7.641,6,2,33.49,pico_manana,fin_semana,1,51.65,retraso_alto
+Portal 80,Heroes,7.641,6,2,33.49,pico_tarde,habil,0,51.55,retraso_alto
+Portal 80,Molinos,16.24,7,0,44.47,pico_manana,habil,0,58.61,retraso_moderado
+Portal 80,Molinos,16.24,7,0,44.47,pico_tarde,fin_semana,0,51.75,retraso_moderado
+Portal 80,Molinos,16.24,7,0,44.47,noche,fin_semana,1,44.25,puntual
+Portal 80,Molinos,16.24,7,0,44.47,valle,habil,1,53.59,retraso_moderado
+Portal 80,Molinos,16.24,7,0,44.47,noche,fin_semana,0,43.97,puntual
+Portal 80,Molinos,16.24,7,0,44.47,valle,habil,0,54.61,retraso_moderado
+Portal 80,Molinos,16.24,7,0,44.47,pico_manana,habil,0,59.04,retraso_moderado
+Portal 80,Molinos,16.24,7,0,44.47,noche,habil,0,38.41,puntual
+Portal 80,NQS Calle 30,9.343,3,0,25.79,valle,fin_semana,0,25.45,puntual
+Portal 80,NQS Calle 30,9.343,3,0,25.79,noche,habil,0,22.62,puntual
+Portal 80,NQS Calle 30,9.343,3,0,25.79,noche,fin_semana,0,21.35,puntual
+Portal 80,NQS Calle 30,9.343,3,0,25.79,pico_manana,fin_semana,1,37.49,retraso_alto
+Portal 80,NQS Calle 30,9.343,3,0,25.79,valle,fin_semana,0,25.39,puntual
+Portal 80,NQS Calle 30,9.343,3,0,25.79,pico_manana,habil,1,38.16,retraso_alto
+Portal 80,NQS Calle 30,9.343,3,0,25.79,noche,fin_semana,0,18.1,puntual
+Portal 80,NQS Calle 30,9.343,3,0,25.79,pico_manana,habil,1,36.08,retraso_moderado
+Portal 80,Polo,5.307,2,0,12.74,pico_tarde,fin_semana,1,21.19,retraso_alto
+Portal 80,Polo,5.307,2,0,12.74,pico_manana,habil,0,18.56,retraso_alto
+Portal 80,Polo,5.307,2,0,12.74,pico_manana,fin_semana,1,19.03,retraso_alto
+Portal 80,Polo,5.307,2,0,12.74,pico_manana,fin_semana,0,15.85,retraso_moderado
+Portal 80,Polo,5.307,2,0,12.74,noche,fin_semana,0,9.44,puntual
+Portal 80,Polo,5.307,2,0,12.74,pico_tarde,fin_semana,0,18.88,retraso_alto
+Portal 80,Polo,5.307,2,0,12.74,pico_manana,fin_semana,1,18.04,retraso_alto
+Portal 80,Polo,5.307,2,0,12.74,noche,habil,1,13.07,puntual
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_manana,fin_semana,1,96.61,retraso_moderado
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_manana,habil,1,107.39,retraso_alto
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_manana,fin_semana,0,91.97,retraso_moderado
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_tarde,habil,1,122.38,retraso_alto
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_manana,habil,1,111.68,retraso_alto
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_tarde,habil,0,89.65,retraso_moderado
+Portal 80,Portal Americas,10.959,9,1,69.07,valle,fin_semana,0,68.45,puntual
+Portal 80,Portal Americas,10.959,9,1,69.07,pico_tarde,habil,0,86.14,retraso_moderado
+Portal 80,Portal Norte,8.448,9,2,51.77,valle,fin_semana,0,51.64,puntual
+Portal 80,Portal Norte,8.448,9,2,51.77,noche,habil,0,50.94,puntual
+Portal 80,Portal Norte,8.448,9,2,51.77,pico_tarde,habil,1,90.46,retraso_alto
+Portal 80,Portal Norte,8.448,9,2,51.77,pico_manana,habil,0,88.21,retraso_alto
+Portal 80,Portal Norte,8.448,9,2,51.77,noche,fin_semana,0,39.32,puntual
+Portal 80,Portal Norte,8.448,9,2,51.77,valle,fin_semana,1,60.65,retraso_moderado
+Portal 80,Portal Norte,8.448,9,2,51.77,noche,fin_semana,0,53.51,puntual
+Portal 80,Portal Norte,8.448,9,2,51.77,pico_manana,fin_semana,0,78.04,retraso_alto
+Portal 80,Portal Sur,23.188,8,0,62.21,noche,fin_semana,1,60.59,puntual
+Portal 80,Portal Sur,23.188,8,0,62.21,pico_tarde,fin_semana,1,88.24,retraso_alto
+Portal 80,Portal Sur,23.188,8,0,62.21,pico_tarde,fin_semana,0,78.08,retraso_moderado
+Portal 80,Portal Sur,23.188,8,0,62.21,noche,fin_semana,1,63.38,puntual
+Portal 80,Portal Sur,23.188,8,0,62.21,valle,habil,1,66.97,puntual
+Portal 80,Portal Sur,23.188,8,0,62.21,valle,fin_semana,1,71.11,puntual
+Portal 80,Portal Sur,23.188,8,0,62.21,pico_manana,habil,0,87.02,retraso_moderado
+Portal 80,Portal Sur,23.188,8,0,62.21,pico_manana,fin_semana,0,75.79,retraso_moderado
+Portal 80,Restrepo,15.201,6,0,41.88,valle,fin_semana,0,37.92,puntual
+Portal 80,Restrepo,15.201,6,0,41.88,pico_manana,habil,1,66.09,retraso_alto
+Portal 80,Restrepo,15.201,6,0,41.88,valle,habil,1,49.74,retraso_moderado
+Portal 80,Restrepo,15.201,6,0,41.88,valle,fin_semana,1,42.96,puntual
+Portal 80,Restrepo,15.201,6,0,41.88,valle,habil,1,49.46,retraso_moderado
+Portal 80,Restrepo,15.201,6,0,41.88,pico_manana,fin_semana,0,54.0,retraso_moderado
+Portal 80,Restrepo,15.201,6,0,41.88,noche,fin_semana,0,36.4,puntual
+Portal 80,Restrepo,15.201,6,0,41.88,pico_manana,fin_semana,0,52.24,retraso_moderado
+Portal 80,Ricaurte,10.763,4,0,29.38,pico_tarde,habil,0,43.61,retraso_alto
+Portal 80,Ricaurte,10.763,4,0,29.38,noche,habil,0,27.43,puntual
+Portal 80,Ricaurte,10.763,4,0,29.38,valle,fin_semana,0,25.82,puntual
+Portal 80,Ricaurte,10.763,4,0,29.38,noche,habil,1,31.12,puntual
+Portal 80,Ricaurte,10.763,4,0,29.38,pico_manana,fin_semana,1,41.0,retraso_moderado
+Portal 80,Ricaurte,10.763,4,0,29.38,pico_manana,fin_semana,0,36.46,retraso_moderado
+Portal 80,Ricaurte,10.763,4,0,29.38,pico_manana,fin_semana,0,35.63,retraso_moderado
+Portal 80,Ricaurte,10.763,4,0,29.38,pico_manana,fin_semana,0,35.6,retraso_moderado
+Portal 80,Tercer Milenio,13.393,5,0,35.76,valle,fin_semana,0,29.42,puntual
+Portal 80,Tercer Milenio,13.393,5,0,35.76,noche,fin_semana,0,29.25,puntual
+Portal 80,Tercer Milenio,13.393,5,0,35.76,noche,habil,1,39.54,puntual
+Portal 80,Tercer Milenio,13.393,5,0,35.76,noche,habil,1,42.11,retraso_moderado
+Portal 80,Tercer Milenio,13.393,5,0,35.76,pico_tarde,fin_semana,1,51.36,retraso_alto
+Portal 80,Tercer Milenio,13.393,5,0,35.76,pico_manana,fin_semana,1,51.24,retraso_alto
+Portal 80,Tercer Milenio,13.393,5,0,35.76,pico_tarde,habil,0,50.28,retraso_alto
+Portal 80,Tercer Milenio,13.393,5,0,35.76,valle,habil,1,38.41,puntual
+Portal 80,Toberin,7.811,8,2,47.95,pico_manana,fin_semana,1,77.0,retraso_alto
+Portal 80,Toberin,7.811,8,2,47.95,pico_manana,fin_semana,0,71.46,retraso_alto
+Portal 80,Toberin,7.811,8,2,47.95,pico_manana,fin_semana,1,74.29,retraso_alto
+Portal 80,Toberin,7.811,8,2,47.95,pico_manana,habil,0,72.64,retraso_alto
+Portal 80,Toberin,7.811,8,2,47.95,noche,habil,1,54.26,puntual
+Portal 80,Toberin,7.811,8,2,47.95,noche,habil,0,46.41,puntual
+Portal 80,Toberin,7.811,8,2,47.95,pico_tarde,habil,0,74.26,retraso_alto
+Portal 80,Toberin,7.811,8,2,47.95,pico_manana,habil,1,80.01,retraso_alto
+Portal Americas,Av Jimenez,9.766,5,0,33.7,noche,habil,1,30.94,puntual
+Portal Americas,Av Jimenez,9.766,5,0,33.7,pico_manana,habil,0,41.54,retraso_moderado
+Portal Americas,Av Jimenez,9.766,5,0,33.7,pico_manana,fin_semana,1,52.71,retraso_alto
+Portal Americas,Av Jimenez,9.766,5,0,33.7,valle,habil,0,34.89,puntual
+Portal Americas,Av Jimenez,9.766,5,0,33.7,pico_manana,fin_semana,0,39.02,retraso_moderado
+Portal Americas,Av Jimenez,9.766,5,0,33.7,pico_manana,habil,0,46.11,retraso_moderado
+Portal Americas,Av Jimenez,9.766,5,0,33.7,noche,habil,0,32.92,puntual
+Portal Americas,Av Jimenez,9.766,5,0,33.7,noche,fin_semana,0,26.53,puntual
+Portal Americas,Banderas,2.662,2,0,6.39,valle,fin_semana,0,5.8,puntual
+Portal Americas,Banderas,2.662,2,0,6.39,pico_tarde,habil,0,7.99,retraso_moderado
+Portal Americas,Banderas,2.662,2,0,6.39,pico_tarde,habil,0,9.28,retraso_alto
+Portal Americas,Banderas,2.662,2,0,6.39,valle,fin_semana,0,6.13,puntual
+Portal Americas,Banderas,2.662,2,0,6.39,pico_manana,habil,0,8.87,retraso_moderado
+Portal Americas,Banderas,2.662,2,0,6.39,noche,habil,0,5.4,puntual
+Portal Americas,Banderas,2.662,2,0,6.39,noche,habil,0,7.18,puntual
+Portal Americas,Banderas,2.662,2,0,6.39,pico_tarde,fin_semana,1,9.33,retraso_alto
+Portal Americas,Calle 100,13.806,10,1,64.7,noche,habil,0,67.09,puntual
+Portal Americas,Calle 100,13.806,10,1,64.7,noche,fin_semana,0,60.97,puntual
+Portal Americas,Calle 100,13.806,10,1,64.7,valle,habil,1,81.26,retraso_moderado
+Portal Americas,Calle 100,13.806,10,1,64.7,pico_manana,fin_semana,0,89.57,retraso_moderado
+Portal Americas,Calle 100,13.806,10,1,64.7,noche,habil,1,74.49,retraso_moderado
+Portal Americas,Calle 100,13.806,10,1,64.7,pico_manana,fin_semana,1,98.7,retraso_alto
+Portal Americas,Calle 100,13.806,10,1,64.7,valle,fin_semana,1,67.87,puntual
+Portal Americas,Calle 100,13.806,10,1,64.7,valle,habil,0,64.25,puntual
+Portal Americas,Calle 146,17.043,11,1,75.46,noche,fin_semana,0,74.33,puntual
+Portal Americas,Calle 146,17.043,11,1,75.46,pico_manana,fin_semana,0,110.96,retraso_alto
+Portal Americas,Calle 146,17.043,11,1,75.46,valle,fin_semana,0,66.09,puntual
+Portal Americas,Calle 146,17.043,11,1,75.46,noche,habil,0,84.67,puntual
+Portal Americas,Calle 146,17.043,11,1,75.46,pico_manana,habil,0,109.14,retraso_alto
+Portal Americas,Calle 146,17.043,11,1,75.46,pico_manana,habil,0,97.34,retraso_moderado
+Portal Americas,Calle 146,17.043,11,1,75.46,noche,fin_semana,0,70.32,puntual
+Portal Americas,Calle 146,17.043,11,1,75.46,pico_tarde,habil,0,123.57,retraso_alto
+Portal Americas,Calle 72,10.775,7,1,52.79,pico_tarde,habil,0,78.11,retraso_alto
+Portal Americas,Calle 72,10.775,7,1,52.79,valle,fin_semana,0,53.99,puntual
+Portal Americas,Calle 72,10.775,7,1,52.79,pico_manana,fin_semana,1,64.48,retraso_moderado
+Portal Americas,Calle 72,10.775,7,1,52.79,valle,habil,1,64.79,retraso_moderado
+Portal Americas,Calle 72,10.775,7,1,52.79,noche,habil,0,49.39,puntual
+Portal Americas,Calle 72,10.775,7,1,52.79,valle,fin_semana,0,53.03,puntual
+Portal Americas,Calle 72,10.775,7,1,52.79,valle,fin_semana,0,54.95,puntual
+Portal Americas,Calle 72,10.775,7,1,52.79,pico_tarde,habil,0,79.21,retraso_alto
+Portal Americas,Calle 85,12.131,9,1,59.19,noche,fin_semana,0,54.99,puntual
+Portal Americas,Calle 85,12.131,9,1,59.19,pico_tarde,habil,1,106.52,retraso_alto
+Portal Americas,Calle 85,12.131,9,1,59.19,valle,habil,0,57.01,puntual
+Portal Americas,Calle 85,12.131,9,1,59.19,valle,fin_semana,0,58.8,puntual
+Portal Americas,Calle 85,12.131,9,1,59.19,pico_tarde,habil,1,85.44,retraso_alto
+Portal Americas,Calle 85,12.131,9,1,59.19,valle,fin_semana,0,59.9,puntual
+Portal Americas,Calle 85,12.131,9,1,59.19,valle,habil,1,76.24,retraso_moderado
+Portal Americas,Calle 85,12.131,9,1,59.19,pico_manana,habil,0,79.73,retraso_moderado
+Portal Americas,Heroes,10.349,8,1,54.72,pico_manana,fin_semana,1,71.06,retraso_moderado
+Portal Americas,Heroes,10.349,8,1,54.72,pico_manana,fin_semana,0,76.07,retraso_moderado
+Portal Americas,Heroes,10.349,8,1,54.72,valle,habil,1,66.23,retraso_moderado
+Portal Americas,Heroes,10.349,8,1,54.72,noche,habil,0,47.87,puntual
+Portal Americas,Heroes,10.349,8,1,54.72,pico_tarde,fin_semana,0,70.88,retraso_moderado
+Portal Americas,Heroes,10.349,8,1,54.72,noche,fin_semana,0,47.75,puntual
+Portal Americas,Heroes,10.349,8,1,54.72,noche,habil,0,52.26,puntual
+Portal Americas,Heroes,10.349,8,1,54.72,noche,habil,0,55.12,puntual
+Portal Americas,Molinos,8.87,5,1,29.78,noche,habil,1,39.39,retraso_moderado
+Portal Americas,Molinos,8.87,5,1,29.78,pico_tarde,habil,0,46.97,retraso_alto
+Portal Americas,Molinos,8.87,5,1,29.78,noche,fin_semana,1,33.65,puntual
+Portal Americas,Molinos,8.87,5,1,29.78,valle,habil,1,34.77,retraso_moderado
+Portal Americas,Molinos,8.87,5,1,29.78,pico_tarde,habil,1,56.03,retraso_alto
+Portal Americas,Molinos,8.87,5,1,29.78,pico_manana,habil,0,40.51,retraso_moderado
+Portal Americas,Molinos,8.87,5,1,29.78,pico_tarde,fin_semana,1,48.66,retraso_alto
+Portal Americas,Molinos,8.87,5,1,29.78,pico_manana,habil,0,43.04,retraso_alto
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,pico_tarde,habil,1,78.23,retraso_alto
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,valle,habil,0,48.17,puntual
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,pico_tarde,fin_semana,1,64.06,retraso_alto
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,pico_manana,fin_semana,0,52.0,retraso_moderado
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,noche,fin_semana,1,42.89,puntual
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,pico_tarde,fin_semana,1,65.41,retraso_alto
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,pico_tarde,habil,0,68.02,retraso_alto
+Portal Americas,NQS Calle 30,7.387,7,1,43.29,pico_manana,fin_semana,0,52.16,retraso_moderado
+Portal Americas,Polo,10.573,8,1,56.34,pico_tarde,habil,0,84.46,retraso_alto
+Portal Americas,Polo,10.573,8,1,56.34,valle,fin_semana,0,55.02,puntual
+Portal Americas,Polo,10.573,8,1,56.34,valle,habil,0,52.95,puntual
+Portal Americas,Polo,10.573,8,1,56.34,valle,fin_semana,0,56.47,puntual
+Portal Americas,Polo,10.573,8,1,56.34,noche,fin_semana,1,55.79,puntual
+Portal Americas,Polo,10.573,8,1,56.34,pico_manana,habil,0,75.67,retraso_moderado
+Portal Americas,Polo,10.573,8,1,56.34,pico_tarde,fin_semana,1,80.27,retraso_alto
+Portal Americas,Polo,10.573,8,1,56.34,pico_tarde,fin_semana,1,93.97,retraso_alto
+Portal Americas,Portal 80,10.959,9,1,69.07,noche,fin_semana,0,52.34,puntual
+Portal Americas,Portal 80,10.959,9,1,69.07,pico_tarde,habil,0,94.42,retraso_moderado
+Portal Americas,Portal 80,10.959,9,1,69.07,valle,fin_semana,0,74.07,puntual
+Portal Americas,Portal 80,10.959,9,1,69.07,pico_manana,habil,0,95.46,retraso_moderado
+Portal Americas,Portal 80,10.959,9,1,69.07,pico_tarde,fin_semana,0,88.2,retraso_moderado
+Portal Americas,Portal 80,10.959,9,1,69.07,pico_tarde,habil,0,98.28,retraso_alto
+Portal Americas,Portal 80,10.959,9,1,69.07,valle,habil,0,86.25,retraso_moderado
+Portal Americas,Portal 80,10.959,9,1,69.07,valle,fin_semana,0,76.43,puntual
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_tarde,habil,0,118.08,retraso_alto
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_tarde,fin_semana,0,107.52,retraso_moderado
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_tarde,fin_semana,1,136.83,retraso_alto
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_manana,habil,0,114.38,retraso_moderado
+Portal Americas,Portal Norte,18.681,13,1,81.94,noche,habil,0,85.15,puntual
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_tarde,fin_semana,0,106.19,retraso_moderado
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_tarde,habil,1,135.14,retraso_alto
+Portal Americas,Portal Norte,18.681,13,1,81.94,pico_tarde,habil,1,113.69,retraso_moderado
+Portal Americas,Portal Sur,13.851,6,1,47.52,noche,habil,0,46.58,puntual
+Portal Americas,Portal Sur,13.851,6,1,47.52,pico_manana,fin_semana,1,67.22,retraso_alto
+Portal Americas,Portal Sur,13.851,6,1,47.52,valle,fin_semana,0,45.92,puntual
+Portal Americas,Portal Sur,13.851,6,1,47.52,valle,habil,0,50.63,puntual
+Portal Americas,Portal Sur,13.851,6,1,47.52,valle,habil,0,45.69,puntual
+Portal Americas,Portal Sur,13.851,6,1,47.52,pico_manana,fin_semana,0,59.37,retraso_moderado
+Portal Americas,Portal Sur,13.851,6,1,47.52,noche,fin_semana,1,41.63,puntual
+Portal Americas,Portal Sur,13.851,6,1,47.52,pico_tarde,fin_semana,0,55.48,retraso_moderado
+Portal Americas,Restrepo,7.898,3,0,22.19,noche,fin_semana,0,18.11,puntual
+Portal Americas,Restrepo,7.898,3,0,22.19,pico_tarde,fin_semana,0,29.28,retraso_moderado
+Portal Americas,Restrepo,7.898,3,0,22.19,pico_manana,habil,1,37.91,retraso_alto
+Portal Americas,Restrepo,7.898,3,0,22.19,noche,fin_semana,0,17.36,puntual
+Portal Americas,Restrepo,7.898,3,0,22.19,valle,fin_semana,1,23.77,puntual
+Portal Americas,Restrepo,7.898,3,0,22.19,pico_manana,habil,0,29.16,retraso_moderado
+Portal Americas,Restrepo,7.898,3,0,22.19,pico_tarde,fin_semana,1,33.11,retraso_alto
+Portal Americas,Restrepo,7.898,3,0,22.19,noche,habil,0,21.03,puntual
+Portal Americas,Ricaurte,7.254,6,1,39.69,noche,fin_semana,0,37.08,puntual
+Portal Americas,Ricaurte,7.254,6,1,39.69,valle,habil,0,44.99,puntual
+Portal Americas,Ricaurte,7.254,6,1,39.69,noche,fin_semana,1,34.89,puntual
+Portal Americas,Ricaurte,7.254,6,1,39.69,pico_tarde,fin_semana,0,52.98,retraso_moderado
+Portal Americas,Ricaurte,7.254,6,1,39.69,noche,habil,0,40.06,puntual
+Portal Americas,Ricaurte,7.254,6,1,39.69,pico_tarde,fin_semana,0,50.17,retraso_moderado
+Portal Americas,Ricaurte,7.254,6,1,39.69,pico_tarde,fin_semana,0,46.11,retraso_moderado
+Portal Americas,Ricaurte,7.254,6,1,39.69,valle,habil,0,41.94,puntual
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,pico_tarde,fin_semana,0,33.47,retraso_moderado
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,noche,fin_semana,0,23.14,puntual
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,noche,habil,0,24.09,puntual
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,pico_tarde,habil,1,45.21,retraso_alto
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,pico_manana,habil,0,33.66,retraso_moderado
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,pico_tarde,habil,0,40.82,retraso_alto
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,pico_tarde,fin_semana,0,31.01,puntual
+Portal Americas,Tercer Milenio,8.09,4,0,28.31,pico_manana,fin_semana,0,29.22,puntual
+Portal Americas,Toberin,17.559,12,1,78.12,pico_manana,habil,1,129.19,retraso_alto
+Portal Americas,Toberin,17.559,12,1,78.12,valle,fin_semana,0,76.22,puntual
+Portal Americas,Toberin,17.559,12,1,78.12,pico_tarde,fin_semana,1,115.95,retraso_alto
+Portal Americas,Toberin,17.559,12,1,78.12,pico_tarde,habil,0,106.58,retraso_moderado
+Portal Americas,Toberin,17.559,12,1,78.12,valle,fin_semana,0,74.92,puntual
+Portal Americas,Toberin,17.559,12,1,78.12,valle,habil,0,75.37,puntual
+Portal Americas,Toberin,17.559,12,1,78.12,valle,habil,0,84.37,puntual
+Portal Americas,Toberin,17.559,12,1,78.12,pico_manana,fin_semana,0,89.87,retraso_moderado
+Portal Norte,Av Jimenez,16.964,8,0,43.23,pico_manana,habil,0,63.09,retraso_alto
+Portal Norte,Av Jimenez,16.964,8,0,43.23,pico_tarde,fin_semana,0,52.17,retraso_moderado
+Portal Norte,Av Jimenez,16.964,8,0,43.23,noche,fin_semana,0,36.78,puntual
+Portal Norte,Av Jimenez,16.964,8,0,43.23,pico_manana,habil,0,57.27,retraso_moderado
+Portal Norte,Av Jimenez,16.964,8,0,43.23,valle,habil,0,44.52,puntual
+Portal Norte,Av Jimenez,16.964,8,0,43.23,pico_manana,fin_semana,1,62.21,retraso_alto
+Portal Norte,Av Jimenez,16.964,8,0,43.23,pico_manana,habil,0,59.58,retraso_moderado
+Portal Norte,Av Jimenez,16.964,8,0,43.23,pico_manana,habil,0,50.6,retraso_moderado
+Portal Norte,Banderas,16.76,12,1,75.55,pico_manana,habil,0,111.89,retraso_alto
+Portal Norte,Banderas,16.76,12,1,75.55,pico_manana,fin_semana,1,115.44,retraso_alto
+Portal Norte,Banderas,16.76,12,1,75.55,pico_manana,habil,0,112.18,retraso_alto
+Portal Norte,Banderas,16.76,12,1,75.55,valle,habil,1,88.84,retraso_moderado
+Portal Norte,Banderas,16.76,12,1,75.55,pico_tarde,habil,0,120.03,retraso_alto
+Portal Norte,Banderas,16.76,12,1,75.55,pico_tarde,fin_semana,0,110.44,retraso_alto
+Portal Norte,Banderas,16.76,12,1,75.55,valle,habil,1,88.21,retraso_moderado
+Portal Norte,Banderas,16.76,12,1,75.55,pico_manana,habil,1,121.23,retraso_alto
+Portal Norte,Calle 100,7.085,4,0,17.24,valle,fin_semana,0,16.77,puntual
+Portal Norte,Calle 100,7.085,4,0,17.24,pico_manana,habil,1,25.22,retraso_alto
+Portal Norte,Calle 100,7.085,4,0,17.24,noche,fin_semana,1,15.71,puntual
+Portal Norte,Calle 100,7.085,4,0,17.24,pico_manana,habil,0,22.2,retraso_moderado
+Portal Norte,Calle 100,7.085,4,0,17.24,noche,fin_semana,0,13.54,puntual
+Portal Norte,Calle 100,7.085,4,0,17.24,pico_tarde,habil,0,23.95,retraso_moderado
+Portal Norte,Calle 100,7.085,4,0,17.24,pico_manana,habil,0,23.49,retraso_moderado
+Portal Norte,Calle 100,7.085,4,0,17.24,pico_manana,habil,0,20.37,retraso_moderado
+Portal Norte,Calle 146,2.681,3,0,6.48,noche,habil,0,6.02,puntual
+Portal Norte,Calle 146,2.681,3,0,6.48,pico_tarde,fin_semana,0,9.03,retraso_moderado
+Portal Norte,Calle 146,2.681,3,0,6.48,noche,fin_semana,0,5.6,puntual
+Portal Norte,Calle 146,2.681,3,0,6.48,noche,fin_semana,0,5.7,puntual
+Portal Norte,Calle 146,2.681,3,0,6.48,pico_manana,fin_semana,1,9.67,retraso_alto
+Portal Norte,Calle 146,2.681,3,0,6.48,pico_manana,habil,0,9.21,retraso_alto
+Portal Norte,Calle 146,2.681,3,0,6.48,noche,fin_semana,1,6.17,puntual
+Portal Norte,Calle 146,2.681,3,0,6.48,valle,habil,0,6.35,puntual
+Portal Norte,Calle 72,11.097,7,0,29.15,valle,fin_semana,0,20.93,puntual
+Portal Norte,Calle 72,11.097,7,0,29.15,pico_manana,habil,0,33.94,retraso_moderado
+Portal Norte,Calle 72,11.097,7,0,29.15,noche,fin_semana,1,28.97,puntual
+Portal Norte,Calle 72,11.097,7,0,29.15,noche,fin_semana,0,22.26,puntual
+Portal Norte,Calle 72,11.097,7,0,29.15,noche,fin_semana,1,27.95,puntual
+Portal Norte,Calle 72,11.097,7,0,29.15,pico_manana,habil,0,44.64,retraso_alto
+Portal Norte,Calle 72,11.097,7,0,29.15,noche,fin_semana,0,24.18,puntual
+Portal Norte,Calle 72,11.097,7,0,29.15,pico_manana,habil,0,38.13,retraso_moderado
+Portal Norte,Calle 85,9.308,5,0,22.75,noche,habil,0,19.68,puntual
+Portal Norte,Calle 85,9.308,5,0,22.75,valle,fin_semana,1,25.45,puntual
+Portal Norte,Calle 85,9.308,5,0,22.75,pico_manana,habil,1,35.36,retraso_alto
+Portal Norte,Calle 85,9.308,5,0,22.75,noche,habil,0,18.66,puntual
+Portal Norte,Calle 85,9.308,5,0,22.75,noche,fin_semana,1,22.25,puntual
+Portal Norte,Calle 85,9.308,5,0,22.75,pico_manana,habil,0,32.96,retraso_alto
+Portal Norte,Calle 85,9.308,5,0,22.75,pico_manana,fin_semana,0,26.79,retraso_moderado
+Portal Norte,Calle 85,9.308,5,0,22.75,noche,habil,0,23.15,puntual
+Portal Norte,Heroes,10.732,6,0,27.22,valle,fin_semana,1,29.4,puntual
+Portal Norte,Heroes,10.732,6,0,27.22,pico_tarde,fin_semana,0,36.79,retraso_moderado
+Portal Norte,Heroes,10.732,6,0,27.22,pico_manana,fin_semana,1,34.46,retraso_moderado
+Portal Norte,Heroes,10.732,6,0,27.22,noche,fin_semana,1,25.88,puntual
+Portal Norte,Heroes,10.732,6,0,27.22,valle,habil,0,26.97,puntual
+Portal Norte,Heroes,10.732,6,0,27.22,noche,fin_semana,0,25.75,puntual
+Portal Norte,Heroes,10.732,6,0,27.22,pico_tarde,habil,0,36.76,retraso_moderado
+Portal Norte,Heroes,10.732,6,0,27.22,pico_tarde,fin_semana,1,38.55,retraso_alto
+Portal Norte,Molinos,21.469,13,2,67.33,pico_manana,fin_semana,0,95.41,retraso_alto
+Portal Norte,Molinos,21.469,13,2,67.33,pico_tarde,fin_semana,0,97.27,retraso_alto
+Portal Norte,Molinos,21.469,13,2,67.33,pico_manana,habil,0,100.66,retraso_alto
+Portal Norte,Molinos,21.469,13,2,67.33,pico_manana,habil,0,106.87,retraso_alto
+Portal Norte,Molinos,21.469,13,2,67.33,pico_manana,fin_semana,0,96.34,retraso_alto
+Portal Norte,Molinos,21.469,13,2,67.33,noche,fin_semana,1,73.46,puntual
+Portal Norte,Molinos,21.469,13,2,67.33,noche,fin_semana,0,61.08,puntual
+Portal Norte,Molinos,21.469,13,2,67.33,pico_tarde,fin_semana,1,96.54,retraso_alto
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,noche,fin_semana,1,60.59,retraso_moderado
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,valle,fin_semana,0,54.31,puntual
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,pico_tarde,habil,1,86.27,retraso_alto
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,valle,fin_semana,1,71.22,retraso_moderado
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,pico_manana,habil,0,76.85,retraso_alto
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,noche,habil,1,66.78,retraso_moderado
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,pico_manana,habil,1,87.56,retraso_alto
+Portal Norte,NQS Calle 30,14.27,9,2,52.08,noche,fin_semana,0,50.23,puntual
+Portal Norte,Polo,8.871,7,1,34.03,pico_tarde,habil,1,59.97,retraso_alto
+Portal Norte,Polo,8.871,7,1,34.03,pico_tarde,fin_semana,1,47.39,retraso_moderado
+Portal Norte,Polo,8.871,7,1,34.03,pico_tarde,habil,0,45.45,retraso_moderado
+Portal Norte,Polo,8.871,7,1,34.03,noche,habil,0,36.14,puntual
+Portal Norte,Polo,8.871,7,1,34.03,valle,fin_semana,0,29.61,puntual
+Portal Norte,Polo,8.871,7,1,34.03,noche,fin_semana,1,30.7,puntual
+Portal Norte,Polo,8.871,7,1,34.03,noche,habil,1,40.1,retraso_moderado
+Portal Norte,Polo,8.871,7,1,34.03,valle,habil,1,44.58,retraso_moderado
+Portal Norte,Portal 80,8.448,9,2,51.77,pico_tarde,fin_semana,0,67.23,retraso_moderado
+Portal Norte,Portal 80,8.448,9,2,51.77,pico_manana,habil,0,87.4,retraso_alto
+Portal Norte,Portal 80,8.448,9,2,51.77,pico_tarde,fin_semana,1,87.88,retraso_alto
+Portal Norte,Portal 80,8.448,9,2,51.77,valle,fin_semana,0,56.54,puntual
+Portal Norte,Portal 80,8.448,9,2,51.77,pico_manana,habil,0,87.7,retraso_alto
+Portal Norte,Portal 80,8.448,9,2,51.77,pico_tarde,fin_semana,0,73.53,retraso_alto
+Portal Norte,Portal 80,8.448,9,2,51.77,noche,fin_semana,1,58.49,puntual
+Portal Norte,Portal 80,8.448,9,2,51.77,pico_tarde,habil,0,77.33,retraso_alto
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_tarde,fin_semana,1,111.04,retraso_moderado
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_manana,fin_semana,0,100.76,retraso_moderado
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_manana,habil,0,101.15,retraso_moderado
+Portal Norte,Portal Americas,18.681,13,1,81.94,noche,fin_semana,1,76.49,puntual
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_manana,fin_semana,1,124.09,retraso_alto
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_manana,fin_semana,0,99.41,retraso_moderado
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_manana,habil,1,147.49,retraso_alto
+Portal Norte,Portal Americas,18.681,13,1,81.94,pico_tarde,fin_semana,1,137.22,retraso_alto
+Portal Norte,Portal Sur,28.85,14,2,85.07,valle,fin_semana,0,86.8,puntual
+Portal Norte,Portal Sur,28.85,14,2,85.07,pico_tarde,fin_semana,0,122.51,retraso_alto
+Portal Norte,Portal Sur,28.85,14,2,85.07,pico_tarde,habil,0,115.11,retraso_moderado
+Portal Norte,Portal Sur,28.85,14,2,85.07,pico_manana,fin_semana,1,127.36,retraso_alto
+Portal Norte,Portal Sur,28.85,14,2,85.07,noche,fin_semana,1,92.14,puntual
+Portal Norte,Portal Sur,28.85,14,2,85.07,valle,fin_semana,0,89.65,puntual
+Portal Norte,Portal Sur,28.85,14,2,85.07,pico_tarde,fin_semana,0,105.4,retraso_moderado
+Portal Norte,Portal Sur,28.85,14,2,85.07,pico_manana,habil,1,125.3,retraso_alto
+Portal Norte,Restrepo,20.603,11,1,59.74,valle,fin_semana,1,59.37,puntual
+Portal Norte,Restrepo,20.603,11,1,59.74,pico_tarde,habil,1,108.64,retraso_alto
+Portal Norte,Restrepo,20.603,11,1,59.74,valle,fin_semana,0,67.93,puntual
+Portal Norte,Restrepo,20.603,11,1,59.74,pico_tarde,fin_semana,0,79.83,retraso_moderado
+Portal Norte,Restrepo,20.603,11,1,59.74,valle,fin_semana,0,58.15,puntual
+Portal Norte,Restrepo,20.603,11,1,59.74,noche,fin_semana,1,59.42,puntual
+Portal Norte,Restrepo,20.603,11,1,59.74,noche,habil,0,65.52,puntual
+Portal Norte,Restrepo,20.603,11,1,59.74,noche,fin_semana,1,54.84,puntual
+Portal Norte,Ricaurte,15.724,10,2,55.68,noche,fin_semana,1,50.69,puntual
+Portal Norte,Ricaurte,15.724,10,2,55.68,pico_manana,habil,1,103.07,retraso_alto
+Portal Norte,Ricaurte,15.724,10,2,55.68,pico_tarde,habil,0,76.0,retraso_moderado
+Portal Norte,Ricaurte,15.724,10,2,55.68,pico_tarde,fin_semana,1,94.22,retraso_alto
+Portal Norte,Ricaurte,15.724,10,2,55.68,pico_manana,habil,1,88.33,retraso_alto
+Portal Norte,Ricaurte,15.724,10,2,55.68,valle,habil,0,55.88,puntual
+Portal Norte,Ricaurte,15.724,10,2,55.68,valle,fin_semana,0,53.22,puntual
+Portal Norte,Ricaurte,15.724,10,2,55.68,valle,habil,1,69.18,retraso_moderado
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,noche,fin_semana,0,41.92,puntual
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,pico_tarde,habil,1,92.25,retraso_alto
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,pico_tarde,fin_semana,0,75.63,retraso_alto
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,noche,fin_semana,1,57.51,puntual
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,valle,habil,0,62.06,retraso_moderado
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,valle,habil,0,53.28,puntual
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,valle,fin_semana,1,59.16,puntual
+Portal Norte,Tercer Milenio,18.231,10,1,53.62,noche,fin_semana,0,47.15,puntual
+Portal Norte,Toberin,1.591,2,0,3.82,pico_manana,fin_semana,0,4.81,retraso_moderado
+Portal Norte,Toberin,1.591,2,0,3.82,noche,fin_semana,1,3.71,puntual
+Portal Norte,Toberin,1.591,2,0,3.82,noche,habil,0,3.58,puntual
+Portal Norte,Toberin,1.591,2,0,3.82,pico_tarde,fin_semana,1,5.25,retraso_moderado
+Portal Norte,Toberin,1.591,2,0,3.82,noche,fin_semana,0,3.1,puntual
+Portal Norte,Toberin,1.591,2,0,3.82,valle,fin_semana,1,4.04,puntual
+Portal Norte,Toberin,1.591,2,0,3.82,valle,fin_semana,0,3.31,puntual
+Portal Norte,Toberin,1.591,2,0,3.82,pico_tarde,fin_semana,0,4.93,retraso_moderado
+Portal Sur,Av Jimenez,12.276,6,1,36.84,noche,habil,0,33.07,puntual
+Portal Sur,Av Jimenez,12.276,6,1,36.84,pico_manana,habil,0,49.22,retraso_moderado
+Portal Sur,Av Jimenez,12.276,6,1,36.84,valle,fin_semana,1,38.26,puntual
+Portal Sur,Av Jimenez,12.276,6,1,36.84,noche,fin_semana,1,39.29,puntual
+Portal Sur,Av Jimenez,12.276,6,1,36.84,pico_tarde,habil,0,52.82,retraso_alto
+Portal Sur,Av Jimenez,12.276,6,1,36.84,valle,fin_semana,0,34.49,puntual
+Portal Sur,Av Jimenez,12.276,6,1,36.84,pico_manana,habil,0,48.13,retraso_moderado
+Portal Sur,Av Jimenez,12.276,6,1,36.84,noche,fin_semana,0,33.0,puntual
+Portal Sur,Banderas,13.8,5,1,41.13,pico_manana,habil,0,60.93,retraso_alto
+Portal Sur,Banderas,13.8,5,1,41.13,pico_tarde,fin_semana,0,58.86,retraso_alto
+Portal Sur,Banderas,13.8,5,1,41.13,pico_manana,fin_semana,1,57.73,retraso_alto
+Portal Sur,Banderas,13.8,5,1,41.13,pico_manana,fin_semana,0,52.03,retraso_moderado
+Portal Sur,Banderas,13.8,5,1,41.13,valle,fin_semana,0,38.77,puntual
+Portal Sur,Banderas,13.8,5,1,41.13,pico_tarde,fin_semana,1,51.15,retraso_moderado
+Portal Sur,Banderas,13.8,5,1,41.13,pico_tarde,fin_semana,0,57.38,retraso_moderado
+Portal Sur,Banderas,13.8,5,1,41.13,noche,habil,1,45.13,puntual
+Portal Sur,Calle 100,22.068,11,2,67.83,noche,habil,0,73.32,puntual
+Portal Sur,Calle 100,22.068,11,2,67.83,pico_manana,fin_semana,0,94.87,retraso_moderado
+Portal Sur,Calle 100,22.068,11,2,67.83,valle,fin_semana,0,75.66,puntual
+Portal Sur,Calle 100,22.068,11,2,67.83,noche,habil,0,78.91,retraso_moderado
+Portal Sur,Calle 100,22.068,11,2,67.83,pico_tarde,fin_semana,0,79.49,retraso_moderado
+Portal Sur,Calle 100,22.068,11,2,67.83,valle,habil,0,75.12,puntual
+Portal Sur,Calle 100,22.068,11,2,67.83,pico_manana,habil,0,102.8,retraso_alto
+Portal Sur,Calle 100,22.068,11,2,67.83,pico_tarde,habil,1,125.42,retraso_alto
+Portal Sur,Calle 146,26.458,12,2,78.59,pico_manana,habil,0,122.87,retraso_alto
+Portal Sur,Calle 146,26.458,12,2,78.59,noche,habil,0,79.76,puntual
+Portal Sur,Calle 146,26.458,12,2,78.59,pico_manana,fin_semana,1,125.69,retraso_alto
+Portal Sur,Calle 146,26.458,12,2,78.59,pico_tarde,habil,0,120.45,retraso_alto
+Portal Sur,Calle 146,26.458,12,2,78.59,valle,habil,0,75.94,puntual
+Portal Sur,Calle 146,26.458,12,2,78.59,noche,fin_semana,1,87.64,puntual
+Portal Sur,Calle 146,26.458,12,2,78.59,pico_tarde,habil,0,134.92,retraso_alto
+Portal Sur,Calle 146,26.458,12,2,78.59,noche,fin_semana,1,83.12,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,valle,habil,0,62.79,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,pico_manana,habil,1,89.59,retraso_alto
+Portal Sur,Calle 72,17.904,8,2,55.92,noche,habil,0,58.32,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,noche,habil,0,61.9,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,valle,habil,0,62.26,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,valle,habil,0,57.55,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,noche,fin_semana,1,61.93,puntual
+Portal Sur,Calle 72,17.904,8,2,55.92,valle,fin_semana,1,59.55,puntual
+Portal Sur,Calle 85,19.774,9,1,60.76,pico_manana,fin_semana,1,91.54,retraso_alto
+Portal Sur,Calle 85,19.774,9,1,60.76,noche,fin_semana,0,59.05,puntual
+Portal Sur,Calle 85,19.774,9,1,60.76,noche,habil,0,63.11,puntual
+Portal Sur,Calle 85,19.774,9,1,60.76,noche,fin_semana,0,48.96,puntual
+Portal Sur,Calle 85,19.774,9,1,60.76,pico_manana,fin_semana,0,73.52,retraso_moderado
+Portal Sur,Calle 85,19.774,9,1,60.76,valle,fin_semana,1,59.2,puntual
+Portal Sur,Calle 85,19.774,9,1,60.76,pico_manana,fin_semana,0,65.02,puntual
+Portal Sur,Calle 85,19.774,9,1,60.76,noche,fin_semana,0,58.19,puntual
+Portal Sur,Heroes,18.154,9,2,57.85,valle,fin_semana,0,53.48,puntual
+Portal Sur,Heroes,18.154,9,2,57.85,pico_manana,habil,0,85.08,retraso_alto
+Portal Sur,Heroes,18.154,9,2,57.85,pico_manana,fin_semana,0,84.86,retraso_alto
+Portal Sur,Heroes,18.154,9,2,57.85,pico_tarde,fin_semana,0,85.46,retraso_alto
+Portal Sur,Heroes,18.154,9,2,57.85,pico_manana,habil,0,85.45,retraso_alto
+Portal Sur,Heroes,18.154,9,2,57.85,valle,fin_semana,0,52.17,puntual
+Portal Sur,Heroes,18.154,9,2,57.85,pico_manana,fin_semana,1,86.12,retraso_alto
+Portal Sur,Heroes,18.154,9,2,57.85,noche,fin_semana,1,68.93,retraso_moderado
+Portal Sur,Molinos,7.391,2,0,17.74,pico_tarde,fin_semana,0,22.52,retraso_moderado
+Portal Sur,Molinos,7.391,2,0,17.74,pico_tarde,habil,0,25.61,retraso_alto
+Portal Sur,Molinos,7.391,2,0,17.74,pico_manana,habil,0,24.82,retraso_moderado
+Portal Sur,Molinos,7.391,2,0,17.74,noche,fin_semana,1,18.01,puntual
+Portal Sur,Molinos,7.391,2,0,17.74,noche,fin_semana,0,12.76,puntual
+Portal Sur,Molinos,7.391,2,0,17.74,pico_tarde,fin_semana,0,19.08,puntual
+Portal Sur,Molinos,7.391,2,0,17.74,pico_manana,habil,0,24.88,retraso_alto
+Portal Sur,Molinos,7.391,2,0,17.74,pico_manana,habil,0,24.03,retraso_moderado
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,valle,fin_semana,1,39.07,puntual
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,valle,habil,0,38.14,puntual
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,noche,habil,0,33.39,puntual
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,valle,fin_semana,0,33.4,puntual
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,noche,habil,0,33.01,puntual
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,noche,habil,0,33.66,puntual
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,pico_manana,habil,1,59.32,retraso_alto
+Portal Sur,NQS Calle 30,14.606,6,0,36.42,noche,fin_semana,1,33.32,puntual
+Portal Sur,Polo,20.043,7,0,49.47,pico_tarde,habil,0,63.89,retraso_moderado
+Portal Sur,Polo,20.043,7,0,49.47,noche,habil,1,57.11,retraso_moderado
+Portal Sur,Polo,20.043,7,0,49.47,pico_manana,habil,0,60.77,retraso_moderado
+Portal Sur,Polo,20.043,7,0,49.47,pico_tarde,fin_semana,0,59.41,retraso_moderado
+Portal Sur,Polo,20.043,7,0,49.47,pico_manana,fin_semana,1,73.86,retraso_alto
+Portal Sur,Polo,20.043,7,0,49.47,noche,habil,0,45.7,puntual
+Portal Sur,Polo,20.043,7,0,49.47,pico_tarde,habil,0,67.02,retraso_moderado
+Portal Sur,Polo,20.043,7,0,49.47,valle,fin_semana,1,53.68,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,noche,habil,0,58.3,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,noche,fin_semana,0,49.02,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,valle,habil,0,61.44,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,noche,habil,0,57.23,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,valle,habil,1,61.39,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,noche,fin_semana,0,53.56,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,valle,habil,0,59.77,puntual
+Portal Sur,Portal 80,23.188,8,0,62.21,valle,habil,1,74.99,retraso_moderado
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_manana,habil,0,60.59,retraso_moderado
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_manana,habil,0,70.52,retraso_alto
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_tarde,fin_semana,0,63.92,retraso_moderado
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_tarde,habil,1,69.4,retraso_alto
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_manana,habil,0,71.55,retraso_alto
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_manana,habil,1,62.32,retraso_moderado
+Portal Sur,Portal Americas,13.851,6,1,47.52,pico_manana,habil,1,84.36,retraso_alto
+Portal Sur,Portal Americas,13.851,6,1,47.52,valle,fin_semana,0,48.02,puntual
+Portal Sur,Portal Norte,28.85,14,2,85.07,pico_tarde,fin_semana,1,113.66,retraso_moderado
+Portal Sur,Portal Norte,28.85,14,2,85.07,valle,fin_semana,0,84.36,puntual
+Portal Sur,Portal Norte,28.85,14,2,85.07,valle,habil,0,86.38,puntual
+Portal Sur,Portal Norte,28.85,14,2,85.07,pico_manana,habil,0,130.24,retraso_alto
+Portal Sur,Portal Norte,28.85,14,2,85.07,pico_tarde,fin_semana,1,139.64,retraso_alto
+Portal Sur,Portal Norte,28.85,14,2,85.07,noche,fin_semana,1,97.1,puntual
+Portal Sur,Portal Norte,28.85,14,2,85.07,valle,habil,1,102.15,retraso_moderado
+Portal Sur,Portal Norte,28.85,14,2,85.07,noche,fin_semana,0,82.18,puntual
+Portal Sur,Restrepo,8.255,3,0,20.33,noche,fin_semana,0,15.15,puntual
+Portal Sur,Restrepo,8.255,3,0,20.33,pico_manana,habil,0,28.77,retraso_alto
+Portal Sur,Restrepo,8.255,3,0,20.33,pico_tarde,fin_semana,0,23.74,retraso_moderado
+Portal Sur,Restrepo,8.255,3,0,20.33,pico_manana,habil,1,32.57,retraso_alto
+Portal Sur,Restrepo,8.255,3,0,20.33,pico_manana,fin_semana,0,22.26,puntual
+Portal Sur,Restrepo,8.255,3,0,20.33,pico_tarde,fin_semana,0,27.4,retraso_moderado
+Portal Sur,Restrepo,8.255,3,0,20.33,pico_manana,fin_semana,1,27.42,retraso_moderado
+Portal Sur,Restrepo,8.255,3,0,20.33,noche,fin_semana,1,19.41,puntual
+Portal Sur,Ricaurte,13.132,5,0,32.83,valle,fin_semana,1,31.18,puntual
+Portal Sur,Ricaurte,13.132,5,0,32.83,noche,habil,0,34.95,puntual
+Portal Sur,Ricaurte,13.132,5,0,32.83,pico_manana,habil,1,47.65,retraso_alto
+Portal Sur,Ricaurte,13.132,5,0,32.83,valle,fin_semana,0,32.82,puntual
+Portal Sur,Ricaurte,13.132,5,0,32.83,pico_manana,fin_semana,1,43.06,retraso_moderado
+Portal Sur,Ricaurte,13.132,5,0,32.83,pico_manana,habil,1,55.84,retraso_alto
+Portal Sur,Ricaurte,13.132,5,0,32.83,pico_tarde,habil,0,44.37,retraso_moderado
+Portal Sur,Ricaurte,13.132,5,0,32.83,pico_manana,habil,0,33.99,puntual
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,pico_tarde,fin_semana,0,37.02,retraso_moderado
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,pico_manana,fin_semana,0,33.23,retraso_moderado
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,pico_manana,fin_semana,0,36.76,retraso_moderado
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,valle,fin_semana,0,23.43,puntual
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,pico_tarde,habil,1,38.57,retraso_alto
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,pico_manana,fin_semana,1,40.31,retraso_alto
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,valle,fin_semana,0,26.25,puntual
+Portal Sur,Tercer Milenio,10.646,4,0,26.45,noche,habil,0,26.95,puntual
+Portal Sur,Toberin,27.36,13,2,81.25,pico_manana,fin_semana,0,99.25,retraso_moderado
+Portal Sur,Toberin,27.36,13,2,81.25,pico_tarde,fin_semana,1,131.18,retraso_alto
+Portal Sur,Toberin,27.36,13,2,81.25,noche,fin_semana,1,80.5,puntual
+Portal Sur,Toberin,27.36,13,2,81.25,noche,fin_semana,1,87.93,puntual
+Portal Sur,Toberin,27.36,13,2,81.25,noche,habil,0,77.09,puntual
+Portal Sur,Toberin,27.36,13,2,81.25,noche,habil,1,97.32,retraso_moderado
+Portal Sur,Toberin,27.36,13,2,81.25,pico_manana,habil,0,104.89,retraso_moderado
+Portal Sur,Toberin,27.36,13,2,81.25,pico_tarde,habil,1,147.07,retraso_alto
+Restrepo,Av Jimenez,4.636,3,0,11.51,noche,habil,0,10.44,puntual
+Restrepo,Av Jimenez,4.636,3,0,11.51,valle,habil,0,12.07,puntual
+Restrepo,Av Jimenez,4.636,3,0,11.51,pico_tarde,fin_semana,0,14.43,retraso_moderado
+Restrepo,Av Jimenez,4.636,3,0,11.51,valle,habil,1,13.48,retraso_moderado
+Restrepo,Av Jimenez,4.636,3,0,11.51,noche,habil,0,11.4,puntual
+Restrepo,Av Jimenez,4.636,3,0,11.51,noche,habil,0,10.54,puntual
+Restrepo,Av Jimenez,4.636,3,0,11.51,pico_tarde,habil,0,14.65,retraso_moderado
+Restrepo,Av Jimenez,4.636,3,0,11.51,noche,fin_semana,0,10.35,puntual
+Restrepo,Banderas,6.586,2,0,15.81,noche,habil,0,13.68,puntual
+Restrepo,Banderas,6.586,2,0,15.81,noche,fin_semana,0,13.48,puntual
+Restrepo,Banderas,6.586,2,0,15.81,pico_tarde,habil,1,24.38,retraso_alto
+Restrepo,Banderas,6.586,2,0,15.81,valle,fin_semana,0,13.22,puntual
+Restrepo,Banderas,6.586,2,0,15.81,pico_manana,fin_semana,1,21.95,retraso_moderado
+Restrepo,Banderas,6.586,2,0,15.81,valle,habil,1,18.79,retraso_moderado
+Restrepo,Banderas,6.586,2,0,15.81,pico_tarde,habil,1,24.21,retraso_alto
+Restrepo,Banderas,6.586,2,0,15.81,pico_manana,habil,0,20.93,retraso_moderado
+Restrepo,Calle 100,13.905,8,1,42.51,pico_manana,habil,1,72.5,retraso_alto
+Restrepo,Calle 100,13.905,8,1,42.51,pico_manana,fin_semana,0,53.16,retraso_moderado
+Restrepo,Calle 100,13.905,8,1,42.51,valle,fin_semana,0,41.7,puntual
+Restrepo,Calle 100,13.905,8,1,42.51,noche,habil,0,38.06,puntual
+Restrepo,Calle 100,13.905,8,1,42.51,pico_manana,fin_semana,0,54.63,retraso_moderado
+Restrepo,Calle 100,13.905,8,1,42.51,pico_tarde,fin_semana,0,57.13,retraso_moderado
+Restrepo,Calle 100,13.905,8,1,42.51,pico_manana,habil,0,56.44,retraso_moderado
+Restrepo,Calle 100,13.905,8,1,42.51,valle,fin_semana,0,39.48,puntual
+Restrepo,Calle 146,18.242,9,1,53.26,valle,fin_semana,0,49.72,puntual
+Restrepo,Calle 146,18.242,9,1,53.26,pico_tarde,habil,0,76.33,retraso_alto
+Restrepo,Calle 146,18.242,9,1,53.26,pico_manana,fin_semana,0,70.4,retraso_moderado
+Restrepo,Calle 146,18.242,9,1,53.26,pico_tarde,fin_semana,0,72.28,retraso_moderado
+Restrepo,Calle 146,18.242,9,1,53.26,pico_manana,habil,0,76.03,retraso_alto
+Restrepo,Calle 146,18.242,9,1,53.26,valle,fin_semana,1,64.11,retraso_moderado
+Restrepo,Calle 146,18.242,9,1,53.26,noche,habil,0,57.54,puntual
+Restrepo,Calle 146,18.242,9,1,53.26,noche,habil,0,54.9,puntual
+Restrepo,Calle 72,9.755,5,1,30.59,pico_manana,fin_semana,1,45.65,retraso_alto
+Restrepo,Calle 72,9.755,5,1,30.59,pico_tarde,habil,0,52.43,retraso_alto
+Restrepo,Calle 72,9.755,5,1,30.59,valle,fin_semana,1,32.32,puntual
+Restrepo,Calle 72,9.755,5,1,30.59,valle,habil,0,32.72,puntual
+Restrepo,Calle 72,9.755,5,1,30.59,valle,habil,1,44.15,retraso_alto
+Restrepo,Calle 72,9.755,5,1,30.59,noche,habil,0,28.69,puntual
+Restrepo,Calle 72,9.755,5,1,30.59,noche,fin_semana,1,31.67,puntual
+Restrepo,Calle 72,9.755,5,1,30.59,noche,fin_semana,1,31.57,puntual
+Restrepo,Calle 85,11.627,7,1,36.99,pico_tarde,fin_semana,0,50.43,retraso_moderado
+Restrepo,Calle 85,11.627,7,1,36.99,pico_tarde,habil,0,51.87,retraso_alto
+Restrepo,Calle 85,11.627,7,1,36.99,pico_manana,fin_semana,0,45.67,retraso_moderado
+Restrepo,Calle 85,11.627,7,1,36.99,valle,fin_semana,0,35.84,puntual
+Restrepo,Calle 85,11.627,7,1,36.99,valle,fin_semana,1,44.51,retraso_moderado
+Restrepo,Calle 85,11.627,7,1,36.99,noche,fin_semana,0,31.94,puntual
+Restrepo,Calle 85,11.627,7,1,36.99,pico_tarde,fin_semana,0,43.81,retraso_moderado
+Restrepo,Calle 85,11.627,7,1,36.99,pico_manana,habil,1,61.94,retraso_alto
+Restrepo,Heroes,9.941,6,1,32.52,pico_manana,fin_semana,0,45.53,retraso_moderado
+Restrepo,Heroes,9.941,6,1,32.52,noche,fin_semana,0,27.17,puntual
+Restrepo,Heroes,9.941,6,1,32.52,pico_manana,habil,1,60.88,retraso_alto
+Restrepo,Heroes,9.941,6,1,32.52,noche,habil,0,33.39,puntual
+Restrepo,Heroes,9.941,6,1,32.52,noche,fin_semana,0,30.96,puntual
+Restrepo,Heroes,9.941,6,1,32.52,pico_manana,habil,0,51.76,retraso_alto
+Restrepo,Heroes,9.941,6,1,32.52,pico_tarde,habil,0,54.1,retraso_alto
+Restrepo,Heroes,9.941,6,1,32.52,pico_tarde,fin_semana,0,43.36,retraso_moderado
+Restrepo,Molinos,1.079,2,0,2.59,pico_manana,fin_semana,1,3.76,retraso_alto
+Restrepo,Molinos,1.079,2,0,2.59,pico_tarde,habil,0,4.42,retraso_alto
+Restrepo,Molinos,1.079,2,0,2.59,noche,habil,0,2.58,puntual
+Restrepo,Molinos,1.079,2,0,2.59,noche,habil,0,2.8,puntual
+Restrepo,Molinos,1.079,2,0,2.59,noche,habil,1,2.96,puntual
+Restrepo,Molinos,1.079,2,0,2.59,valle,habil,1,3.34,retraso_moderado
+Restrepo,Molinos,1.079,2,0,2.59,valle,habil,0,2.57,puntual
+Restrepo,Molinos,1.079,2,0,2.59,valle,fin_semana,0,2.57,puntual
+Restrepo,NQS Calle 30,6.351,4,0,16.1,pico_manana,fin_semana,1,20.65,retraso_moderado
+Restrepo,NQS Calle 30,6.351,4,0,16.1,noche,habil,0,14.8,puntual
+Restrepo,NQS Calle 30,6.351,4,0,16.1,noche,fin_semana,0,14.72,puntual
+Restrepo,NQS Calle 30,6.351,4,0,16.1,noche,fin_semana,1,16.89,puntual
+Restrepo,NQS Calle 30,6.351,4,0,16.1,pico_manana,habil,0,21.41,retraso_moderado
+Restrepo,NQS Calle 30,6.351,4,0,16.1,noche,fin_semana,0,14.89,puntual
+Restrepo,NQS Calle 30,6.351,4,0,16.1,noche,habil,0,16.68,puntual
+Restrepo,NQS Calle 30,6.351,4,0,16.1,pico_manana,habil,1,26.27,retraso_alto
+Restrepo,Polo,11.788,5,0,29.14,noche,habil,0,28.34,puntual
+Restrepo,Polo,11.788,5,0,29.14,pico_manana,habil,0,42.0,retraso_alto
+Restrepo,Polo,11.788,5,0,29.14,noche,fin_semana,0,22.58,puntual
+Restrepo,Polo,11.788,5,0,29.14,pico_tarde,fin_semana,0,34.46,retraso_moderado
+Restrepo,Polo,11.788,5,0,29.14,pico_manana,fin_semana,0,40.59,retraso_moderado
+Restrepo,Polo,11.788,5,0,29.14,pico_tarde,habil,0,39.22,retraso_moderado
+Restrepo,Polo,11.788,5,0,29.14,noche,habil,1,30.6,puntual
+Restrepo,Polo,11.788,5,0,29.14,pico_manana,habil,0,39.88,retraso_moderado
+Restrepo,Portal 80,15.201,6,0,41.88,pico_tarde,habil,0,66.45,retraso_alto
+Restrepo,Portal 80,15.201,6,0,41.88,pico_manana,fin_semana,1,61.72,retraso_alto
+Restrepo,Portal 80,15.201,6,0,41.88,noche,habil,0,38.0,puntual
+Restrepo,Portal 80,15.201,6,0,41.88,pico_tarde,fin_semana,0,47.92,puntual
+Restrepo,Portal 80,15.201,6,0,41.88,pico_manana,fin_semana,0,55.61,retraso_moderado
+Restrepo,Portal 80,15.201,6,0,41.88,pico_manana,fin_semana,0,45.5,puntual
+Restrepo,Portal 80,15.201,6,0,41.88,noche,fin_semana,1,38.98,puntual
+Restrepo,Portal 80,15.201,6,0,41.88,pico_manana,fin_semana,1,55.61,retraso_moderado
+Restrepo,Portal Americas,7.898,3,0,22.19,pico_tarde,habil,0,33.74,retraso_alto
+Restrepo,Portal Americas,7.898,3,0,22.19,pico_manana,habil,1,36.68,retraso_alto
+Restrepo,Portal Americas,7.898,3,0,22.19,valle,fin_semana,0,17.72,puntual
+Restrepo,Portal Americas,7.898,3,0,22.19,noche,habil,0,22.37,puntual
+Restrepo,Portal Americas,7.898,3,0,22.19,valle,habil,0,23.83,puntual
+Restrepo,Portal Americas,7.898,3,0,22.19,pico_tarde,fin_semana,1,34.61,retraso_alto
+Restrepo,Portal Americas,7.898,3,0,22.19,valle,habil,0,21.61,puntual
+Restrepo,Portal Americas,7.898,3,0,22.19,pico_tarde,habil,1,38.17,retraso_alto
+Restrepo,Portal Norte,20.603,11,1,59.74,valle,habil,0,53.21,puntual
+Restrepo,Portal Norte,20.603,11,1,59.74,pico_manana,fin_semana,0,75.7,retraso_moderado
+Restrepo,Portal Norte,20.603,11,1,59.74,valle,habil,1,80.63,retraso_moderado
+Restrepo,Portal Norte,20.603,11,1,59.74,pico_tarde,habil,1,93.29,retraso_alto
+Restrepo,Portal Norte,20.603,11,1,59.74,noche,fin_semana,1,58.26,puntual
+Restrepo,Portal Norte,20.603,11,1,59.74,pico_tarde,fin_semana,0,67.48,puntual
+Restrepo,Portal Norte,20.603,11,1,59.74,pico_tarde,habil,0,75.93,retraso_moderado
+Restrepo,Portal Norte,20.603,11,1,59.74,pico_manana,fin_semana,0,79.26,retraso_moderado
+Restrepo,Portal Sur,8.255,3,0,20.33,pico_manana,habil,1,31.99,retraso_alto
+Restrepo,Portal Sur,8.255,3,0,20.33,valle,fin_semana,1,23.37,puntual
+Restrepo,Portal Sur,8.255,3,0,20.33,pico_tarde,fin_semana,0,22.51,puntual
+Restrepo,Portal Sur,8.255,3,0,20.33,pico_manana,fin_semana,0,26.86,retraso_moderado
+Restrepo,Portal Sur,8.255,3,0,20.33,pico_manana,fin_semana,0,23.67,retraso_moderado
+Restrepo,Portal Sur,8.255,3,0,20.33,noche,habil,1,21.88,puntual
+Restrepo,Portal Sur,8.255,3,0,20.33,pico_tarde,habil,0,29.04,retraso_alto
+Restrepo,Portal Sur,8.255,3,0,20.33,valle,fin_semana,1,22.35,puntual
+Restrepo,Ricaurte,4.879,3,0,12.5,valle,fin_semana,1,12.96,puntual
+Restrepo,Ricaurte,4.879,3,0,12.5,valle,fin_semana,0,11.84,puntual
+Restrepo,Ricaurte,4.879,3,0,12.5,pico_manana,habil,0,15.3,retraso_moderado
+Restrepo,Ricaurte,4.879,3,0,12.5,pico_tarde,habil,0,15.09,retraso_moderado
+Restrepo,Ricaurte,4.879,3,0,12.5,noche,habil,0,12.39,puntual
+Restrepo,Ricaurte,4.879,3,0,12.5,noche,habil,0,10.57,puntual
+Restrepo,Ricaurte,4.879,3,0,12.5,valle,habil,0,12.85,puntual
+Restrepo,Ricaurte,4.879,3,0,12.5,pico_tarde,fin_semana,1,19.43,retraso_alto
+Restrepo,Tercer Milenio,2.55,2,0,6.12,noche,habil,0,5.86,puntual
+Restrepo,Tercer Milenio,2.55,2,0,6.12,pico_tarde,habil,0,7.66,retraso_moderado
+Restrepo,Tercer Milenio,2.55,2,0,6.12,valle,habil,1,7.36,retraso_moderado
+Restrepo,Tercer Milenio,2.55,2,0,6.12,noche,habil,1,5.64,puntual
+Restrepo,Tercer Milenio,2.55,2,0,6.12,pico_manana,fin_semana,1,8.24,retraso_moderado
+Restrepo,Tercer Milenio,2.55,2,0,6.12,noche,fin_semana,0,5.06,puntual
+Restrepo,Tercer Milenio,2.55,2,0,6.12,noche,habil,0,5.68,puntual
+Restrepo,Tercer Milenio,2.55,2,0,6.12,noche,fin_semana,0,4.73,puntual
+Restrepo,Toberin,19.125,10,1,55.92,pico_tarde,fin_semana,1,93.02,retraso_alto
+Restrepo,Toberin,19.125,10,1,55.92,pico_manana,habil,0,75.28,retraso_moderado
+Restrepo,Toberin,19.125,10,1,55.92,valle,fin_semana,0,49.98,puntual
+Restrepo,Toberin,19.125,10,1,55.92,noche,habil,0,58.1,puntual
+Restrepo,Toberin,19.125,10,1,55.92,pico_tarde,habil,0,82.26,retraso_alto
+Restrepo,Toberin,19.125,10,1,55.92,pico_tarde,habil,1,88.21,retraso_alto
+Restrepo,Toberin,19.125,10,1,55.92,pico_manana,fin_semana,1,77.04,retraso_moderado
+Restrepo,Toberin,19.125,10,1,55.92,noche,fin_semana,0,47.29,puntual
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_tarde,fin_semana,0,22.13,retraso_moderado
+Ricaurte,Av Jimenez,2.859,4,1,16.77,noche,habil,0,17.03,puntual
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_manana,fin_semana,0,20.84,retraso_moderado
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_manana,fin_semana,0,23.34,retraso_moderado
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_manana,habil,0,22.25,retraso_moderado
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_tarde,habil,1,30.55,retraso_alto
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_tarde,fin_semana,0,22.1,retraso_moderado
+Ricaurte,Av Jimenez,2.859,4,1,16.77,pico_tarde,habil,1,24.48,retraso_alto
+Ricaurte,Banderas,4.722,5,1,33.31,valle,fin_semana,0,31.73,puntual
+Ricaurte,Banderas,4.722,5,1,33.31,pico_tarde,fin_semana,0,41.22,retraso_moderado
+Ricaurte,Banderas,4.722,5,1,33.31,pico_manana,fin_semana,1,42.27,retraso_moderado
+Ricaurte,Banderas,4.722,5,1,33.31,valle,fin_semana,0,31.14,puntual
+Ricaurte,Banderas,4.722,5,1,33.31,valle,habil,0,35.35,puntual
+Ricaurte,Banderas,4.722,5,1,33.31,noche,fin_semana,0,33.07,puntual
+Ricaurte,Banderas,4.722,5,1,33.31,pico_manana,fin_semana,0,35.18,puntual
+Ricaurte,Banderas,4.722,5,1,33.31,noche,habil,0,35.97,puntual
+Ricaurte,Calle 100,9.109,7,2,38.44,noche,habil,0,44.37,retraso_moderado
+Ricaurte,Calle 100,9.109,7,2,38.44,pico_tarde,habil,0,66.58,retraso_alto
+Ricaurte,Calle 100,9.109,7,2,38.44,pico_tarde,fin_semana,0,47.61,retraso_moderado
+Ricaurte,Calle 100,9.109,7,2,38.44,noche,fin_semana,0,38.29,puntual
+Ricaurte,Calle 100,9.109,7,2,38.44,pico_manana,habil,0,63.5,retraso_alto
+Ricaurte,Calle 100,9.109,7,2,38.44,pico_tarde,fin_semana,0,61.94,retraso_alto
+Ricaurte,Calle 100,9.109,7,2,38.44,valle,fin_semana,0,36.14,puntual
+Ricaurte,Calle 100,9.109,7,2,38.44,pico_manana,fin_semana,1,58.43,retraso_alto
+Ricaurte,Calle 146,13.384,8,2,49.2,noche,fin_semana,0,48.9,puntual
+Ricaurte,Calle 146,13.384,8,2,49.2,valle,habil,1,68.81,retraso_moderado
+Ricaurte,Calle 146,13.384,8,2,49.2,noche,habil,0,54.26,puntual
+Ricaurte,Calle 146,13.384,8,2,49.2,noche,fin_semana,0,54.0,puntual
+Ricaurte,Calle 146,13.384,8,2,49.2,valle,fin_semana,1,51.14,puntual
+Ricaurte,Calle 146,13.384,8,2,49.2,pico_tarde,habil,0,74.75,retraso_alto
+Ricaurte,Calle 146,13.384,8,2,49.2,pico_tarde,fin_semana,0,69.65,retraso_alto
+Ricaurte,Calle 146,13.384,8,2,49.2,noche,fin_semana,1,54.93,puntual
+Ricaurte,Calle 72,5.028,6,2,35.86,pico_manana,fin_semana,0,49.7,retraso_moderado
+Ricaurte,Calle 72,5.028,6,2,35.86,noche,fin_semana,0,35.06,puntual
+Ricaurte,Calle 72,5.028,6,2,35.86,pico_tarde,habil,1,62.33,retraso_alto
+Ricaurte,Calle 72,5.028,6,2,35.86,valle,habil,0,36.02,puntual
+Ricaurte,Calle 72,5.028,6,2,35.86,noche,habil,0,35.68,puntual
+Ricaurte,Calle 72,5.028,6,2,35.86,pico_tarde,fin_semana,0,47.86,retraso_moderado
+Ricaurte,Calle 72,5.028,6,2,35.86,noche,habil,1,47.27,retraso_moderado
+Ricaurte,Calle 72,5.028,6,2,35.86,noche,fin_semana,1,41.2,puntual
+Ricaurte,Calle 85,6.872,5,1,27.93,pico_tarde,fin_semana,1,45.44,retraso_alto
+Ricaurte,Calle 85,6.872,5,1,27.93,noche,habil,0,23.97,puntual
+Ricaurte,Calle 85,6.872,5,1,27.93,noche,fin_semana,0,26.16,puntual
+Ricaurte,Calle 85,6.872,5,1,27.93,pico_manana,fin_semana,1,39.87,retraso_alto
+Ricaurte,Calle 85,6.872,5,1,27.93,pico_manana,habil,0,38.93,retraso_moderado
+Ricaurte,Calle 85,6.872,5,1,27.93,pico_tarde,habil,1,52.47,retraso_alto
+Ricaurte,Calle 85,6.872,5,1,27.93,valle,fin_semana,0,29.07,puntual
+Ricaurte,Calle 85,6.872,5,1,27.93,pico_tarde,habil,0,40.86,retraso_alto
+Ricaurte,Heroes,5.109,7,2,37.4,pico_tarde,fin_semana,0,53.28,retraso_alto
+Ricaurte,Heroes,5.109,7,2,37.4,pico_manana,fin_semana,0,52.33,retraso_moderado
+Ricaurte,Heroes,5.109,7,2,37.4,pico_manana,fin_semana,0,47.75,retraso_moderado
+Ricaurte,Heroes,5.109,7,2,37.4,valle,fin_semana,0,39.52,puntual
+Ricaurte,Heroes,5.109,7,2,37.4,pico_manana,fin_semana,0,49.44,retraso_moderado
+Ricaurte,Heroes,5.109,7,2,37.4,noche,fin_semana,0,33.7,puntual
+Ricaurte,Heroes,5.109,7,2,37.4,pico_manana,habil,1,59.42,retraso_alto
+Ricaurte,Heroes,5.109,7,2,37.4,noche,habil,0,34.96,puntual
+Ricaurte,Molinos,5.78,4,0,15.09,pico_tarde,habil,0,22.35,retraso_alto
+Ricaurte,Molinos,5.78,4,0,15.09,valle,fin_semana,0,12.32,puntual
+Ricaurte,Molinos,5.78,4,0,15.09,noche,habil,0,14.25,puntual
+Ricaurte,Molinos,5.78,4,0,15.09,pico_tarde,habil,0,20.9,retraso_moderado
+Ricaurte,Molinos,5.78,4,0,15.09,pico_tarde,habil,0,20.34,retraso_moderado
+Ricaurte,Molinos,5.78,4,0,15.09,valle,fin_semana,1,13.04,puntual
+Ricaurte,Molinos,5.78,4,0,15.09,pico_manana,habil,0,19.73,retraso_moderado
+Ricaurte,Molinos,5.78,4,0,15.09,pico_manana,habil,0,18.73,retraso_moderado
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,valle,habil,0,3.76,puntual
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,pico_manana,fin_semana,0,4.24,retraso_moderado
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,pico_manana,fin_semana,0,4.31,retraso_moderado
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,pico_manana,habil,1,5.44,retraso_alto
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,valle,habil,0,3.07,puntual
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,pico_tarde,habil,1,5.72,retraso_alto
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,valle,fin_semana,0,3.37,puntual
+Ricaurte,NQS Calle 30,1.498,2,0,3.6,pico_tarde,fin_semana,0,4.7,retraso_moderado
+Ricaurte,Polo,6.92,3,0,16.64,pico_manana,fin_semana,1,22.51,retraso_moderado
+Ricaurte,Polo,6.92,3,0,16.64,noche,habil,0,16.96,puntual
+Ricaurte,Polo,6.92,3,0,16.64,pico_tarde,fin_semana,0,22.05,retraso_moderado
+Ricaurte,Polo,6.92,3,0,16.64,pico_tarde,fin_semana,0,21.45,retraso_moderado
+Ricaurte,Polo,6.92,3,0,16.64,valle,fin_semana,0,12.24,puntual
+Ricaurte,Polo,6.92,3,0,16.64,noche,habil,0,13.71,puntual
+Ricaurte,Polo,6.92,3,0,16.64,valle,fin_semana,1,15.99,puntual
+Ricaurte,Polo,6.92,3,0,16.64,noche,fin_semana,1,16.5,puntual
+Ricaurte,Portal 80,10.763,4,0,29.38,valle,habil,0,33.31,puntual
+Ricaurte,Portal 80,10.763,4,0,29.38,pico_manana,fin_semana,0,36.34,retraso_moderado
+Ricaurte,Portal 80,10.763,4,0,29.38,noche,habil,1,33.33,puntual
+Ricaurte,Portal 80,10.763,4,0,29.38,noche,fin_semana,0,25.64,puntual
+Ricaurte,Portal 80,10.763,4,0,29.38,valle,fin_semana,0,25.46,puntual
+Ricaurte,Portal 80,10.763,4,0,29.38,noche,fin_semana,0,23.97,puntual
+Ricaurte,Portal 80,10.763,4,0,29.38,pico_tarde,fin_semana,1,42.8,retraso_alto
+Ricaurte,Portal 80,10.763,4,0,29.38,noche,fin_semana,0,24.56,puntual
+Ricaurte,Portal Americas,7.254,6,1,39.69,valle,fin_semana,0,37.69,puntual
+Ricaurte,Portal Americas,7.254,6,1,39.69,valle,habil,1,52.7,retraso_moderado
+Ricaurte,Portal Americas,7.254,6,1,39.69,noche,fin_semana,0,35.34,puntual
+Ricaurte,Portal Americas,7.254,6,1,39.69,noche,habil,0,39.72,puntual
+Ricaurte,Portal Americas,7.254,6,1,39.69,pico_manana,habil,0,58.23,retraso_alto
+Ricaurte,Portal Americas,7.254,6,1,39.69,valle,habil,1,49.61,retraso_moderado
+Ricaurte,Portal Americas,7.254,6,1,39.69,pico_manana,fin_semana,1,55.51,retraso_moderado
+Ricaurte,Portal Americas,7.254,6,1,39.69,valle,habil,0,42.09,puntual
+Ricaurte,Portal Norte,15.724,10,2,55.68,valle,habil,0,60.07,puntual
+Ricaurte,Portal Norte,15.724,10,2,55.68,valle,fin_semana,0,59.81,puntual
+Ricaurte,Portal Norte,15.724,10,2,55.68,pico_manana,fin_semana,0,69.58,retraso_moderado
+Ricaurte,Portal Norte,15.724,10,2,55.68,noche,fin_semana,0,55.65,puntual
+Ricaurte,Portal Norte,15.724,10,2,55.68,noche,habil,0,56.44,puntual
+Ricaurte,Portal Norte,15.724,10,2,55.68,pico_tarde,habil,1,100.05,retraso_alto
+Ricaurte,Portal Norte,15.724,10,2,55.68,valle,fin_semana,0,50.4,puntual
+Ricaurte,Portal Norte,15.724,10,2,55.68,noche,fin_semana,0,53.41,puntual
+Ricaurte,Portal Sur,13.132,5,0,32.83,pico_tarde,habil,1,50.45,retraso_alto
+Ricaurte,Portal Sur,13.132,5,0,32.83,valle,habil,0,33.12,puntual
+Ricaurte,Portal Sur,13.132,5,0,32.83,pico_tarde,fin_semana,0,48.38,retraso_alto
+Ricaurte,Portal Sur,13.132,5,0,32.83,pico_tarde,fin_semana,0,37.83,retraso_moderado
+Ricaurte,Portal Sur,13.132,5,0,32.83,pico_tarde,habil,0,54.58,retraso_alto
+Ricaurte,Portal Sur,13.132,5,0,32.83,pico_manana,fin_semana,1,38.28,retraso_moderado
+Ricaurte,Portal Sur,13.132,5,0,32.83,valle,habil,0,37.18,puntual
+Ricaurte,Portal Sur,13.132,5,0,32.83,pico_tarde,fin_semana,1,45.83,retraso_moderado
+Ricaurte,Restrepo,4.879,3,0,12.5,pico_tarde,habil,1,18.86,retraso_alto
+Ricaurte,Restrepo,4.879,3,0,12.5,valle,habil,0,13.19,puntual
+Ricaurte,Restrepo,4.879,3,0,12.5,pico_manana,fin_semana,1,17.38,retraso_moderado
+Ricaurte,Restrepo,4.879,3,0,12.5,valle,fin_semana,1,12.7,puntual
+Ricaurte,Restrepo,4.879,3,0,12.5,noche,habil,0,11.9,puntual
+Ricaurte,Restrepo,4.879,3,0,12.5,valle,habil,0,13.81,puntual
+Ricaurte,Restrepo,4.879,3,0,12.5,pico_manana,fin_semana,0,14.29,puntual
+Ricaurte,Restrepo,4.879,3,0,12.5,pico_manana,habil,0,13.36,puntual
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,valle,fin_semana,0,5.55,puntual
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,noche,fin_semana,1,5.72,puntual
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,noche,habil,0,5.51,puntual
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,pico_tarde,habil,0,8.0,retraso_moderado
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,valle,fin_semana,1,6.05,puntual
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,noche,habil,0,7.4,retraso_moderado
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,pico_manana,fin_semana,1,8.41,retraso_moderado
+Ricaurte,Tercer Milenio,2.659,2,0,6.38,noche,habil,0,6.26,puntual
+Ricaurte,Toberin,14.252,9,2,51.86,pico_tarde,habil,1,97.48,retraso_alto
+Ricaurte,Toberin,14.252,9,2,51.86,pico_manana,fin_semana,1,85.21,retraso_alto
+Ricaurte,Toberin,14.252,9,2,51.86,valle,habil,0,59.75,retraso_moderado
+Ricaurte,Toberin,14.252,9,2,51.86,valle,fin_semana,0,52.29,puntual
+Ricaurte,Toberin,14.252,9,2,51.86,noche,habil,1,64.41,retraso_moderado
+Ricaurte,Toberin,14.252,9,2,51.86,noche,habil,0,57.31,puntual
+Ricaurte,Toberin,14.252,9,2,51.86,pico_manana,fin_semana,0,63.88,retraso_moderado
+Ricaurte,Toberin,14.252,9,2,51.86,pico_manana,habil,0,73.41,retraso_alto
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_tarde,habil,1,6.89,retraso_moderado
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_manana,habil,1,7.39,retraso_moderado
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_manana,fin_semana,1,6.0,puntual
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_tarde,fin_semana,0,6.62,retraso_moderado
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_tarde,fin_semana,0,6.01,puntual
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_tarde,habil,0,8.47,retraso_alto
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,noche,fin_semana,1,5.67,puntual
+Tercer Milenio,Av Jimenez,2.247,2,0,5.39,pico_tarde,habil,0,7.75,retraso_alto
+Tercer Milenio,Banderas,6.046,3,0,21.92,noche,fin_semana,1,23.56,puntual
+Tercer Milenio,Banderas,6.046,3,0,21.92,pico_manana,habil,1,28.71,retraso_moderado
+Tercer Milenio,Banderas,6.046,3,0,21.92,pico_tarde,habil,0,27.12,retraso_moderado
+Tercer Milenio,Banderas,6.046,3,0,21.92,noche,fin_semana,1,22.34,puntual
+Tercer Milenio,Banderas,6.046,3,0,21.92,valle,habil,1,28.77,retraso_moderado
+Tercer Milenio,Banderas,6.046,3,0,21.92,pico_manana,fin_semana,0,25.61,retraso_moderado
+Tercer Milenio,Banderas,6.046,3,0,21.92,pico_tarde,fin_semana,0,25.87,retraso_moderado
+Tercer Milenio,Banderas,6.046,3,0,21.92,pico_manana,fin_semana,0,25.3,retraso_moderado
+Tercer Milenio,Calle 100,11.427,7,1,36.39,noche,habil,1,38.32,puntual
+Tercer Milenio,Calle 100,11.427,7,1,36.39,valle,habil,0,40.97,puntual
+Tercer Milenio,Calle 100,11.427,7,1,36.39,noche,habil,0,41.1,puntual
+Tercer Milenio,Calle 100,11.427,7,1,36.39,noche,habil,0,27.85,puntual
+Tercer Milenio,Calle 100,11.427,7,1,36.39,pico_manana,fin_semana,1,50.3,retraso_moderado
+Tercer Milenio,Calle 100,11.427,7,1,36.39,valle,habil,0,37.63,puntual
+Tercer Milenio,Calle 100,11.427,7,1,36.39,noche,habil,0,38.62,puntual
+Tercer Milenio,Calle 100,11.427,7,1,36.39,noche,fin_semana,0,31.66,puntual
+Tercer Milenio,Calle 146,15.813,8,1,47.14,pico_tarde,fin_semana,1,73.94,retraso_alto
+Tercer Milenio,Calle 146,15.813,8,1,47.14,noche,habil,1,55.71,retraso_moderado
+Tercer Milenio,Calle 146,15.813,8,1,47.14,pico_tarde,habil,1,80.58,retraso_alto
+Tercer Milenio,Calle 146,15.813,8,1,47.14,pico_tarde,fin_semana,1,63.99,retraso_moderado
+Tercer Milenio,Calle 146,15.813,8,1,47.14,noche,fin_semana,0,42.6,puntual
+Tercer Milenio,Calle 146,15.813,8,1,47.14,pico_manana,habil,0,69.44,retraso_alto
+Tercer Milenio,Calle 146,15.813,8,1,47.14,pico_tarde,habil,1,87.47,retraso_alto
+Tercer Milenio,Calle 146,15.813,8,1,47.14,valle,fin_semana,0,42.89,puntual
+Tercer Milenio,Calle 72,7.265,4,1,24.47,pico_manana,fin_semana,0,29.85,retraso_moderado
+Tercer Milenio,Calle 72,7.265,4,1,24.47,noche,fin_semana,0,21.36,puntual
+Tercer Milenio,Calle 72,7.265,4,1,24.47,pico_tarde,habil,1,39.09,retraso_alto
+Tercer Milenio,Calle 72,7.265,4,1,24.47,pico_manana,fin_semana,0,28.36,retraso_moderado
+Tercer Milenio,Calle 72,7.265,4,1,24.47,noche,fin_semana,0,22.57,puntual
+Tercer Milenio,Calle 72,7.265,4,1,24.47,valle,fin_semana,1,24.96,puntual
+Tercer Milenio,Calle 72,7.265,4,1,24.47,noche,habil,1,27.3,puntual
+Tercer Milenio,Calle 72,7.265,4,1,24.47,pico_manana,fin_semana,0,35.27,retraso_alto
+Tercer Milenio,Calle 85,9.138,6,1,30.88,pico_manana,fin_semana,1,40.72,retraso_moderado
+Tercer Milenio,Calle 85,9.138,6,1,30.88,valle,fin_semana,0,27.7,puntual
+Tercer Milenio,Calle 85,9.138,6,1,30.88,noche,habil,0,33.04,puntual
+Tercer Milenio,Calle 85,9.138,6,1,30.88,valle,habil,0,35.79,retraso_moderado
+Tercer Milenio,Calle 85,9.138,6,1,30.88,noche,fin_semana,0,30.96,puntual
+Tercer Milenio,Calle 85,9.138,6,1,30.88,valle,habil,1,36.85,retraso_moderado
+Tercer Milenio,Calle 85,9.138,6,1,30.88,noche,fin_semana,0,24.76,puntual
+Tercer Milenio,Calle 85,9.138,6,1,30.88,noche,fin_semana,0,21.65,puntual
+Tercer Milenio,Heroes,7.512,5,1,26.4,pico_tarde,fin_semana,1,44.6,retraso_alto
+Tercer Milenio,Heroes,7.512,5,1,26.4,noche,habil,0,24.82,puntual
+Tercer Milenio,Heroes,7.512,5,1,26.4,pico_tarde,habil,1,42.9,retraso_alto
+Tercer Milenio,Heroes,7.512,5,1,26.4,valle,fin_semana,1,31.85,retraso_moderado
+Tercer Milenio,Heroes,7.512,5,1,26.4,noche,fin_semana,0,24.56,puntual
+Tercer Milenio,Heroes,7.512,5,1,26.4,valle,habil,0,31.6,retraso_moderado
+Tercer Milenio,Heroes,7.512,5,1,26.4,pico_manana,habil,0,40.44,retraso_alto
+Tercer Milenio,Heroes,7.512,5,1,26.4,valle,habil,0,27.01,puntual
+Tercer Milenio,Molinos,3.257,3,0,8.71,pico_tarde,fin_semana,0,11.39,retraso_moderado
+Tercer Milenio,Molinos,3.257,3,0,8.71,pico_tarde,fin_semana,0,10.82,retraso_moderado
+Tercer Milenio,Molinos,3.257,3,0,8.71,noche,habil,0,8.76,puntual
+Tercer Milenio,Molinos,3.257,3,0,8.71,pico_tarde,habil,1,14.79,retraso_alto
+Tercer Milenio,Molinos,3.257,3,0,8.71,noche,habil,0,8.91,puntual
+Tercer Milenio,Molinos,3.257,3,0,8.71,pico_tarde,fin_semana,0,10.02,retraso_moderado
+Tercer Milenio,Molinos,3.257,3,0,8.71,pico_manana,habil,0,12.7,retraso_alto
+Tercer Milenio,Molinos,3.257,3,0,8.71,valle,habil,1,10.48,retraso_moderado
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,noche,fin_semana,1,9.77,puntual
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,valle,fin_semana,0,7.7,puntual
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,noche,fin_semana,1,10.3,puntual
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,valle,fin_semana,1,10.85,puntual
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,pico_manana,fin_semana,1,14.74,retraso_alto
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,noche,habil,1,9.51,puntual
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,pico_manana,habil,1,16.12,retraso_alto
+Tercer Milenio,NQS Calle 30,4.148,3,0,9.98,valle,habil,1,11.13,puntual
+Tercer Milenio,Polo,9.513,4,0,23.03,noche,fin_semana,0,21.69,puntual
+Tercer Milenio,Polo,9.513,4,0,23.03,valle,habil,1,27.15,retraso_moderado
+Tercer Milenio,Polo,9.513,4,0,23.03,pico_tarde,habil,0,35.27,retraso_alto
+Tercer Milenio,Polo,9.513,4,0,23.03,pico_tarde,habil,0,31.85,retraso_moderado
+Tercer Milenio,Polo,9.513,4,0,23.03,pico_manana,habil,0,36.84,retraso_alto
+Tercer Milenio,Polo,9.513,4,0,23.03,pico_tarde,fin_semana,0,30.61,retraso_moderado
+Tercer Milenio,Polo,9.513,4,0,23.03,noche,fin_semana,1,27.84,retraso_moderado
+Tercer Milenio,Polo,9.513,4,0,23.03,valle,habil,1,22.66,puntual
+Tercer Milenio,Portal 80,13.393,5,0,35.76,pico_manana,habil,0,49.52,retraso_moderado
+Tercer Milenio,Portal 80,13.393,5,0,35.76,valle,habil,1,43.7,retraso_moderado
+Tercer Milenio,Portal 80,13.393,5,0,35.76,valle,fin_semana,0,34.67,puntual
+Tercer Milenio,Portal 80,13.393,5,0,35.76,pico_manana,fin_semana,0,46.96,retraso_moderado
+Tercer Milenio,Portal 80,13.393,5,0,35.76,noche,habil,0,27.68,puntual
+Tercer Milenio,Portal 80,13.393,5,0,35.76,noche,habil,1,41.12,puntual
+Tercer Milenio,Portal 80,13.393,5,0,35.76,valle,habil,1,39.95,puntual
+Tercer Milenio,Portal 80,13.393,5,0,35.76,valle,fin_semana,1,27.36,puntual
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,valle,fin_semana,0,24.03,puntual
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,noche,habil,1,34.92,retraso_moderado
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,valle,habil,0,29.09,puntual
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,noche,habil,0,27.63,puntual
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,pico_manana,fin_semana,0,34.67,retraso_moderado
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,valle,fin_semana,0,24.35,puntual
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,pico_manana,fin_semana,0,33.46,retraso_moderado
+Tercer Milenio,Portal Americas,8.09,4,0,28.31,pico_manana,habil,1,45.1,retraso_alto
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,pico_tarde,fin_semana,0,62.28,retraso_moderado
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,pico_tarde,fin_semana,1,79.75,retraso_alto
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,pico_manana,habil,0,71.8,retraso_moderado
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,valle,fin_semana,1,65.36,retraso_moderado
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,noche,fin_semana,1,55.79,puntual
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,valle,habil,0,56.75,puntual
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,noche,fin_semana,0,52.93,puntual
+Tercer Milenio,Portal Norte,18.231,10,1,53.62,pico_tarde,habil,1,85.57,retraso_alto
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,noche,fin_semana,0,21.04,puntual
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,noche,fin_semana,0,23.24,puntual
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,noche,habil,0,24.56,puntual
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,pico_tarde,fin_semana,0,32.47,retraso_moderado
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,pico_manana,habil,0,34.84,retraso_moderado
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,valle,habil,0,21.39,puntual
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,pico_tarde,fin_semana,0,36.04,retraso_moderado
+Tercer Milenio,Portal Sur,10.646,4,0,26.45,valle,fin_semana,0,23.33,puntual
+Tercer Milenio,Restrepo,2.55,2,0,6.12,pico_manana,fin_semana,0,6.46,puntual
+Tercer Milenio,Restrepo,2.55,2,0,6.12,pico_manana,fin_semana,1,7.55,retraso_moderado
+Tercer Milenio,Restrepo,2.55,2,0,6.12,pico_tarde,habil,1,8.91,retraso_alto
+Tercer Milenio,Restrepo,2.55,2,0,6.12,pico_manana,fin_semana,0,6.3,puntual
+Tercer Milenio,Restrepo,2.55,2,0,6.12,valle,habil,0,5.94,puntual
+Tercer Milenio,Restrepo,2.55,2,0,6.12,pico_tarde,habil,0,8.84,retraso_alto
+Tercer Milenio,Restrepo,2.55,2,0,6.12,noche,fin_semana,0,5.09,puntual
+Tercer Milenio,Restrepo,2.55,2,0,6.12,valle,habil,0,6.29,puntual
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,pico_tarde,fin_semana,0,8.04,retraso_moderado
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,noche,habil,0,6.09,puntual
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,pico_manana,fin_semana,1,9.06,retraso_alto
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,pico_manana,fin_semana,0,7.58,retraso_moderado
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,pico_tarde,fin_semana,0,9.39,retraso_alto
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,valle,fin_semana,0,5.77,puntual
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,pico_manana,habil,0,8.33,retraso_moderado
+Tercer Milenio,Ricaurte,2.659,2,0,6.38,valle,fin_semana,0,5.75,puntual
+Tercer Milenio,Toberin,16.726,9,1,49.8,noche,habil,0,50.05,puntual
+Tercer Milenio,Toberin,16.726,9,1,49.8,noche,fin_semana,0,42.02,puntual
+Tercer Milenio,Toberin,16.726,9,1,49.8,pico_tarde,fin_semana,0,70.98,retraso_alto
+Tercer Milenio,Toberin,16.726,9,1,49.8,pico_tarde,habil,0,68.66,retraso_moderado
+Tercer Milenio,Toberin,16.726,9,1,49.8,noche,habil,0,47.11,puntual
+Tercer Milenio,Toberin,16.726,9,1,49.8,pico_tarde,habil,0,78.18,retraso_alto
+Tercer Milenio,Toberin,16.726,9,1,49.8,valle,fin_semana,0,49.69,puntual
+Tercer Milenio,Toberin,16.726,9,1,49.8,pico_tarde,habil,0,77.77,retraso_alto
+Toberin,Av Jimenez,15.411,7,0,39.41,valle,fin_semana,1,42.42,puntual
+Toberin,Av Jimenez,15.411,7,0,39.41,noche,fin_semana,1,38.59,puntual
+Toberin,Av Jimenez,15.411,7,0,39.41,valle,fin_semana,0,29.04,puntual
+Toberin,Av Jimenez,15.411,7,0,39.41,noche,habil,0,37.36,puntual
+Toberin,Av Jimenez,15.411,7,0,39.41,pico_manana,habil,0,56.01,retraso_alto
+Toberin,Av Jimenez,15.411,7,0,39.41,valle,habil,1,48.86,retraso_moderado
+Toberin,Av Jimenez,15.411,7,0,39.41,pico_tarde,fin_semana,1,56.72,retraso_alto
+Toberin,Av Jimenez,15.411,7,0,39.41,pico_tarde,fin_semana,0,45.43,retraso_moderado
+Toberin,Banderas,15.527,11,1,71.73,pico_manana,fin_semana,0,82.76,retraso_moderado
+Toberin,Banderas,15.527,11,1,71.73,valle,habil,0,68.75,puntual
+Toberin,Banderas,15.527,11,1,71.73,pico_manana,fin_semana,1,105.49,retraso_alto
+Toberin,Banderas,15.527,11,1,71.73,valle,fin_semana,1,89.51,retraso_moderado
+Toberin,Banderas,15.527,11,1,71.73,pico_manana,habil,0,112.54,retraso_alto
+Toberin,Banderas,15.527,11,1,71.73,valle,habil,0,74.94,puntual
+Toberin,Banderas,15.527,11,1,71.73,valle,fin_semana,0,67.25,puntual
+Toberin,Banderas,15.527,11,1,71.73,valle,fin_semana,0,71.29,puntual
+Toberin,Calle 100,5.503,3,0,13.42,valle,habil,0,12.46,puntual
+Toberin,Calle 100,5.503,3,0,13.42,valle,habil,0,14.31,puntual
+Toberin,Calle 100,5.503,3,0,13.42,noche,fin_semana,0,10.16,puntual
+Toberin,Calle 100,5.503,3,0,13.42,pico_tarde,habil,0,18.65,retraso_moderado
+Toberin,Calle 100,5.503,3,0,13.42,pico_tarde,fin_semana,0,16.66,retraso_moderado
+Toberin,Calle 100,5.503,3,0,13.42,pico_manana,habil,0,17.05,retraso_moderado
+Toberin,Calle 100,5.503,3,0,13.42,pico_manana,habil,1,20.79,retraso_alto
+Toberin,Calle 100,5.503,3,0,13.42,noche,fin_semana,1,12.46,puntual
+Toberin,Calle 146,1.109,2,0,2.66,pico_manana,fin_semana,0,3.23,retraso_moderado
+Toberin,Calle 146,1.109,2,0,2.66,pico_tarde,fin_semana,0,3.66,retraso_moderado
+Toberin,Calle 146,1.109,2,0,2.66,pico_manana,habil,1,3.51,retraso_moderado
+Toberin,Calle 146,1.109,2,0,2.66,pico_tarde,fin_semana,1,3.66,retraso_moderado
+Toberin,Calle 146,1.109,2,0,2.66,pico_tarde,fin_semana,0,3.24,retraso_moderado
+Toberin,Calle 146,1.109,2,0,2.66,noche,habil,0,2.42,puntual
+Toberin,Calle 146,1.109,2,0,2.66,valle,habil,0,2.26,puntual
+Toberin,Calle 146,1.109,2,0,2.66,valle,habil,1,2.78,puntual
+Toberin,Calle 72,9.551,6,0,25.33,noche,habil,0,26.56,puntual
+Toberin,Calle 72,9.551,6,0,25.33,pico_tarde,fin_semana,0,30.65,retraso_moderado
+Toberin,Calle 72,9.551,6,0,25.33,valle,habil,0,26.25,puntual
+Toberin,Calle 72,9.551,6,0,25.33,pico_tarde,fin_semana,0,34.93,retraso_moderado
+Toberin,Calle 72,9.551,6,0,25.33,noche,habil,0,25.89,puntual
+Toberin,Calle 72,9.551,6,0,25.33,pico_manana,habil,1,40.68,retraso_alto
+Toberin,Calle 72,9.551,6,0,25.33,pico_tarde,habil,0,38.98,retraso_alto
+Toberin,Calle 72,9.551,6,0,25.33,valle,fin_semana,0,23.46,puntual
+Toberin,Calle 85,7.743,4,0,18.93,pico_manana,habil,0,25.56,retraso_moderado
+Toberin,Calle 85,7.743,4,0,18.93,noche,fin_semana,1,17.15,puntual
+Toberin,Calle 85,7.743,4,0,18.93,pico_tarde,habil,0,29.26,retraso_alto
+Toberin,Calle 85,7.743,4,0,18.93,pico_manana,fin_semana,1,26.51,retraso_alto
+Toberin,Calle 85,7.743,4,0,18.93,pico_tarde,fin_semana,0,23.42,retraso_moderado
+Toberin,Calle 85,7.743,4,0,18.93,pico_manana,habil,0,27.1,retraso_alto
+Toberin,Calle 85,7.743,4,0,18.93,pico_manana,habil,0,26.68,retraso_alto
+Toberin,Calle 85,7.743,4,0,18.93,pico_tarde,habil,0,26.79,retraso_alto
+Toberin,Heroes,9.216,5,0,23.4,pico_manana,habil,0,31.46,retraso_moderado
+Toberin,Heroes,9.216,5,0,23.4,pico_tarde,fin_semana,0,29.46,retraso_moderado
+Toberin,Heroes,9.216,5,0,23.4,pico_manana,fin_semana,1,36.43,retraso_alto
+Toberin,Heroes,9.216,5,0,23.4,pico_tarde,fin_semana,0,33.24,retraso_alto
+Toberin,Heroes,9.216,5,0,23.4,pico_manana,fin_semana,0,28.21,retraso_moderado
+Toberin,Heroes,9.216,5,0,23.4,pico_tarde,habil,1,35.25,retraso_alto
+Toberin,Heroes,9.216,5,0,23.4,pico_manana,fin_semana,1,32.53,retraso_moderado
+Toberin,Heroes,9.216,5,0,23.4,valle,fin_semana,0,23.42,puntual
+Toberin,Molinos,19.973,12,2,63.51,pico_tarde,fin_semana,0,76.89,retraso_moderado
+Toberin,Molinos,19.973,12,2,63.51,noche,habil,0,61.64,puntual
+Toberin,Molinos,19.973,12,2,63.51,valle,fin_semana,0,66.3,puntual
+Toberin,Molinos,19.973,12,2,63.51,noche,habil,0,71.24,puntual
+Toberin,Molinos,19.973,12,2,63.51,valle,habil,0,57.73,puntual
+Toberin,Molinos,19.973,12,2,63.51,valle,fin_semana,0,57.77,puntual
+Toberin,Molinos,19.973,12,2,63.51,pico_tarde,habil,0,102.72,retraso_alto
+Toberin,Molinos,19.973,12,2,63.51,valle,habil,0,62.1,puntual
+Toberin,NQS Calle 30,12.814,8,2,48.26,pico_manana,fin_semana,0,57.37,retraso_moderado
+Toberin,NQS Calle 30,12.814,8,2,48.26,noche,habil,1,59.86,retraso_moderado
+Toberin,NQS Calle 30,12.814,8,2,48.26,valle,habil,1,64.95,retraso_moderado
+Toberin,NQS Calle 30,12.814,8,2,48.26,pico_manana,habil,1,86.23,retraso_alto
+Toberin,NQS Calle 30,12.814,8,2,48.26,pico_manana,habil,0,72.24,retraso_alto
+Toberin,NQS Calle 30,12.814,8,2,48.26,pico_manana,habil,0,67.18,retraso_moderado
+Toberin,NQS Calle 30,12.814,8,2,48.26,pico_tarde,habil,0,80.76,retraso_alto
+Toberin,NQS Calle 30,12.814,8,2,48.26,noche,habil,0,55.66,retraso_moderado
+Toberin,Polo,7.471,6,1,30.22,pico_tarde,fin_semana,0,40.13,retraso_moderado
+Toberin,Polo,7.471,6,1,30.22,pico_tarde,habil,0,48.86,retraso_alto
+Toberin,Polo,7.471,6,1,30.22,pico_manana,habil,1,47.89,retraso_alto
+Toberin,Polo,7.471,6,1,30.22,noche,habil,0,32.9,puntual
+Toberin,Polo,7.471,6,1,30.22,valle,habil,0,30.44,puntual
+Toberin,Polo,7.471,6,1,30.22,pico_tarde,habil,1,52.1,retraso_alto
+Toberin,Polo,7.471,6,1,30.22,noche,habil,0,30.7,puntual
+Toberin,Polo,7.471,6,1,30.22,pico_manana,fin_semana,0,39.85,retraso_moderado
+Toberin,Portal 80,7.811,8,2,47.95,pico_manana,fin_semana,0,56.63,retraso_moderado
+Toberin,Portal 80,7.811,8,2,47.95,pico_manana,habil,1,93.34,retraso_alto
+Toberin,Portal 80,7.811,8,2,47.95,valle,habil,0,47.14,puntual
+Toberin,Portal 80,7.811,8,2,47.95,noche,habil,1,56.44,retraso_moderado
+Toberin,Portal 80,7.811,8,2,47.95,pico_tarde,fin_semana,0,69.46,retraso_alto
+Toberin,Portal 80,7.811,8,2,47.95,noche,fin_semana,0,43.08,puntual
+Toberin,Portal 80,7.811,8,2,47.95,pico_manana,habil,0,71.77,retraso_alto
+Toberin,Portal 80,7.811,8,2,47.95,valle,fin_semana,0,45.37,puntual
+Toberin,Portal Americas,17.559,12,1,78.12,noche,habil,0,63.98,puntual
+Toberin,Portal Americas,17.559,12,1,78.12,pico_tarde,habil,0,103.9,retraso_moderado
+Toberin,Portal Americas,17.559,12,1,78.12,pico_tarde,habil,0,115.77,retraso_alto
+Toberin,Portal Americas,17.559,12,1,78.12,noche,fin_semana,0,64.93,puntual
+Toberin,Portal Americas,17.559,12,1,78.12,noche,fin_semana,0,72.76,puntual
+Toberin,Portal Americas,17.559,12,1,78.12,valle,fin_semana,0,65.67,puntual
+Toberin,Portal Americas,17.559,12,1,78.12,noche,fin_semana,1,76.1,puntual
+Toberin,Portal Americas,17.559,12,1,78.12,pico_manana,fin_semana,1,113.11,retraso_alto
+Toberin,Portal Norte,1.591,2,0,3.82,valle,habil,0,3.69,puntual
+Toberin,Portal Norte,1.591,2,0,3.82,pico_manana,fin_semana,1,5.56,retraso_alto
+Toberin,Portal Norte,1.591,2,0,3.82,noche,habil,0,3.88,puntual
+Toberin,Portal Norte,1.591,2,0,3.82,valle,fin_semana,0,3.53,puntual
+Toberin,Portal Norte,1.591,2,0,3.82,valle,fin_semana,0,3.48,puntual
+Toberin,Portal Norte,1.591,2,0,3.82,valle,habil,1,4.63,retraso_moderado
+Toberin,Portal Norte,1.591,2,0,3.82,valle,fin_semana,1,4.76,retraso_moderado
+Toberin,Portal Norte,1.591,2,0,3.82,pico_tarde,habil,1,6.36,retraso_alto
+Toberin,Portal Sur,27.36,13,2,81.25,pico_manana,habil,0,130.85,retraso_alto
+Toberin,Portal Sur,27.36,13,2,81.25,pico_manana,habil,0,104.01,retraso_moderado
+Toberin,Portal Sur,27.36,13,2,81.25,valle,habil,0,97.59,retraso_moderado
+Toberin,Portal Sur,27.36,13,2,81.25,noche,habil,0,89.01,puntual
+Toberin,Portal Sur,27.36,13,2,81.25,noche,habil,1,78.88,puntual
+Toberin,Portal Sur,27.36,13,2,81.25,noche,fin_semana,1,84.94,puntual
+Toberin,Portal Sur,27.36,13,2,81.25,pico_tarde,fin_semana,1,126.63,retraso_alto
+Toberin,Portal Sur,27.36,13,2,81.25,valle,habil,1,96.42,retraso_moderado
+Toberin,Restrepo,19.125,10,1,55.92,pico_manana,habil,1,95.07,retraso_alto
+Toberin,Restrepo,19.125,10,1,55.92,noche,fin_semana,1,61.66,puntual
+Toberin,Restrepo,19.125,10,1,55.92,pico_tarde,fin_semana,1,87.32,retraso_alto
+Toberin,Restrepo,19.125,10,1,55.92,pico_tarde,habil,1,111.87,retraso_alto
+Toberin,Restrepo,19.125,10,1,55.92,noche,habil,1,65.84,retraso_moderado
+Toberin,Restrepo,19.125,10,1,55.92,valle,fin_semana,0,58.55,puntual
+Toberin,Restrepo,19.125,10,1,55.92,pico_manana,fin_semana,0,68.18,retraso_moderado
+Toberin,Restrepo,19.125,10,1,55.92,noche,habil,0,61.68,puntual
+Toberin,Ricaurte,14.252,9,2,51.86,pico_tarde,fin_semana,0,71.54,retraso_moderado
+Toberin,Ricaurte,14.252,9,2,51.86,pico_tarde,fin_semana,0,74.56,retraso_alto
+Toberin,Ricaurte,14.252,9,2,51.86,valle,fin_semana,0,49.88,puntual
+Toberin,Ricaurte,14.252,9,2,51.86,pico_manana,fin_semana,0,68.78,retraso_moderado
+Toberin,Ricaurte,14.252,9,2,51.86,valle,habil,0,55.54,puntual
+Toberin,Ricaurte,14.252,9,2,51.86,pico_manana,fin_semana,0,84.4,retraso_alto
+Toberin,Ricaurte,14.252,9,2,51.86,pico_manana,fin_semana,0,69.99,retraso_moderado
+Toberin,Ricaurte,14.252,9,2,51.86,pico_tarde,fin_semana,0,71.62,retraso_moderado
+Toberin,Tercer Milenio,16.726,9,1,49.8,valle,fin_semana,0,45.52,puntual
+Toberin,Tercer Milenio,16.726,9,1,49.8,pico_manana,fin_semana,0,49.98,puntual
+Toberin,Tercer Milenio,16.726,9,1,49.8,pico_manana,habil,0,65.87,retraso_moderado
+Toberin,Tercer Milenio,16.726,9,1,49.8,pico_manana,fin_semana,0,60.94,retraso_moderado
+Toberin,Tercer Milenio,16.726,9,1,49.8,valle,fin_semana,0,48.32,puntual
+Toberin,Tercer Milenio,16.726,9,1,49.8,valle,habil,1,58.73,retraso_moderado
+Toberin,Tercer Milenio,16.726,9,1,49.8,valle,habil,1,52.41,puntual
+Toberin,Tercer Milenio,16.726,9,1,49.8,pico_tarde,fin_semana,0,65.02,retraso_moderado

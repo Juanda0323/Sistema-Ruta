@@ -1,0 +1,72 @@
+Registros: 2448
+Exactitud en prueba: 0.794
+Validacion cruzada (5 pliegues): 0.802 +/- 0.015
+
+Informe de clasificacion:
+                  precision    recall  f1-score   support
+
+         puntual       0.94      0.90      0.92       224
+    retraso_alto       0.68      0.88      0.77       124
+retraso_moderado       0.68      0.55      0.61       142
+
+        accuracy                           0.79       490
+       macro avg       0.77      0.78      0.77       490
+    weighted avg       0.80      0.79      0.79       490
+
+Reglas aprendidas:
+|--- franja_horaria_noche <= 0.50
+|   |--- franja_horaria_valle <= 0.50
+|   |   |--- lluvia <= 0.50
+|   |   |   |--- tipo_dia_fin_semana <= 0.50
+|   |   |   |   |--- class: retraso_alto
+|   |   |   |--- tipo_dia_fin_semana >  0.50
+|   |   |   |   |--- class: retraso_moderado
+|   |   |--- lluvia >  0.50
+|   |   |   |--- tipo_dia_fin_semana <= 0.50
+|   |   |   |   |--- class: retraso_alto
+|   |   |   |--- tipo_dia_fin_semana >  0.50
+|   |   |   |   |--- class: retraso_alto
+|   |--- franja_horaria_valle >  0.50
+|   |   |--- lluvia <= 0.50
+|   |   |   |--- tipo_dia_fin_semana <= 0.50
+|   |   |   |   |--- class: puntual
+|   |   |   |--- tipo_dia_fin_semana >  0.50
+|   |   |   |   |--- class: puntual
+|   |   |--- lluvia >  0.50
+|   |   |   |--- tipo_dia_habil <= 0.50
+|   |   |   |   |--- class: puntual
+|   |   |   |--- tipo_dia_habil >  0.50
+|   |   |   |   |--- class: retraso_moderado
+|--- franja_horaria_noche >  0.50
+|   |--- lluvia <= 0.50
+|   |   |--- num_estaciones <= 2.50
+|   |   |   |--- class: puntual
+|   |   |--- num_estaciones >  2.50
+|   |   |   |--- num_transbordos <= 1.50
+|   |   |   |   |--- class: puntual
+|   |   |   |--- num_transbordos >  1.50
+|   |   |   |   |--- class: puntual
+|   |--- lluvia >  0.50
+|   |   |--- tipo_dia_fin_semana <= 0.50
+|   |   |   |--- distancia_km <= 7.27
+|   |   |   |   |--- class: puntual
+|   |   |   |--- distancia_km >  7.27
+|   |   |   |   |--- class: retraso_moderado
+|   |   |--- tipo_dia_fin_semana >  0.50
+|   |   |   |--- num_transbordos <= 1.50
+|   |   |   |   |--- class: puntual
+|   |   |   |--- num_transbordos >  1.50
+|   |   |   |   |--- class: puntual
+
+Importancia de variables:
+franja_horaria_valle          0.412
+franja_horaria_noche          0.305
+lluvia                        0.160
+tipo_dia_fin_semana           0.085
+tipo_dia_habil                0.027
+distancia_km                  0.008
+num_transbordos               0.002
+num_estaciones                0.000
+tiempo_base_min               0.000
+franja_horaria_pico_manana    0.000
+franja_horaria_pico_tarde     0.000
