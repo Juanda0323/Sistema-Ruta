@@ -1,0 +1,60 @@
+Registros: 1080  |  Estaciones: 18
+
+--- Seleccion del numero de grupos (K-Means) ---
+k=2  inercia=   3011.6  silueta=0.602
+k=3  inercia=   1025.6  silueta=0.700
+k=4  inercia=    838.4  silueta=0.615
+k=5  inercia=    703.6  silueta=0.442
+k=6  inercia=    579.0  silueta=0.460
+k=7  inercia=    523.5  silueta=0.378
+k=8  inercia=    475.9  silueta=0.357
+
+k elegido (mayor silueta): 3
+
+--- Comparacion de metodos ---
+Silueta K-Means    : 0.700
+Silueta Jerarquico : 0.700
+Acuerdo entre ambos (ARI): 1.000
+
+Acuerdo de K-Means con el arquetipo simulado (ARI): 1.000
+(1.0 = coincidencia perfecta; 0 = agrupacion al azar)
+
+Tabla cruzada grupo vs arquetipo simulado:
+arquetipo_simulado  intermedia  terminal  transbordo
+grupo_kmeans                                        
+0                          540         0           0
+1                            0         0         300
+2                            0       240           0
+
+--- Perfil promedio de cada grupo ---
+grupo_kmeans                 0        1        2
+pasajeros_pico_manana  1533.56  5647.05  5637.70
+pasajeros_valle        1333.82  5857.28  2575.06
+pasajeros_pico_tarde   1896.45  6309.63  4210.75
+pasajeros_noche         801.16  2078.42  1398.36
+num_lineas                1.00     2.00     1.00
+num_conexiones            2.00     2.80     1.00
+proporcion_pico           0.62     0.60     0.71
+n_registros             540.00   300.00   240.00
+
+--- Grupo de cada estacion (el mas frecuente en sus 60 dias) ---
+                 grupo  pureza
+estacion                      
+Banderas             0     1.0
+Calle 100            0     1.0
+Calle 146            0     1.0
+Calle 72             0     1.0
+Heroes               0     1.0
+Molinos              0     1.0
+NQS Calle 30         0     1.0
+Ricaurte             0     1.0
+Toberin              0     1.0
+Av Jimenez           1     1.0
+Calle 85             1     1.0
+Polo                 1     1.0
+Restrepo             1     1.0
+Tercer Milenio       1     1.0
+Portal 80            2     1.0
+Portal Americas      2     1.0
+Portal Norte         2     1.0
+Portal Sur           2     1.0

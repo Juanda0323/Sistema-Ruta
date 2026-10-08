@@ -3,7 +3,7 @@
 Sistema desarrollado en Python que, a partir de una **base de conocimiento
 escrita en reglas lógicas**, determina la **mejor ruta** entre un punto A y
 un punto B en un sistema de transporte masivo, usando **búsqueda
-heurística (A\*)**.
+heurística (A\*)**
 
 ## Estructura del proyecto y su relación con la teoría
 

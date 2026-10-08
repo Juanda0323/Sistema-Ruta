@@ -1,0 +1,4 @@
+grupo_kmeans,pasajeros_pico_manana,pasajeros_valle,pasajeros_pico_tarde,pasajeros_noche,num_lineas,num_conexiones,proporcion_pico,n_registros
+0,1533.56,1333.82,1896.45,801.16,1.0,2.0,0.62,540
+1,5647.05,5857.28,6309.63,2078.42,2.0,2.8,0.6,300
+2,5637.7,2575.06,4210.75,1398.36,1.0,1.0,0.71,240
